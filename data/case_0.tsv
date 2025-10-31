@@ -1,0 +1,7000 @@
+0	of_type	outlet concentration measurement
+0	of_reactor	shock tube
+0	has_author	Author 84
+0	of_year	2003
+0	of_target	H2S
+0	has_similarity	S_0.8
+0	has_uncertainty	U_0.8
+1	of_type	burner stabilized flame speciation measurement
+1	of_reactor	flame
+1	has_author	Author 43
+1	of_year	1977
+1	of_target	CH4
+1	has_similarity	S_0.7
+1	has_uncertainty	U_0.7
+2	of_type	jet stirred reactor measurement
+2	of_reactor	shock tube
+2	has_author	Author 68
+2	of_year	1972
+2	of_target	IDT
+2	has_similarity	S_0.1
+2	has_uncertainty	U_0.1
+3	of_type	laminar burning velocity measurement
+3	of_reactor	flame
+3	has_author	Author 59
+3	of_year	1970
+3	of_target	C7H8
+3	has_similarity	S_0.5
+3	has_uncertainty	U_0.5
+4	of_type	ignition delay measurement
+4	of_reactor	rapid compression machine
+4	has_author	Author 74
+4	of_year	1990
+4	of_target	NH3
+4	has_similarity	S_0.6
+4	has_uncertainty	U_0.6
+5	of_type	outlet concentration measurement
+5	of_reactor	shock tube
+5	has_author	Author 87
+5	of_year	1980
+5	of_target	C0
+5	has_similarity	S_0.8
+5	has_uncertainty	U_0.8
+6	of_type	ignition delay measurement
+6	of_reactor	shock tube
+6	has_author	Author 40
+6	of_year	1970
+6	of_target	IDT
+6	has_similarity	S_0.1
+6	has_uncertainty	U_0.1
+7	of_type	concentration time profile measurement
+7	of_reactor	flow reactor
+7	has_author	Author 36
+7	of_year	2021
+7	of_target	C7H8
+7	has_similarity	S_1.0
+7	has_uncertainty	U_1.0
+8	of_type	outlet concentration measurement
+8	of_reactor	shock tube
+8	has_author	Author 44
+8	of_year	1984
+8	of_target	CH4
+8	has_similarity	S_0.6
+8	has_uncertainty	U_0.6
+9	of_type	jet stirred reactor measurement
+9	of_reactor	stirred reactor
+9	has_author	Author 61
+9	of_year	1961
+9	of_target	H2
+9	has_similarity	S_0.7
+9	has_uncertainty	U_0.7
+10	of_type	concentration time profile measurement
+10	of_reactor	stirred reactor
+10	has_author	Author 15
+10	of_year	1975
+10	of_target	CH3
+10	has_similarity	S_0.2
+10	has_uncertainty	U_0.2
+11	of_type	ignition delay measurement
+11	of_reactor	rapid compression machine
+11	has_author	Author 82
+11	of_year	2007
+11	of_target	H2S
+11	has_similarity	S_0.3
+11	has_uncertainty	U_0.3
+12	of_type	jet stirred reactor measurement
+12	of_reactor	stirred reactor
+12	has_author	Author 16
+12	of_year	2005
+12	of_target	C0
+12	has_similarity	S_0.0
+12	has_uncertainty	U_0.0
+13	of_type	concentration time profile measurement
+13	of_reactor	stirred reactor
+13	has_author	Author 58
+13	of_year	2001
+13	of_target	C6H6
+13	has_similarity	S_0.6
+13	has_uncertainty	U_0.6
+14	of_type	burner stabilized flame speciation measurement
+14	of_reactor	flame
+14	has_author	Author 12
+14	of_year	1998
+14	of_target	H2
+14	has_similarity	S_0.2
+14	has_uncertainty	U_0.2
+15	of_type	outlet concentration measurement
+15	of_reactor	stirred reactor
+15	has_author	Author 76
+15	of_year	2014
+15	of_target	C5H6
+15	has_similarity	S_0.6
+15	has_uncertainty	U_0.6
+16	of_type	ignition delay measurement
+16	of_reactor	rapid compression machine
+16	has_author	Author 18
+16	of_year	1996
+16	of_target	NH3
+16	has_similarity	S_0.8
+16	has_uncertainty	U_0.8
+17	of_type	concentration time profile measurement
+17	of_reactor	shock tube
+17	has_author	Author 4
+17	of_year	1982
+17	of_target	C5H6
+17	has_similarity	S_0.2
+17	has_uncertainty	U_0.2
+18	of_type	jet stirred reactor measurement
+18	of_reactor	flow reactor
+18	has_author	Author 88
+18	of_year	1965
+18	of_target	CH3
+18	has_similarity	S_0.3
+18	has_uncertainty	U_0.3
+19	of_type	laminar burning velocity measurement
+19	of_reactor	flame
+19	has_author	Author 78
+19	of_year	1971
+19	of_target	C7H8
+19	has_similarity	S_0.1
+19	has_uncertainty	U_0.1
+20	of_type	outlet concentration measurement
+20	of_reactor	stirred reactor
+20	has_author	Author 24
+20	of_year	1999
+20	of_target	H2
+20	has_similarity	S_0.4
+20	has_uncertainty	U_0.4
+21	of_type	jet stirred reactor measurement
+21	of_reactor	shock tube
+21	has_author	Author 84
+21	of_year	2000
+21	of_target	C0
+21	has_similarity	S_0.3
+21	has_uncertainty	U_0.3
+22	of_type	laminar burning velocity measurement
+22	of_reactor	flame
+22	has_author	Author 35
+22	of_year	1990
+22	of_target	H20
+22	has_similarity	S_0.9
+22	has_uncertainty	U_0.9
+23	of_type	laminar burning velocity measurement
+23	of_reactor	flame
+23	has_author	Author 60
+23	of_year	1967
+23	of_target	C6H6
+23	has_similarity	S_0.7
+23	has_uncertainty	U_0.7
+24	of_type	concentration time profile measurement
+24	of_reactor	stirred reactor
+24	has_author	Author 67
+24	of_year	1970
+24	of_target	C5H6
+24	has_similarity	S_0.3
+24	has_uncertainty	U_0.3
+25	of_type	outlet concentration measurement
+25	of_reactor	shock tube
+25	has_author	Author 33
+25	of_year	1952
+25	of_target	C0
+25	has_similarity	S_0.9
+25	has_uncertainty	U_0.9
+26	of_type	ignition delay measurement
+26	of_reactor	rapid compression machine
+26	has_author	Author 55
+26	of_year	1960
+26	of_target	H2
+26	has_similarity	S_0.3
+26	has_uncertainty	U_0.3
+27	of_type	burner stabilized flame speciation measurement
+27	of_reactor	flame
+27	has_author	Author 39
+27	of_year	1958
+27	of_target	H2
+27	has_similarity	S_0.3
+27	has_uncertainty	U_0.3
+28	of_type	laminar burning velocity measurement
+28	of_reactor	flame
+28	has_author	Author 55
+28	of_year	1951
+28	of_target	H20
+28	has_similarity	S_0.0
+28	has_uncertainty	U_0.0
+29	of_type	jet stirred reactor measurement
+29	of_reactor	flow reactor
+29	has_author	Author 37
+29	of_year	2015
+29	of_target	H2S
+29	has_similarity	S_0.4
+29	has_uncertainty	U_0.4
+30	of_type	jet stirred reactor measurement
+30	of_reactor	shock tube
+30	has_author	Author 23
+30	of_year	2013
+30	of_target	C7H8
+30	has_similarity	S_0.8
+30	has_uncertainty	U_0.8
+31	of_type	jet stirred reactor measurement
+31	of_reactor	stirred reactor
+31	has_author	Author 5
+31	of_year	2001
+31	of_target	CH4
+31	has_similarity	S_0.3
+31	has_uncertainty	U_0.3
+32	of_type	ignition delay measurement
+32	of_reactor	rapid compression machine
+32	has_author	Author 84
+32	of_year	2008
+32	of_target	H2S
+32	has_similarity	S_0.8
+32	has_uncertainty	U_0.8
+33	of_type	concentration time profile measurement
+33	of_reactor	stirred reactor
+33	has_author	Author 52
+33	of_year	2019
+33	of_target	NH3
+33	has_similarity	S_0.5
+33	has_uncertainty	U_0.5
+34	of_type	laminar burning velocity measurement
+34	of_reactor	flame
+34	has_author	Author 9
+34	of_year	2010
+34	of_target	CO2
+34	has_similarity	S_0.5
+34	has_uncertainty	U_0.5
+35	of_type	ignition delay measurement
+35	of_reactor	shock tube
+35	has_author	Author 69
+35	of_year	1988
+35	of_target	C5H6
+35	has_similarity	S_0.3
+35	has_uncertainty	U_0.3
+36	of_type	burner stabilized flame speciation measurement
+36	of_reactor	flame
+36	has_author	Author 54
+36	of_year	2010
+36	of_target	IDT
+36	has_similarity	S_0.6
+36	has_uncertainty	U_0.6
+37	of_type	jet stirred reactor measurement
+37	of_reactor	flow reactor
+37	has_author	Author 80
+37	of_year	1988
+37	of_target	C0
+37	has_similarity	S_0.5
+37	has_uncertainty	U_0.5
+38	of_type	outlet concentration measurement
+38	of_reactor	shock tube
+38	has_author	Author 45
+38	of_year	1989
+38	of_target	CH4
+38	has_similarity	S_0.4
+38	has_uncertainty	U_0.4
+39	of_type	concentration time profile measurement
+39	of_reactor	flow reactor
+39	has_author	Author 80
+39	of_year	1988
+39	of_target	C6H6
+39	has_similarity	S_0.8
+39	has_uncertainty	U_0.8
+40	of_type	ignition delay measurement
+40	of_reactor	rapid compression machine
+40	has_author	Author 86
+40	of_year	2025
+40	of_target	CH3
+40	has_similarity	S_0.7
+40	has_uncertainty	U_0.7
+41	of_type	concentration time profile measurement
+41	of_reactor	flow reactor
+41	has_author	Author 4
+41	of_year	1981
+41	of_target	H20
+41	has_similarity	S_0.5
+41	has_uncertainty	U_0.5
+42	of_type	outlet concentration measurement
+42	of_reactor	shock tube
+42	has_author	Author 85
+42	of_year	1967
+42	of_target	NH3
+42	has_similarity	S_0.9
+42	has_uncertainty	U_0.9
+43	of_type	outlet concentration measurement
+43	of_reactor	shock tube
+43	has_author	Author 90
+43	of_year	2013
+43	of_target	CH3
+43	has_similarity	S_0.7
+43	has_uncertainty	U_0.7
+44	of_type	jet stirred reactor measurement
+44	of_reactor	flow reactor
+44	has_author	Author 95
+44	of_year	1964
+44	of_target	H2
+44	has_similarity	S_0.3
+44	has_uncertainty	U_0.3
+45	of_type	concentration time profile measurement
+45	of_reactor	shock tube
+45	has_author	Author 52
+45	of_year	2019
+45	of_target	IDT
+45	has_similarity	S_0.7
+45	has_uncertainty	U_0.7
+46	of_type	jet stirred reactor measurement
+46	of_reactor	shock tube
+46	has_author	Author 32
+46	of_year	2018
+46	of_target	NH3
+46	has_similarity	S_0.7
+46	has_uncertainty	U_0.7
+47	of_type	burner stabilized flame speciation measurement
+47	of_reactor	flame
+47	has_author	Author 54
+47	of_year	2010
+47	of_target	C5H6
+47	has_similarity	S_0.9
+47	has_uncertainty	U_0.9
+48	of_type	ignition delay measurement
+48	of_reactor	shock tube
+48	has_author	Author 87
+48	of_year	1981
+48	of_target	IDT
+48	has_similarity	S_0.6
+48	has_uncertainty	U_0.6
+49	of_type	jet stirred reactor measurement
+49	of_reactor	stirred reactor
+49	has_author	Author 30
+49	of_year	1966
+49	of_target	CO2
+49	has_similarity	S_0.6
+49	has_uncertainty	U_0.6
+50	of_type	ignition delay measurement
+50	of_reactor	shock tube
+50	has_author	Author 3
+50	of_year	1972
+50	of_target	H2S
+50	has_similarity	S_0.7
+50	has_uncertainty	U_0.7
+51	of_type	laminar burning velocity measurement
+51	of_reactor	flame
+51	has_author	Author 16
+51	of_year	2003
+51	of_target	IDT
+51	has_similarity	S_0.4
+51	has_uncertainty	U_0.4
+52	of_type	laminar burning velocity measurement
+52	of_reactor	flame
+52	has_author	Author 99
+52	of_year	1960
+52	of_target	NH3
+52	has_similarity	S_0.4
+52	has_uncertainty	U_0.4
+53	of_type	ignition delay measurement
+53	of_reactor	rapid compression machine
+53	has_author	Author 83
+53	of_year	1953
+53	of_target	C0
+53	has_similarity	S_0.2
+53	has_uncertainty	U_0.2
+54	of_type	concentration time profile measurement
+54	of_reactor	shock tube
+54	has_author	Author 59
+54	of_year	1971
+54	of_target	CH4
+54	has_similarity	S_0.8
+54	has_uncertainty	U_0.8
+55	of_type	ignition delay measurement
+55	of_reactor	rapid compression machine
+55	has_author	Author 4
+55	of_year	1984
+55	of_target	CH3
+55	has_similarity	S_0.5
+55	has_uncertainty	U_0.5
+56	of_type	concentration time profile measurement
+56	of_reactor	shock tube
+56	has_author	Author 97
+56	of_year	1970
+56	of_target	C5H6
+56	has_similarity	S_0.4
+56	has_uncertainty	U_0.4
+57	of_type	burner stabilized flame speciation measurement
+57	of_reactor	flame
+57	has_author	Author 25
+57	of_year	2012
+57	of_target	CH4
+57	has_similarity	S_0.9
+57	has_uncertainty	U_0.9
+58	of_type	concentration time profile measurement
+58	of_reactor	flow reactor
+58	has_author	Author 23
+58	of_year	2014
+58	of_target	C7H8
+58	has_similarity	S_0.5
+58	has_uncertainty	U_0.5
+59	of_type	laminar burning velocity measurement
+59	of_reactor	flame
+59	has_author	Author 37
+59	of_year	2011
+59	of_target	CH4
+59	has_similarity	S_0.8
+59	has_uncertainty	U_0.8
+60	of_type	outlet concentration measurement
+60	of_reactor	stirred reactor
+60	has_author	Author 26
+60	of_year	1995
+60	of_target	H2S
+60	has_similarity	S_0.8
+60	has_uncertainty	U_0.8
+61	of_type	laminar burning velocity measurement
+61	of_reactor	flame
+61	has_author	Author 55
+61	of_year	1957
+61	of_target	C7H8
+61	has_similarity	S_0.5
+61	has_uncertainty	U_0.5
+62	of_type	laminar burning velocity measurement
+62	of_reactor	flame
+62	has_author	Author 73
+62	of_year	1976
+62	of_target	C7H8
+62	has_similarity	S_0.5
+62	has_uncertainty	U_0.5
+63	of_type	jet stirred reactor measurement
+63	of_reactor	flow reactor
+63	has_author	Author 20
+63	of_year	1971
+63	of_target	C7H8
+63	has_similarity	S_0.8
+63	has_uncertainty	U_0.8
+64	of_type	ignition delay measurement
+64	of_reactor	shock tube
+64	has_author	Author 87
+64	of_year	1985
+64	of_target	C6H6
+64	has_similarity	S_0.2
+64	has_uncertainty	U_0.2
+65	of_type	outlet concentration measurement
+65	of_reactor	shock tube
+65	has_author	Author 20
+65	of_year	1974
+65	of_target	NH3
+65	has_similarity	S_0.1
+65	has_uncertainty	U_0.1
+66	of_type	burner stabilized flame speciation measurement
+66	of_reactor	flame
+66	has_author	Author 15
+66	of_year	1973
+66	of_target	C5H6
+66	has_similarity	S_0.2
+66	has_uncertainty	U_0.2
+67	of_type	burner stabilized flame speciation measurement
+67	of_reactor	flame
+67	has_author	Author 42
+67	of_year	1971
+67	of_target	IDT
+67	has_similarity	S_0.6
+67	has_uncertainty	U_0.6
+68	of_type	concentration time profile measurement
+68	of_reactor	shock tube
+68	has_author	Author 89
+68	of_year	1980
+68	of_target	CH4
+68	has_similarity	S_1.0
+68	has_uncertainty	U_1.0
+69	of_type	ignition delay measurement
+69	of_reactor	rapid compression machine
+69	has_author	Author 95
+69	of_year	1962
+69	of_target	IDT
+69	has_similarity	S_0.7
+69	has_uncertainty	U_0.7
+70	of_type	ignition delay measurement
+70	of_reactor	shock tube
+70	has_author	Author 77
+70	of_year	2020
+70	of_target	C5H6
+70	has_similarity	S_0.8
+70	has_uncertainty	U_0.8
+71	of_type	concentration time profile measurement
+71	of_reactor	shock tube
+71	has_author	Author 55
+71	of_year	1951
+71	of_target	NH3
+71	has_similarity	S_0.3
+71	has_uncertainty	U_0.3
+72	of_type	outlet concentration measurement
+72	of_reactor	stirred reactor
+72	has_author	Author 59
+72	of_year	1976
+72	of_target	CH4
+72	has_similarity	S_1.0
+72	has_uncertainty	U_1.0
+73	of_type	burner stabilized flame speciation measurement
+73	of_reactor	flame
+73	has_author	Author 90
+73	of_year	2012
+73	of_target	H2
+73	has_similarity	S_0.8
+73	has_uncertainty	U_0.8
+74	of_type	ignition delay measurement
+74	of_reactor	rapid compression machine
+74	has_author	Author 93
+74	of_year	2009
+74	of_target	H2S
+74	has_similarity	S_0.0
+74	has_uncertainty	U_0.0
+75	of_type	ignition delay measurement
+75	of_reactor	rapid compression machine
+75	has_author	Author 52
+75	of_year	2017
+75	of_target	IDT
+75	has_similarity	S_0.7
+75	has_uncertainty	U_0.7
+76	of_type	ignition delay measurement
+76	of_reactor	rapid compression machine
+76	has_author	Author 43
+76	of_year	1972
+76	of_target	CH4
+76	has_similarity	S_0.2
+76	has_uncertainty	U_0.2
+77	of_type	jet stirred reactor measurement
+77	of_reactor	shock tube
+77	has_author	Author 38
+77	of_year	2020
+77	of_target	C6H6
+77	has_similarity	S_0.2
+77	has_uncertainty	U_0.2
+78	of_type	laminar burning velocity measurement
+78	of_reactor	flame
+78	has_author	Author 94
+78	of_year	1978
+78	of_target	C6H6
+78	has_similarity	S_0.2
+78	has_uncertainty	U_0.2
+79	of_type	outlet concentration measurement
+79	of_reactor	flow reactor
+79	has_author	Author 62
+79	of_year	1998
+79	of_target	C5H6
+79	has_similarity	S_0.6
+79	has_uncertainty	U_0.6
+80	of_type	outlet concentration measurement
+80	of_reactor	shock tube
+80	has_author	Author 93
+80	of_year	2004
+80	of_target	C7H8
+80	has_similarity	S_0.6
+80	has_uncertainty	U_0.6
+81	of_type	jet stirred reactor measurement
+81	of_reactor	flow reactor
+81	has_author	Author 81
+81	of_year	2020
+81	of_target	C7H8
+81	has_similarity	S_0.4
+81	has_uncertainty	U_0.4
+82	of_type	outlet concentration measurement
+82	of_reactor	flow reactor
+82	has_author	Author 73
+82	of_year	1976
+82	of_target	H2
+82	has_similarity	S_0.4
+82	has_uncertainty	U_0.4
+83	of_type	ignition delay measurement
+83	of_reactor	rapid compression machine
+83	has_author	Author 5
+83	of_year	2010
+83	of_target	CO2
+83	has_similarity	S_1.0
+83	has_uncertainty	U_1.0
+84	of_type	ignition delay measurement
+84	of_reactor	shock tube
+84	has_author	Author 80
+84	of_year	1980
+84	of_target	NH3
+84	has_similarity	S_1.0
+84	has_uncertainty	U_1.0
+85	of_type	outlet concentration measurement
+85	of_reactor	flow reactor
+85	has_author	Author 94
+85	of_year	1974
+85	of_target	NH3
+85	has_similarity	S_0.8
+85	has_uncertainty	U_0.8
+86	of_type	concentration time profile measurement
+86	of_reactor	stirred reactor
+86	has_author	Author 61
+86	of_year	1968
+86	of_target	C0
+86	has_similarity	S_0.2
+86	has_uncertainty	U_0.2
+87	of_type	outlet concentration measurement
+87	of_reactor	flow reactor
+87	has_author	Author 8
+87	of_year	1966
+87	of_target	C7H8
+87	has_similarity	S_0.9
+87	has_uncertainty	U_0.9
+88	of_type	laminar burning velocity measurement
+88	of_reactor	flame
+88	has_author	Author 84
+88	of_year	2009
+88	of_target	C6H6
+88	has_similarity	S_0.6
+88	has_uncertainty	U_0.6
+89	of_type	outlet concentration measurement
+89	of_reactor	stirred reactor
+89	has_author	Author 87
+89	of_year	1983
+89	of_target	H2S
+89	has_similarity	S_1.0
+89	has_uncertainty	U_1.0
+90	of_type	concentration time profile measurement
+90	of_reactor	flow reactor
+90	has_author	Author 36
+90	of_year	2030
+90	of_target	H2S
+90	has_similarity	S_0.5
+90	has_uncertainty	U_0.5
+91	of_type	laminar burning velocity measurement
+91	of_reactor	flame
+91	has_author	Author 84
+91	of_year	2004
+91	of_target	CH3
+91	has_similarity	S_0.3
+91	has_uncertainty	U_0.3
+92	of_type	ignition delay measurement
+92	of_reactor	shock tube
+92	has_author	Author 28
+92	of_year	2009
+92	of_target	CH4
+92	has_similarity	S_0.6
+92	has_uncertainty	U_0.6
+93	of_type	jet stirred reactor measurement
+93	of_reactor	shock tube
+93	has_author	Author 95
+93	of_year	1961
+93	of_target	CH4
+93	has_similarity	S_0.8
+93	has_uncertainty	U_0.8
+94	of_type	outlet concentration measurement
+94	of_reactor	shock tube
+94	has_author	Author 75
+94	of_year	1965
+94	of_target	CO2
+94	has_similarity	S_0.8
+94	has_uncertainty	U_0.8
+95	of_type	laminar burning velocity measurement
+95	of_reactor	flame
+95	has_author	Author 37
+95	of_year	2015
+95	of_target	NH3
+95	has_similarity	S_1.0
+95	has_uncertainty	U_1.0
+96	of_type	burner stabilized flame speciation measurement
+96	of_reactor	flame
+96	has_author	Author 5
+96	of_year	2010
+96	of_target	H20
+96	has_similarity	S_1.0
+96	has_uncertainty	U_1.0
+97	of_type	ignition delay measurement
+97	of_reactor	rapid compression machine
+97	has_author	Author 26
+97	of_year	1990
+97	of_target	NH3
+97	has_similarity	S_0.3
+97	has_uncertainty	U_0.3
+98	of_type	ignition delay measurement
+98	of_reactor	rapid compression machine
+98	has_author	Author 26
+98	of_year	1999
+98	of_target	H2S
+98	has_similarity	S_0.6
+98	has_uncertainty	U_0.6
+99	of_type	concentration time profile measurement
+99	of_reactor	stirred reactor
+99	has_author	Author 95
+99	of_year	1964
+99	of_target	IDT
+99	has_similarity	S_0.6
+99	has_uncertainty	U_0.6
+100	of_type	ignition delay measurement
+100	of_reactor	shock tube
+100	has_author	Author 29
+100	of_year	2016
+100	of_target	H20
+100	has_similarity	S_0.5
+100	has_uncertainty	U_0.5
+101	of_type	laminar burning velocity measurement
+101	of_reactor	flame
+101	has_author	Author 68
+101	of_year	1974
+101	of_target	C5H6
+101	has_similarity	S_0.2
+101	has_uncertainty	U_0.2
+102	of_type	ignition delay measurement
+102	of_reactor	rapid compression machine
+102	has_author	Author 71
+102	of_year	1957
+102	of_target	H2
+102	has_similarity	S_0.0
+102	has_uncertainty	U_0.0
+103	of_type	jet stirred reactor measurement
+103	of_reactor	flow reactor
+103	has_author	Author 86
+103	of_year	2023
+103	of_target	CO2
+103	has_similarity	S_0.8
+103	has_uncertainty	U_0.8
+104	of_type	burner stabilized flame speciation measurement
+104	of_reactor	flame
+104	has_author	Author 99
+104	of_year	1970
+104	of_target	C5H6
+104	has_similarity	S_0.1
+104	has_uncertainty	U_0.1
+105	of_type	burner stabilized flame speciation measurement
+105	of_reactor	flame
+105	has_author	Author 42
+105	of_year	1970
+105	of_target	H20
+105	has_similarity	S_0.8
+105	has_uncertainty	U_0.8
+106	of_type	jet stirred reactor measurement
+106	of_reactor	stirred reactor
+106	has_author	Author 10
+106	of_year	2018
+106	of_target	IDT
+106	has_similarity	S_1.0
+106	has_uncertainty	U_1.0
+107	of_type	concentration time profile measurement
+107	of_reactor	shock tube
+107	has_author	Author 99
+107	of_year	1965
+107	of_target	H2S
+107	has_similarity	S_0.6
+107	has_uncertainty	U_0.6
+108	of_type	ignition delay measurement
+108	of_reactor	rapid compression machine
+108	has_author	Author 36
+108	of_year	2030
+108	of_target	CH3
+108	has_similarity	S_0.1
+108	has_uncertainty	U_0.1
+109	of_type	ignition delay measurement
+109	of_reactor	shock tube
+109	has_author	Author 16
+109	of_year	2005
+109	of_target	NH3
+109	has_similarity	S_0.3
+109	has_uncertainty	U_0.3
+110	of_type	jet stirred reactor measurement
+110	of_reactor	shock tube
+110	has_author	Author 37
+110	of_year	2018
+110	of_target	CH4
+110	has_similarity	S_0.2
+110	has_uncertainty	U_0.2
+111	of_type	outlet concentration measurement
+111	of_reactor	shock tube
+111	has_author	Author 12
+111	of_year	1993
+111	of_target	NH3
+111	has_similarity	S_0.6
+111	has_uncertainty	U_0.6
+112	of_type	laminar burning velocity measurement
+112	of_reactor	flame
+112	has_author	Author 62
+112	of_year	1996
+112	of_target	H2
+112	has_similarity	S_0.4
+112	has_uncertainty	U_0.4
+113	of_type	burner stabilized flame speciation measurement
+113	of_reactor	flame
+113	has_author	Author 99
+113	of_year	1970
+113	of_target	IDT
+113	has_similarity	S_0.5
+113	has_uncertainty	U_0.5
+114	of_type	burner stabilized flame speciation measurement
+114	of_reactor	flame
+114	has_author	Author 45
+114	of_year	1984
+114	of_target	C7H8
+114	has_similarity	S_0.2
+114	has_uncertainty	U_0.2
+115	of_type	laminar burning velocity measurement
+115	of_reactor	flame
+115	has_author	Author 13
+115	of_year	1986
+115	of_target	CO2
+115	has_similarity	S_0.4
+115	has_uncertainty	U_0.4
+116	of_type	jet stirred reactor measurement
+116	of_reactor	flow reactor
+116	has_author	Author 32
+116	of_year	2011
+116	of_target	CO2
+116	has_similarity	S_0.9
+116	has_uncertainty	U_0.9
+117	of_type	laminar burning velocity measurement
+117	of_reactor	flame
+117	has_author	Author 41
+117	of_year	2022
+117	of_target	CO2
+117	has_similarity	S_0.5
+117	has_uncertainty	U_0.5
+118	of_type	laminar burning velocity measurement
+118	of_reactor	flame
+118	has_author	Author 89
+118	of_year	1983
+118	of_target	C6H6
+118	has_similarity	S_0.4
+118	has_uncertainty	U_0.4
+119	of_type	burner stabilized flame speciation measurement
+119	of_reactor	flame
+119	has_author	Author 41
+119	of_year	2024
+119	of_target	C7H8
+119	has_similarity	S_0.7
+119	has_uncertainty	U_0.7
+120	of_type	outlet concentration measurement
+120	of_reactor	shock tube
+120	has_author	Author 84
+120	of_year	2006
+120	of_target	IDT
+120	has_similarity	S_0.8
+120	has_uncertainty	U_0.8
+121	of_type	burner stabilized flame speciation measurement
+121	of_reactor	flame
+121	has_author	Author 69
+121	of_year	1982
+121	of_target	C7H8
+121	has_similarity	S_0.1
+121	has_uncertainty	U_0.1
+122	of_type	burner stabilized flame speciation measurement
+122	of_reactor	flame
+122	has_author	Author 88
+122	of_year	1960
+122	of_target	C5H6
+122	has_similarity	S_0.0
+122	has_uncertainty	U_0.0
+123	of_type	ignition delay measurement
+123	of_reactor	shock tube
+123	has_author	Author 76
+123	of_year	2014
+123	of_target	C6H6
+123	has_similarity	S_0.7
+123	has_uncertainty	U_0.7
+124	of_type	ignition delay measurement
+124	of_reactor	rapid compression machine
+124	has_author	Author 60
+124	of_year	1969
+124	of_target	CO2
+124	has_similarity	S_0.5
+124	has_uncertainty	U_0.5
+125	of_type	laminar burning velocity measurement
+125	of_reactor	flame
+125	has_author	Author 9
+125	of_year	2017
+125	of_target	CO2
+125	has_similarity	S_0.1
+125	has_uncertainty	U_0.1
+126	of_type	laminar burning velocity measurement
+126	of_reactor	flame
+126	has_author	Author 71
+126	of_year	1955
+126	of_target	IDT
+126	has_similarity	S_0.3
+126	has_uncertainty	U_0.3
+127	of_type	outlet concentration measurement
+127	of_reactor	flow reactor
+127	has_author	Author 59
+127	of_year	1974
+127	of_target	H2
+127	has_similarity	S_0.1
+127	has_uncertainty	U_0.1
+128	of_type	ignition delay measurement
+128	of_reactor	shock tube
+128	has_author	Author 21
+128	of_year	1956
+128	of_target	C7H8
+128	has_similarity	S_0.6
+128	has_uncertainty	U_0.6
+129	of_type	ignition delay measurement
+129	of_reactor	shock tube
+129	has_author	Author 45
+129	of_year	1981
+129	of_target	H2
+129	has_similarity	S_0.6
+129	has_uncertainty	U_0.6
+130	of_type	ignition delay measurement
+130	of_reactor	rapid compression machine
+130	has_author	Author 41
+130	of_year	2026
+130	of_target	C6H6
+130	has_similarity	S_0.2
+130	has_uncertainty	U_0.2
+131	of_type	laminar burning velocity measurement
+131	of_reactor	flame
+131	has_author	Author 76
+131	of_year	2018
+131	of_target	C5H6
+131	has_similarity	S_0.8
+131	has_uncertainty	U_0.8
+132	of_type	outlet concentration measurement
+132	of_reactor	shock tube
+132	has_author	Author 79
+132	of_year	1970
+132	of_target	CO2
+132	has_similarity	S_0.4
+132	has_uncertainty	U_0.4
+133	of_type	laminar burning velocity measurement
+133	of_reactor	flame
+133	has_author	Author 33
+133	of_year	1952
+133	of_target	IDT
+133	has_similarity	S_0.9
+133	has_uncertainty	U_0.9
+134	of_type	ignition delay measurement
+134	of_reactor	rapid compression machine
+134	has_author	Author 44
+134	of_year	1989
+134	of_target	CO2
+134	has_similarity	S_0.7
+134	has_uncertainty	U_0.7
+135	of_type	laminar burning velocity measurement
+135	of_reactor	flame
+135	has_author	Author 66
+135	of_year	2020
+135	of_target	H2S
+135	has_similarity	S_0.7
+135	has_uncertainty	U_0.7
+136	of_type	ignition delay measurement
+136	of_reactor	rapid compression machine
+136	has_author	Author 53
+136	of_year	1972
+136	of_target	IDT
+136	has_similarity	S_0.6
+136	has_uncertainty	U_0.6
+137	of_type	outlet concentration measurement
+137	of_reactor	shock tube
+137	has_author	Author 73
+137	of_year	1973
+137	of_target	IDT
+137	has_similarity	S_0.6
+137	has_uncertainty	U_0.6
+138	of_type	jet stirred reactor measurement
+138	of_reactor	stirred reactor
+138	has_author	Author 95
+138	of_year	1964
+138	of_target	CH4
+138	has_similarity	S_0.6
+138	has_uncertainty	U_0.6
+139	of_type	outlet concentration measurement
+139	of_reactor	shock tube
+139	has_author	Author 22
+139	of_year	2028
+139	of_target	CH4
+139	has_similarity	S_0.8
+139	has_uncertainty	U_0.8
+140	of_type	ignition delay measurement
+140	of_reactor	rapid compression machine
+140	has_author	Author 57
+140	of_year	1992
+140	of_target	NH3
+140	has_similarity	S_0.3
+140	has_uncertainty	U_0.3
+141	of_type	ignition delay measurement
+141	of_reactor	rapid compression machine
+141	has_author	Author 91
+141	of_year	2024
+141	of_target	C5H6
+141	has_similarity	S_0.2
+141	has_uncertainty	U_0.2
+142	of_type	laminar burning velocity measurement
+142	of_reactor	flame
+142	has_author	Author 73
+142	of_year	1978
+142	of_target	CO2
+142	has_similarity	S_0.8
+142	has_uncertainty	U_0.8
+143	of_type	burner stabilized flame speciation measurement
+143	of_reactor	flame
+143	has_author	Author 14
+143	of_year	2021
+143	of_target	NH3
+143	has_similarity	S_0.9
+143	has_uncertainty	U_0.9
+144	of_type	laminar burning velocity measurement
+144	of_reactor	flame
+144	has_author	Author 95
+144	of_year	1969
+144	of_target	H20
+144	has_similarity	S_0.2
+144	has_uncertainty	U_0.2
+145	of_type	jet stirred reactor measurement
+145	of_reactor	stirred reactor
+145	has_author	Author 36
+145	of_year	2025
+145	of_target	C6H6
+145	has_similarity	S_0.5
+145	has_uncertainty	U_0.5
+146	of_type	jet stirred reactor measurement
+146	of_reactor	stirred reactor
+146	has_author	Author 47
+146	of_year	1974
+146	of_target	NH3
+146	has_similarity	S_0.7
+146	has_uncertainty	U_0.7
+147	of_type	concentration time profile measurement
+147	of_reactor	shock tube
+147	has_author	Author 53
+147	of_year	1977
+147	of_target	H2
+147	has_similarity	S_0.2
+147	has_uncertainty	U_0.2
+148	of_type	laminar burning velocity measurement
+148	of_reactor	flame
+148	has_author	Author 55
+148	of_year	1950
+148	of_target	CO2
+148	has_similarity	S_0.0
+148	has_uncertainty	U_0.0
+149	of_type	ignition delay measurement
+149	of_reactor	shock tube
+149	has_author	Author 73
+149	of_year	1976
+149	of_target	CO2
+149	has_similarity	S_0.0
+149	has_uncertainty	U_0.0
+150	of_type	ignition delay measurement
+150	of_reactor	shock tube
+150	has_author	Author 90
+150	of_year	2019
+150	of_target	H2S
+150	has_similarity	S_0.5
+150	has_uncertainty	U_0.5
+151	of_type	jet stirred reactor measurement
+151	of_reactor	shock tube
+151	has_author	Author 38
+151	of_year	2015
+151	of_target	CO2
+151	has_similarity	S_0.5
+151	has_uncertainty	U_0.5
+152	of_type	ignition delay measurement
+152	of_reactor	rapid compression machine
+152	has_author	Author 13
+152	of_year	1987
+152	of_target	CO2
+152	has_similarity	S_0.1
+152	has_uncertainty	U_0.1
+153	of_type	ignition delay measurement
+153	of_reactor	rapid compression machine
+153	has_author	Author 81
+153	of_year	2015
+153	of_target	H2
+153	has_similarity	S_0.7
+153	has_uncertainty	U_0.7
+154	of_type	outlet concentration measurement
+154	of_reactor	stirred reactor
+154	has_author	Author 10
+154	of_year	2017
+154	of_target	CH4
+154	has_similarity	S_0.8
+154	has_uncertainty	U_0.8
+155	of_type	concentration time profile measurement
+155	of_reactor	shock tube
+155	has_author	Author 58
+155	of_year	2000
+155	of_target	H2
+155	has_similarity	S_0.4
+155	has_uncertainty	U_0.4
+156	of_type	laminar burning velocity measurement
+156	of_reactor	flame
+156	has_author	Author 8
+156	of_year	1969
+156	of_target	CH4
+156	has_similarity	S_0.5
+156	has_uncertainty	U_0.5
+157	of_type	burner stabilized flame speciation measurement
+157	of_reactor	flame
+157	has_author	Author 23
+157	of_year	2018
+157	of_target	H2S
+157	has_similarity	S_0.4
+157	has_uncertainty	U_0.4
+158	of_type	laminar burning velocity measurement
+158	of_reactor	flame
+158	has_author	Author 26
+158	of_year	1995
+158	of_target	C5H6
+158	has_similarity	S_0.2
+158	has_uncertainty	U_0.2
+159	of_type	laminar burning velocity measurement
+159	of_reactor	flame
+159	has_author	Author 92
+159	of_year	2010
+159	of_target	H2S
+159	has_similarity	S_0.7
+159	has_uncertainty	U_0.7
+160	of_type	jet stirred reactor measurement
+160	of_reactor	stirred reactor
+160	has_author	Author 5
+160	of_year	2001
+160	of_target	H2S
+160	has_similarity	S_0.8
+160	has_uncertainty	U_0.8
+161	of_type	concentration time profile measurement
+161	of_reactor	stirred reactor
+161	has_author	Author 31
+161	of_year	2027
+161	of_target	CO2
+161	has_similarity	S_0.1
+161	has_uncertainty	U_0.1
+162	of_type	ignition delay measurement
+162	of_reactor	shock tube
+162	has_author	Author 34
+162	of_year	2017
+162	of_target	CH3
+162	has_similarity	S_1.0
+162	has_uncertainty	U_1.0
+163	of_type	outlet concentration measurement
+163	of_reactor	shock tube
+163	has_author	Author 32
+163	of_year	2012
+163	of_target	CH4
+163	has_similarity	S_0.5
+163	has_uncertainty	U_0.5
+164	of_type	burner stabilized flame speciation measurement
+164	of_reactor	flame
+164	has_author	Author 58
+164	of_year	2004
+164	of_target	C5H6
+164	has_similarity	S_0.7
+164	has_uncertainty	U_0.7
+165	of_type	concentration time profile measurement
+165	of_reactor	flow reactor
+165	has_author	Author 58
+165	of_year	2007
+165	of_target	CO2
+165	has_similarity	S_0.2
+165	has_uncertainty	U_0.2
+166	of_type	jet stirred reactor measurement
+166	of_reactor	flow reactor
+166	has_author	Author 76
+166	of_year	2012
+166	of_target	NH3
+166	has_similarity	S_1.0
+166	has_uncertainty	U_1.0
+167	of_type	outlet concentration measurement
+167	of_reactor	flow reactor
+167	has_author	Author 52
+167	of_year	2010
+167	of_target	C5H6
+167	has_similarity	S_0.5
+167	has_uncertainty	U_0.5
+168	of_type	concentration time profile measurement
+168	of_reactor	shock tube
+168	has_author	Author 56
+168	of_year	2012
+168	of_target	NH3
+168	has_similarity	S_0.6
+168	has_uncertainty	U_0.6
+169	of_type	laminar burning velocity measurement
+169	of_reactor	flame
+169	has_author	Author 63
+169	of_year	1951
+169	of_target	C7H8
+169	has_similarity	S_0.6
+169	has_uncertainty	U_0.6
+170	of_type	ignition delay measurement
+170	of_reactor	rapid compression machine
+170	has_author	Author 72
+170	of_year	1957
+170	of_target	C0
+170	has_similarity	S_0.2
+170	has_uncertainty	U_0.2
+171	of_type	jet stirred reactor measurement
+171	of_reactor	stirred reactor
+171	has_author	Author 20
+171	of_year	1980
+171	of_target	H2S
+171	has_similarity	S_0.3
+171	has_uncertainty	U_0.3
+172	of_type	laminar burning velocity measurement
+172	of_reactor	flame
+172	has_author	Author 77
+172	of_year	2030
+172	of_target	H2
+172	has_similarity	S_0.7
+172	has_uncertainty	U_0.7
+173	of_type	concentration time profile measurement
+173	of_reactor	flow reactor
+173	has_author	Author 61
+173	of_year	1968
+173	of_target	C5H6
+173	has_similarity	S_0.8
+173	has_uncertainty	U_0.8
+174	of_type	concentration time profile measurement
+174	of_reactor	shock tube
+174	has_author	Author 98
+174	of_year	2025
+174	of_target	C6H6
+174	has_similarity	S_0.5
+174	has_uncertainty	U_0.5
+175	of_type	jet stirred reactor measurement
+175	of_reactor	stirred reactor
+175	has_author	Author 59
+175	of_year	1975
+175	of_target	H2
+175	has_similarity	S_0.8
+175	has_uncertainty	U_0.8
+176	of_type	ignition delay measurement
+176	of_reactor	shock tube
+176	has_author	Author 15
+176	of_year	1979
+176	of_target	C0
+176	has_similarity	S_0.7
+176	has_uncertainty	U_0.7
+177	of_type	outlet concentration measurement
+177	of_reactor	shock tube
+177	has_author	Author 83
+177	of_year	1954
+177	of_target	H20
+177	has_similarity	S_0.8
+177	has_uncertainty	U_0.8
+178	of_type	concentration time profile measurement
+178	of_reactor	shock tube
+178	has_author	Author 17
+178	of_year	2030
+178	of_target	NH3
+178	has_similarity	S_0.5
+178	has_uncertainty	U_0.5
+179	of_type	laminar burning velocity measurement
+179	of_reactor	flame
+179	has_author	Author 98
+179	of_year	2028
+179	of_target	C7H8
+179	has_similarity	S_0.2
+179	has_uncertainty	U_0.2
+180	of_type	outlet concentration measurement
+180	of_reactor	flow reactor
+180	has_author	Author 73
+180	of_year	1975
+180	of_target	NH3
+180	has_similarity	S_0.7
+180	has_uncertainty	U_0.7
+181	of_type	outlet concentration measurement
+181	of_reactor	stirred reactor
+181	has_author	Author 41
+181	of_year	2028
+181	of_target	C0
+181	has_similarity	S_0.0
+181	has_uncertainty	U_0.0
+182	of_type	burner stabilized flame speciation measurement
+182	of_reactor	flame
+182	has_author	Author 8
+182	of_year	1961
+182	of_target	C6H6
+182	has_similarity	S_0.7
+182	has_uncertainty	U_0.7
+183	of_type	concentration time profile measurement
+183	of_reactor	shock tube
+183	has_author	Author 60
+183	of_year	1967
+183	of_target	IDT
+183	has_similarity	S_0.7
+183	has_uncertainty	U_0.7
+184	of_type	laminar burning velocity measurement
+184	of_reactor	flame
+184	has_author	Author 54
+184	of_year	2013
+184	of_target	C0
+184	has_similarity	S_0.1
+184	has_uncertainty	U_0.1
+185	of_type	jet stirred reactor measurement
+185	of_reactor	stirred reactor
+185	has_author	Author 52
+185	of_year	2011
+185	of_target	H2
+185	has_similarity	S_0.4
+185	has_uncertainty	U_0.4
+186	of_type	outlet concentration measurement
+186	of_reactor	flow reactor
+186	has_author	Author 0
+186	of_year	1982
+186	of_target	CH4
+186	has_similarity	S_0.3
+186	has_uncertainty	U_0.3
+187	of_type	concentration time profile measurement
+187	of_reactor	shock tube
+187	has_author	Author 44
+187	of_year	1986
+187	of_target	C6H6
+187	has_similarity	S_0.3
+187	has_uncertainty	U_0.3
+188	of_type	outlet concentration measurement
+188	of_reactor	shock tube
+188	has_author	Author 33
+188	of_year	1957
+188	of_target	IDT
+188	has_similarity	S_0.6
+188	has_uncertainty	U_0.6
+189	of_type	outlet concentration measurement
+189	of_reactor	stirred reactor
+189	has_author	Author 88
+189	of_year	1969
+189	of_target	C6H6
+189	has_similarity	S_0.6
+189	has_uncertainty	U_0.6
+190	of_type	outlet concentration measurement
+190	of_reactor	flow reactor
+190	has_author	Author 82
+190	of_year	2007
+190	of_target	CH4
+190	has_similarity	S_0.2
+190	has_uncertainty	U_0.2
+191	of_type	concentration time profile measurement
+191	of_reactor	shock tube
+191	has_author	Author 85
+191	of_year	1969
+191	of_target	H2S
+191	has_similarity	S_0.5
+191	has_uncertainty	U_0.5
+192	of_type	ignition delay measurement
+192	of_reactor	shock tube
+192	has_author	Author 53
+192	of_year	1978
+192	of_target	C0
+192	has_similarity	S_0.1
+192	has_uncertainty	U_0.1
+193	of_type	outlet concentration measurement
+193	of_reactor	flow reactor
+193	has_author	Author 41
+193	of_year	2028
+193	of_target	C0
+193	has_similarity	S_0.9
+193	has_uncertainty	U_0.9
+194	of_type	concentration time profile measurement
+194	of_reactor	stirred reactor
+194	has_author	Author 31
+194	of_year	2025
+194	of_target	C0
+194	has_similarity	S_0.4
+194	has_uncertainty	U_0.4
+195	of_type	jet stirred reactor measurement
+195	of_reactor	stirred reactor
+195	has_author	Author 16
+195	of_year	2002
+195	of_target	C7H8
+195	has_similarity	S_0.8
+195	has_uncertainty	U_0.8
+196	of_type	jet stirred reactor measurement
+196	of_reactor	stirred reactor
+196	has_author	Author 1
+196	of_year	1971
+196	of_target	NH3
+196	has_similarity	S_0.7
+196	has_uncertainty	U_0.7
+197	of_type	outlet concentration measurement
+197	of_reactor	stirred reactor
+197	has_author	Author 98
+197	of_year	2022
+197	of_target	C6H6
+197	has_similarity	S_0.5
+197	has_uncertainty	U_0.5
+198	of_type	burner stabilized flame speciation measurement
+198	of_reactor	flame
+198	has_author	Author 6
+198	of_year	2001
+198	of_target	H2
+198	has_similarity	S_0.7
+198	has_uncertainty	U_0.7
+199	of_type	jet stirred reactor measurement
+199	of_reactor	stirred reactor
+199	has_author	Author 92
+199	of_year	2006
+199	of_target	C6H6
+199	has_similarity	S_0.8
+199	has_uncertainty	U_0.8
+200	of_type	burner stabilized flame speciation measurement
+200	of_reactor	flame
+200	has_author	Author 67
+200	of_year	1970
+200	of_target	H2
+200	has_similarity	S_0.2
+200	has_uncertainty	U_0.2
+201	of_type	burner stabilized flame speciation measurement
+201	of_reactor	flame
+201	has_author	Author 65
+201	of_year	1978
+201	of_target	H2
+201	has_similarity	S_0.1
+201	has_uncertainty	U_0.1
+202	of_type	concentration time profile measurement
+202	of_reactor	stirred reactor
+202	has_author	Author 20
+202	of_year	1973
+202	of_target	CH4
+202	has_similarity	S_0.4
+202	has_uncertainty	U_0.4
+203	of_type	outlet concentration measurement
+203	of_reactor	stirred reactor
+203	has_author	Author 40
+203	of_year	1963
+203	of_target	CH3
+203	has_similarity	S_0.5
+203	has_uncertainty	U_0.5
+204	of_type	jet stirred reactor measurement
+204	of_reactor	stirred reactor
+204	has_author	Author 8
+204	of_year	1964
+204	of_target	C7H8
+204	has_similarity	S_0.1
+204	has_uncertainty	U_0.1
+205	of_type	burner stabilized flame speciation measurement
+205	of_reactor	flame
+205	has_author	Author 34
+205	of_year	2019
+205	of_target	IDT
+205	has_similarity	S_0.5
+205	has_uncertainty	U_0.5
+206	of_type	ignition delay measurement
+206	of_reactor	shock tube
+206	has_author	Author 75
+206	of_year	1966
+206	of_target	CH3
+206	has_similarity	S_0.0
+206	has_uncertainty	U_0.0
+207	of_type	laminar burning velocity measurement
+207	of_reactor	flame
+207	has_author	Author 60
+207	of_year	1963
+207	of_target	C6H6
+207	has_similarity	S_0.8
+207	has_uncertainty	U_0.8
+208	of_type	ignition delay measurement
+208	of_reactor	rapid compression machine
+208	has_author	Author 42
+208	of_year	1971
+208	of_target	H2
+208	has_similarity	S_0.7
+208	has_uncertainty	U_0.7
+209	of_type	burner stabilized flame speciation measurement
+209	of_reactor	flame
+209	has_author	Author 27
+209	of_year	2016
+209	of_target	CO2
+209	has_similarity	S_0.6
+209	has_uncertainty	U_0.6
+210	of_type	laminar burning velocity measurement
+210	of_reactor	flame
+210	has_author	Author 9
+210	of_year	2013
+210	of_target	H2
+210	has_similarity	S_0.7
+210	has_uncertainty	U_0.7
+211	of_type	ignition delay measurement
+211	of_reactor	shock tube
+211	has_author	Author 7
+211	of_year	1990
+211	of_target	CH4
+211	has_similarity	S_0.6
+211	has_uncertainty	U_0.6
+212	of_type	laminar burning velocity measurement
+212	of_reactor	flame
+212	has_author	Author 29
+212	of_year	2013
+212	of_target	H2
+212	has_similarity	S_0.6
+212	has_uncertainty	U_0.6
+213	of_type	ignition delay measurement
+213	of_reactor	shock tube
+213	has_author	Author 53
+213	of_year	1975
+213	of_target	CH4
+213	has_similarity	S_0.6
+213	has_uncertainty	U_0.6
+214	of_type	outlet concentration measurement
+214	of_reactor	stirred reactor
+214	has_author	Author 80
+214	of_year	1981
+214	of_target	IDT
+214	has_similarity	S_0.9
+214	has_uncertainty	U_0.9
+215	of_type	ignition delay measurement
+215	of_reactor	rapid compression machine
+215	has_author	Author 30
+215	of_year	1967
+215	of_target	H2
+215	has_similarity	S_0.5
+215	has_uncertainty	U_0.5
+216	of_type	laminar burning velocity measurement
+216	of_reactor	flame
+216	has_author	Author 89
+216	of_year	1990
+216	of_target	CH3
+216	has_similarity	S_0.6
+216	has_uncertainty	U_0.6
+217	of_type	concentration time profile measurement
+217	of_reactor	stirred reactor
+217	has_author	Author 12
+217	of_year	1993
+217	of_target	H20
+217	has_similarity	S_0.9
+217	has_uncertainty	U_0.9
+218	of_type	burner stabilized flame speciation measurement
+218	of_reactor	flame
+218	has_author	Author 63
+218	of_year	1951
+218	of_target	C7H8
+218	has_similarity	S_0.5
+218	has_uncertainty	U_0.5
+219	of_type	ignition delay measurement
+219	of_reactor	shock tube
+219	has_author	Author 67
+219	of_year	1971
+219	of_target	C0
+219	has_similarity	S_0.7
+219	has_uncertainty	U_0.7
+220	of_type	ignition delay measurement
+220	of_reactor	shock tube
+220	has_author	Author 23
+220	of_year	2010
+220	of_target	CH3
+220	has_similarity	S_0.9
+220	has_uncertainty	U_0.9
+221	of_type	outlet concentration measurement
+221	of_reactor	shock tube
+221	has_author	Author 75
+221	of_year	1966
+221	of_target	CH4
+221	has_similarity	S_0.7
+221	has_uncertainty	U_0.7
+222	of_type	outlet concentration measurement
+222	of_reactor	stirred reactor
+222	has_author	Author 58
+222	of_year	2001
+222	of_target	H2S
+222	has_similarity	S_0.9
+222	has_uncertainty	U_0.9
+223	of_type	concentration time profile measurement
+223	of_reactor	flow reactor
+223	has_author	Author 13
+223	of_year	1986
+223	of_target	NH3
+223	has_similarity	S_0.0
+223	has_uncertainty	U_0.0
+224	of_type	laminar burning velocity measurement
+224	of_reactor	flame
+224	has_author	Author 32
+224	of_year	2013
+224	of_target	CH4
+224	has_similarity	S_0.2
+224	has_uncertainty	U_0.2
+225	of_type	concentration time profile measurement
+225	of_reactor	flow reactor
+225	has_author	Author 7
+225	of_year	1984
+225	of_target	H2
+225	has_similarity	S_0.2
+225	has_uncertainty	U_0.2
+226	of_type	laminar burning velocity measurement
+226	of_reactor	flame
+226	has_author	Author 43
+226	of_year	1979
+226	of_target	C5H6
+226	has_similarity	S_0.7
+226	has_uncertainty	U_0.7
+227	of_type	jet stirred reactor measurement
+227	of_reactor	stirred reactor
+227	has_author	Author 31
+227	of_year	2026
+227	of_target	IDT
+227	has_similarity	S_0.7
+227	has_uncertainty	U_0.7
+228	of_type	jet stirred reactor measurement
+228	of_reactor	shock tube
+228	has_author	Author 24
+228	of_year	1999
+228	of_target	C7H8
+228	has_similarity	S_0.6
+228	has_uncertainty	U_0.6
+229	of_type	jet stirred reactor measurement
+229	of_reactor	shock tube
+229	has_author	Author 45
+229	of_year	1985
+229	of_target	C7H8
+229	has_similarity	S_0.9
+229	has_uncertainty	U_0.9
+230	of_type	ignition delay measurement
+230	of_reactor	shock tube
+230	has_author	Author 77
+230	of_year	2025
+230	of_target	C6H6
+230	has_similarity	S_0.4
+230	has_uncertainty	U_0.4
+231	of_type	laminar burning velocity measurement
+231	of_reactor	flame
+231	has_author	Author 13
+231	of_year	1983
+231	of_target	H2
+231	has_similarity	S_0.8
+231	has_uncertainty	U_0.8
+232	of_type	concentration time profile measurement
+232	of_reactor	flow reactor
+232	has_author	Author 1
+232	of_year	1972
+232	of_target	CO2
+232	has_similarity	S_0.8
+232	has_uncertainty	U_0.8
+233	of_type	concentration time profile measurement
+233	of_reactor	shock tube
+233	has_author	Author 56
+233	of_year	2019
+233	of_target	IDT
+233	has_similarity	S_0.2
+233	has_uncertainty	U_0.2
+234	of_type	ignition delay measurement
+234	of_reactor	rapid compression machine
+234	has_author	Author 23
+234	of_year	2013
+234	of_target	C0
+234	has_similarity	S_0.8
+234	has_uncertainty	U_0.8
+235	of_type	burner stabilized flame speciation measurement
+235	of_reactor	flame
+235	has_author	Author 25
+235	of_year	2016
+235	of_target	C0
+235	has_similarity	S_0.4
+235	has_uncertainty	U_0.4
+236	of_type	ignition delay measurement
+236	of_reactor	shock tube
+236	has_author	Author 70
+236	of_year	2012
+236	of_target	IDT
+236	has_similarity	S_0.1
+236	has_uncertainty	U_0.1
+237	of_type	ignition delay measurement
+237	of_reactor	shock tube
+237	has_author	Author 91
+237	of_year	2022
+237	of_target	C7H8
+237	has_similarity	S_0.9
+237	has_uncertainty	U_0.9
+238	of_type	laminar burning velocity measurement
+238	of_reactor	flame
+238	has_author	Author 53
+238	of_year	1970
+238	of_target	NH3
+238	has_similarity	S_0.2
+238	has_uncertainty	U_0.2
+239	of_type	laminar burning velocity measurement
+239	of_reactor	flame
+239	has_author	Author 63
+239	of_year	1950
+239	of_target	C6H6
+239	has_similarity	S_0.8
+239	has_uncertainty	U_0.8
+240	of_type	burner stabilized flame speciation measurement
+240	of_reactor	flame
+240	has_author	Author 43
+240	of_year	1972
+240	of_target	H2
+240	has_similarity	S_0.3
+240	has_uncertainty	U_0.3
+241	of_type	laminar burning velocity measurement
+241	of_reactor	flame
+241	has_author	Author 9
+241	of_year	2014
+241	of_target	CO2
+241	has_similarity	S_0.5
+241	has_uncertainty	U_0.5
+242	of_type	concentration time profile measurement
+242	of_reactor	shock tube
+242	has_author	Author 7
+242	of_year	1981
+242	of_target	H2
+242	has_similarity	S_0.7
+242	has_uncertainty	U_0.7
+243	of_type	laminar burning velocity measurement
+243	of_reactor	flame
+243	has_author	Author 98
+243	of_year	2025
+243	of_target	C0
+243	has_similarity	S_0.8
+243	has_uncertainty	U_0.8
+244	of_type	outlet concentration measurement
+244	of_reactor	shock tube
+244	has_author	Author 49
+244	of_year	1954
+244	of_target	C7H8
+244	has_similarity	S_0.5
+244	has_uncertainty	U_0.5
+245	of_type	laminar burning velocity measurement
+245	of_reactor	flame
+245	has_author	Author 40
+245	of_year	1963
+245	of_target	CH4
+245	has_similarity	S_0.2
+245	has_uncertainty	U_0.2
+246	of_type	concentration time profile measurement
+246	of_reactor	flow reactor
+246	has_author	Author 4
+246	of_year	1982
+246	of_target	NH3
+246	has_similarity	S_0.3
+246	has_uncertainty	U_0.3
+247	of_type	laminar burning velocity measurement
+247	of_reactor	flame
+247	has_author	Author 67
+247	of_year	1972
+247	of_target	H2S
+247	has_similarity	S_0.1
+247	has_uncertainty	U_0.1
+248	of_type	laminar burning velocity measurement
+248	of_reactor	flame
+248	has_author	Author 98
+248	of_year	2028
+248	of_target	H2S
+248	has_similarity	S_0.6
+248	has_uncertainty	U_0.6
+249	of_type	burner stabilized flame speciation measurement
+249	of_reactor	flame
+249	has_author	Author 23
+249	of_year	2014
+249	of_target	NH3
+249	has_similarity	S_0.9
+249	has_uncertainty	U_0.9
+250	of_type	laminar burning velocity measurement
+250	of_reactor	flame
+250	has_author	Author 70
+250	of_year	2011
+250	of_target	CO2
+250	has_similarity	S_0.1
+250	has_uncertainty	U_0.1
+251	of_type	ignition delay measurement
+251	of_reactor	rapid compression machine
+251	has_author	Author 12
+251	of_year	1994
+251	of_target	IDT
+251	has_similarity	S_0.6
+251	has_uncertainty	U_0.6
+252	of_type	ignition delay measurement
+252	of_reactor	shock tube
+252	has_author	Author 78
+252	of_year	1973
+252	of_target	NH3
+252	has_similarity	S_0.5
+252	has_uncertainty	U_0.5
+253	of_type	concentration time profile measurement
+253	of_reactor	shock tube
+253	has_author	Author 99
+253	of_year	1966
+253	of_target	H2
+253	has_similarity	S_0.9
+253	has_uncertainty	U_0.9
+254	of_type	ignition delay measurement
+254	of_reactor	shock tube
+254	has_author	Author 74
+254	of_year	1994
+254	of_target	H2
+254	has_similarity	S_0.4
+254	has_uncertainty	U_0.4
+255	of_type	jet stirred reactor measurement
+255	of_reactor	flow reactor
+255	has_author	Author 82
+255	of_year	2000
+255	of_target	H20
+255	has_similarity	S_0.5
+255	has_uncertainty	U_0.5
+256	of_type	laminar burning velocity measurement
+256	of_reactor	flame
+256	has_author	Author 95
+256	of_year	1961
+256	of_target	H2S
+256	has_similarity	S_0.4
+256	has_uncertainty	U_0.4
+257	of_type	jet stirred reactor measurement
+257	of_reactor	stirred reactor
+257	has_author	Author 20
+257	of_year	1979
+257	of_target	C7H8
+257	has_similarity	S_0.6
+257	has_uncertainty	U_0.6
+258	of_type	outlet concentration measurement
+258	of_reactor	stirred reactor
+258	has_author	Author 86
+258	of_year	2026
+258	of_target	C7H8
+258	has_similarity	S_0.1
+258	has_uncertainty	U_0.1
+259	of_type	concentration time profile measurement
+259	of_reactor	shock tube
+259	has_author	Author 24
+259	of_year	1999
+259	of_target	C0
+259	has_similarity	S_0.2
+259	has_uncertainty	U_0.2
+260	of_type	outlet concentration measurement
+260	of_reactor	stirred reactor
+260	has_author	Author 10
+260	of_year	2014
+260	of_target	NH3
+260	has_similarity	S_0.5
+260	has_uncertainty	U_0.5
+261	of_type	ignition delay measurement
+261	of_reactor	shock tube
+261	has_author	Author 19
+261	of_year	2013
+261	of_target	C0
+261	has_similarity	S_1.0
+261	has_uncertainty	U_1.0
+262	of_type	burner stabilized flame speciation measurement
+262	of_reactor	flame
+262	has_author	Author 57
+262	of_year	1998
+262	of_target	H20
+262	has_similarity	S_0.7
+262	has_uncertainty	U_0.7
+263	of_type	outlet concentration measurement
+263	of_reactor	flow reactor
+263	has_author	Author 12
+263	of_year	1996
+263	of_target	H2S
+263	has_similarity	S_0.5
+263	has_uncertainty	U_0.5
+264	of_type	concentration time profile measurement
+264	of_reactor	stirred reactor
+264	has_author	Author 29
+264	of_year	2019
+264	of_target	IDT
+264	has_similarity	S_1.0
+264	has_uncertainty	U_1.0
+265	of_type	ignition delay measurement
+265	of_reactor	rapid compression machine
+265	has_author	Author 31
+265	of_year	2022
+265	of_target	CH4
+265	has_similarity	S_0.4
+265	has_uncertainty	U_0.4
+266	of_type	ignition delay measurement
+266	of_reactor	rapid compression machine
+266	has_author	Author 70
+266	of_year	2014
+266	of_target	IDT
+266	has_similarity	S_0.6
+266	has_uncertainty	U_0.6
+267	of_type	laminar burning velocity measurement
+267	of_reactor	flame
+267	has_author	Author 99
+267	of_year	1963
+267	of_target	C0
+267	has_similarity	S_0.8
+267	has_uncertainty	U_0.8
+268	of_type	concentration time profile measurement
+268	of_reactor	flow reactor
+268	has_author	Author 59
+268	of_year	1973
+268	of_target	C7H8
+268	has_similarity	S_0.8
+268	has_uncertainty	U_0.8
+269	of_type	ignition delay measurement
+269	of_reactor	rapid compression machine
+269	has_author	Author 76
+269	of_year	2012
+269	of_target	C5H6
+269	has_similarity	S_0.1
+269	has_uncertainty	U_0.1
+270	of_type	jet stirred reactor measurement
+270	of_reactor	flow reactor
+270	has_author	Author 10
+270	of_year	2010
+270	of_target	H2S
+270	has_similarity	S_0.0
+270	has_uncertainty	U_0.0
+271	of_type	ignition delay measurement
+271	of_reactor	shock tube
+271	has_author	Author 78
+271	of_year	1979
+271	of_target	C7H8
+271	has_similarity	S_0.0
+271	has_uncertainty	U_0.0
+272	of_type	concentration time profile measurement
+272	of_reactor	flow reactor
+272	has_author	Author 14
+272	of_year	2025
+272	of_target	NH3
+272	has_similarity	S_0.5
+272	has_uncertainty	U_0.5
+273	of_type	concentration time profile measurement
+273	of_reactor	stirred reactor
+273	has_author	Author 62
+273	of_year	1999
+273	of_target	C7H8
+273	has_similarity	S_0.8
+273	has_uncertainty	U_0.8
+274	of_type	jet stirred reactor measurement
+274	of_reactor	flow reactor
+274	has_author	Author 43
+274	of_year	1975
+274	of_target	H2S
+274	has_similarity	S_0.6
+274	has_uncertainty	U_0.6
+275	of_type	burner stabilized flame speciation measurement
+275	of_reactor	flame
+275	has_author	Author 80
+275	of_year	1984
+275	of_target	CH4
+275	has_similarity	S_0.4
+275	has_uncertainty	U_0.4
+276	of_type	laminar burning velocity measurement
+276	of_reactor	flame
+276	has_author	Author 8
+276	of_year	1963
+276	of_target	H20
+276	has_similarity	S_0.6
+276	has_uncertainty	U_0.6
+277	of_type	laminar burning velocity measurement
+277	of_reactor	flame
+277	has_author	Author 18
+277	of_year	1995
+277	of_target	H2S
+277	has_similarity	S_0.6
+277	has_uncertainty	U_0.6
+278	of_type	laminar burning velocity measurement
+278	of_reactor	flame
+278	has_author	Author 73
+278	of_year	1972
+278	of_target	H20
+278	has_similarity	S_0.3
+278	has_uncertainty	U_0.3
+279	of_type	jet stirred reactor measurement
+279	of_reactor	shock tube
+279	has_author	Author 34
+279	of_year	2019
+279	of_target	CO2
+279	has_similarity	S_0.2
+279	has_uncertainty	U_0.2
+280	of_type	jet stirred reactor measurement
+280	of_reactor	shock tube
+280	has_author	Author 3
+280	of_year	1975
+280	of_target	C5H6
+280	has_similarity	S_0.7
+280	has_uncertainty	U_0.7
+281	of_type	concentration time profile measurement
+281	of_reactor	stirred reactor
+281	has_author	Author 32
+281	of_year	2015
+281	of_target	H2
+281	has_similarity	S_0.2
+281	has_uncertainty	U_0.2
+282	of_type	burner stabilized flame speciation measurement
+282	of_reactor	flame
+282	has_author	Author 3
+282	of_year	1970
+282	of_target	NH3
+282	has_similarity	S_0.6
+282	has_uncertainty	U_0.6
+283	of_type	laminar burning velocity measurement
+283	of_reactor	flame
+283	has_author	Author 93
+283	of_year	2001
+283	of_target	H2
+283	has_similarity	S_0.7
+283	has_uncertainty	U_0.7
+284	of_type	ignition delay measurement
+284	of_reactor	rapid compression machine
+284	has_author	Author 12
+284	of_year	1990
+284	of_target	H2
+284	has_similarity	S_0.4
+284	has_uncertainty	U_0.4
+285	of_type	jet stirred reactor measurement
+285	of_reactor	flow reactor
+285	has_author	Author 84
+285	of_year	2004
+285	of_target	IDT
+285	has_similarity	S_0.2
+285	has_uncertainty	U_0.2
+286	of_type	concentration time profile measurement
+286	of_reactor	stirred reactor
+286	has_author	Author 52
+286	of_year	2020
+286	of_target	CO2
+286	has_similarity	S_0.8
+286	has_uncertainty	U_0.8
+287	of_type	outlet concentration measurement
+287	of_reactor	stirred reactor
+287	has_author	Author 42
+287	of_year	1971
+287	of_target	H20
+287	has_similarity	S_0.2
+287	has_uncertainty	U_0.2
+288	of_type	burner stabilized flame speciation measurement
+288	of_reactor	flame
+288	has_author	Author 13
+288	of_year	1981
+288	of_target	C7H8
+288	has_similarity	S_1.0
+288	has_uncertainty	U_1.0
+289	of_type	outlet concentration measurement
+289	of_reactor	stirred reactor
+289	has_author	Author 67
+289	of_year	1975
+289	of_target	IDT
+289	has_similarity	S_0.5
+289	has_uncertainty	U_0.5
+290	of_type	burner stabilized flame speciation measurement
+290	of_reactor	flame
+290	has_author	Author 19
+290	of_year	2020
+290	of_target	H2
+290	has_similarity	S_0.4
+290	has_uncertainty	U_0.4
+291	of_type	concentration time profile measurement
+291	of_reactor	shock tube
+291	has_author	Author 3
+291	of_year	1980
+291	of_target	H2S
+291	has_similarity	S_0.1
+291	has_uncertainty	U_0.1
+292	of_type	burner stabilized flame speciation measurement
+292	of_reactor	flame
+292	has_author	Author 44
+292	of_year	1980
+292	of_target	CH4
+292	has_similarity	S_0.9
+292	has_uncertainty	U_0.9
+293	of_type	concentration time profile measurement
+293	of_reactor	stirred reactor
+293	has_author	Author 4
+293	of_year	1985
+293	of_target	IDT
+293	has_similarity	S_0.1
+293	has_uncertainty	U_0.1
+294	of_type	jet stirred reactor measurement
+294	of_reactor	flow reactor
+294	has_author	Author 36
+294	of_year	2021
+294	of_target	C5H6
+294	has_similarity	S_0.4
+294	has_uncertainty	U_0.4
+295	of_type	ignition delay measurement
+295	of_reactor	rapid compression machine
+295	has_author	Author 30
+295	of_year	1962
+295	of_target	C0
+295	has_similarity	S_0.2
+295	has_uncertainty	U_0.2
+296	of_type	jet stirred reactor measurement
+296	of_reactor	stirred reactor
+296	has_author	Author 41
+296	of_year	2022
+296	of_target	CO2
+296	has_similarity	S_0.7
+296	has_uncertainty	U_0.7
+297	of_type	burner stabilized flame speciation measurement
+297	of_reactor	flame
+297	has_author	Author 35
+297	of_year	1993
+297	of_target	C5H6
+297	has_similarity	S_0.8
+297	has_uncertainty	U_0.8
+298	of_type	ignition delay measurement
+298	of_reactor	shock tube
+298	has_author	Author 19
+298	of_year	2012
+298	of_target	C6H6
+298	has_similarity	S_0.4
+298	has_uncertainty	U_0.4
+299	of_type	outlet concentration measurement
+299	of_reactor	shock tube
+299	has_author	Author 50
+299	of_year	2028
+299	of_target	H20
+299	has_similarity	S_0.5
+299	has_uncertainty	U_0.5
+300	of_type	burner stabilized flame speciation measurement
+300	of_reactor	flame
+300	has_author	Author 37
+300	of_year	2019
+300	of_target	CH3
+300	has_similarity	S_0.1
+300	has_uncertainty	U_0.1
+301	of_type	concentration time profile measurement
+301	of_reactor	shock tube
+301	has_author	Author 72
+301	of_year	1952
+301	of_target	IDT
+301	has_similarity	S_0.0
+301	has_uncertainty	U_0.0
+302	of_type	ignition delay measurement
+302	of_reactor	shock tube
+302	has_author	Author 97
+302	of_year	1977
+302	of_target	CH3
+302	has_similarity	S_1.0
+302	has_uncertainty	U_1.0
+303	of_type	outlet concentration measurement
+303	of_reactor	flow reactor
+303	has_author	Author 25
+303	of_year	2012
+303	of_target	H2S
+303	has_similarity	S_0.1
+303	has_uncertainty	U_0.1
+304	of_type	jet stirred reactor measurement
+304	of_reactor	shock tube
+304	has_author	Author 62
+304	of_year	1994
+304	of_target	C0
+304	has_similarity	S_0.6
+304	has_uncertainty	U_0.6
+305	of_type	jet stirred reactor measurement
+305	of_reactor	shock tube
+305	has_author	Author 73
+305	of_year	1976
+305	of_target	C7H8
+305	has_similarity	S_0.6
+305	has_uncertainty	U_0.6
+306	of_type	concentration time profile measurement
+306	of_reactor	shock tube
+306	has_author	Author 36
+306	of_year	2026
+306	of_target	C5H6
+306	has_similarity	S_0.6
+306	has_uncertainty	U_0.6
+307	of_type	jet stirred reactor measurement
+307	of_reactor	flow reactor
+307	has_author	Author 15
+307	of_year	1973
+307	of_target	C0
+307	has_similarity	S_0.5
+307	has_uncertainty	U_0.5
+308	of_type	jet stirred reactor measurement
+308	of_reactor	shock tube
+308	has_author	Author 80
+308	of_year	1982
+308	of_target	CH3
+308	has_similarity	S_0.2
+308	has_uncertainty	U_0.2
+309	of_type	ignition delay measurement
+309	of_reactor	rapid compression machine
+309	has_author	Author 95
+309	of_year	1967
+309	of_target	C0
+309	has_similarity	S_0.4
+309	has_uncertainty	U_0.4
+310	of_type	laminar burning velocity measurement
+310	of_reactor	flame
+310	has_author	Author 34
+310	of_year	2010
+310	of_target	H2S
+310	has_similarity	S_0.2
+310	has_uncertainty	U_0.2
+311	of_type	ignition delay measurement
+311	of_reactor	rapid compression machine
+311	has_author	Author 33
+311	of_year	1958
+311	of_target	C6H6
+311	has_similarity	S_0.6
+311	has_uncertainty	U_0.6
+312	of_type	laminar burning velocity measurement
+312	of_reactor	flame
+312	has_author	Author 78
+312	of_year	1978
+312	of_target	H2S
+312	has_similarity	S_0.0
+312	has_uncertainty	U_0.0
+313	of_type	outlet concentration measurement
+313	of_reactor	stirred reactor
+313	has_author	Author 85
+313	of_year	1960
+313	of_target	C5H6
+313	has_similarity	S_0.0
+313	has_uncertainty	U_0.0
+314	of_type	laminar burning velocity measurement
+314	of_reactor	flame
+314	has_author	Author 39
+314	of_year	1956
+314	of_target	CO2
+314	has_similarity	S_0.0
+314	has_uncertainty	U_0.0
+315	of_type	outlet concentration measurement
+315	of_reactor	flow reactor
+315	has_author	Author 36
+315	of_year	2023
+315	of_target	H20
+315	has_similarity	S_0.2
+315	has_uncertainty	U_0.2
+316	of_type	ignition delay measurement
+316	of_reactor	shock tube
+316	has_author	Author 75
+316	of_year	1963
+316	of_target	CH3
+316	has_similarity	S_0.7
+316	has_uncertainty	U_0.7
+317	of_type	ignition delay measurement
+317	of_reactor	shock tube
+317	has_author	Author 37
+317	of_year	2011
+317	of_target	H20
+317	has_similarity	S_0.0
+317	has_uncertainty	U_0.0
+318	of_type	outlet concentration measurement
+318	of_reactor	shock tube
+318	has_author	Author 72
+318	of_year	1960
+318	of_target	IDT
+318	has_similarity	S_0.8
+318	has_uncertainty	U_0.8
+319	of_type	laminar burning velocity measurement
+319	of_reactor	flame
+319	has_author	Author 6
+319	of_year	2003
+319	of_target	IDT
+319	has_similarity	S_0.5
+319	has_uncertainty	U_0.5
+320	of_type	laminar burning velocity measurement
+320	of_reactor	flame
+320	has_author	Author 23
+320	of_year	2011
+320	of_target	C0
+320	has_similarity	S_0.5
+320	has_uncertainty	U_0.5
+321	of_type	ignition delay measurement
+321	of_reactor	rapid compression machine
+321	has_author	Author 36
+321	of_year	2022
+321	of_target	NH3
+321	has_similarity	S_0.2
+321	has_uncertainty	U_0.2
+322	of_type	ignition delay measurement
+322	of_reactor	shock tube
+322	has_author	Author 85
+322	of_year	1969
+322	of_target	IDT
+322	has_similarity	S_0.8
+322	has_uncertainty	U_0.8
+323	of_type	outlet concentration measurement
+323	of_reactor	flow reactor
+323	has_author	Author 50
+323	of_year	2026
+323	of_target	NH3
+323	has_similarity	S_0.2
+323	has_uncertainty	U_0.2
+324	of_type	outlet concentration measurement
+324	of_reactor	shock tube
+324	has_author	Author 79
+324	of_year	1970
+324	of_target	H2S
+324	has_similarity	S_0.2
+324	has_uncertainty	U_0.2
+325	of_type	concentration time profile measurement
+325	of_reactor	stirred reactor
+325	has_author	Author 93
+325	of_year	2002
+325	of_target	NH3
+325	has_similarity	S_0.2
+325	has_uncertainty	U_0.2
+326	of_type	ignition delay measurement
+326	of_reactor	rapid compression machine
+326	has_author	Author 26
+326	of_year	1997
+326	of_target	CH4
+326	has_similarity	S_0.0
+326	has_uncertainty	U_0.0
+327	of_type	jet stirred reactor measurement
+327	of_reactor	stirred reactor
+327	has_author	Author 10
+327	of_year	2015
+327	of_target	C7H8
+327	has_similarity	S_0.2
+327	has_uncertainty	U_0.2
+328	of_type	outlet concentration measurement
+328	of_reactor	flow reactor
+328	has_author	Author 54
+328	of_year	2013
+328	of_target	IDT
+328	has_similarity	S_0.6
+328	has_uncertainty	U_0.6
+329	of_type	burner stabilized flame speciation measurement
+329	of_reactor	flame
+329	has_author	Author 17
+329	of_year	2029
+329	of_target	NH3
+329	has_similarity	S_0.9
+329	has_uncertainty	U_0.9
+330	of_type	burner stabilized flame speciation measurement
+330	of_reactor	flame
+330	has_author	Author 83
+330	of_year	1958
+330	of_target	C6H6
+330	has_similarity	S_0.1
+330	has_uncertainty	U_0.1
+331	of_type	laminar burning velocity measurement
+331	of_reactor	flame
+331	has_author	Author 9
+331	of_year	2018
+331	of_target	CO2
+331	has_similarity	S_0.6
+331	has_uncertainty	U_0.6
+332	of_type	ignition delay measurement
+332	of_reactor	rapid compression machine
+332	has_author	Author 42
+332	of_year	1975
+332	of_target	CH3
+332	has_similarity	S_0.2
+332	has_uncertainty	U_0.2
+333	of_type	laminar burning velocity measurement
+333	of_reactor	flame
+333	has_author	Author 53
+333	of_year	1980
+333	of_target	CH3
+333	has_similarity	S_0.8
+333	has_uncertainty	U_0.8
+334	of_type	burner stabilized flame speciation measurement
+334	of_reactor	flame
+334	has_author	Author 17
+334	of_year	2023
+334	of_target	CH3
+334	has_similarity	S_0.7
+334	has_uncertainty	U_0.7
+335	of_type	burner stabilized flame speciation measurement
+335	of_reactor	flame
+335	has_author	Author 60
+335	of_year	1964
+335	of_target	C0
+335	has_similarity	S_0.7
+335	has_uncertainty	U_0.7
+336	of_type	outlet concentration measurement
+336	of_reactor	shock tube
+336	has_author	Author 82
+336	of_year	2001
+336	of_target	CH4
+336	has_similarity	S_0.4
+336	has_uncertainty	U_0.4
+337	of_type	outlet concentration measurement
+337	of_reactor	flow reactor
+337	has_author	Author 92
+337	of_year	2006
+337	of_target	NH3
+337	has_similarity	S_0.5
+337	has_uncertainty	U_0.5
+338	of_type	burner stabilized flame speciation measurement
+338	of_reactor	flame
+338	has_author	Author 88
+338	of_year	1960
+338	of_target	C5H6
+338	has_similarity	S_0.1
+338	has_uncertainty	U_0.1
+339	of_type	laminar burning velocity measurement
+339	of_reactor	flame
+339	has_author	Author 81
+339	of_year	2016
+339	of_target	H20
+339	has_similarity	S_0.0
+339	has_uncertainty	U_0.0
+340	of_type	laminar burning velocity measurement
+340	of_reactor	flame
+340	has_author	Author 45
+340	of_year	1990
+340	of_target	CO2
+340	has_similarity	S_0.5
+340	has_uncertainty	U_0.5
+341	of_type	outlet concentration measurement
+341	of_reactor	stirred reactor
+341	has_author	Author 35
+341	of_year	1993
+341	of_target	C6H6
+341	has_similarity	S_0.8
+341	has_uncertainty	U_0.8
+342	of_type	burner stabilized flame speciation measurement
+342	of_reactor	flame
+342	has_author	Author 21
+342	of_year	1958
+342	of_target	CH4
+342	has_similarity	S_0.4
+342	has_uncertainty	U_0.4
+343	of_type	jet stirred reactor measurement
+343	of_reactor	flow reactor
+343	has_author	Author 58
+343	of_year	2006
+343	of_target	CO2
+343	has_similarity	S_0.5
+343	has_uncertainty	U_0.5
+344	of_type	outlet concentration measurement
+344	of_reactor	flow reactor
+344	has_author	Author 58
+344	of_year	2009
+344	of_target	CH3
+344	has_similarity	S_0.2
+344	has_uncertainty	U_0.2
+345	of_type	laminar burning velocity measurement
+345	of_reactor	flame
+345	has_author	Author 25
+345	of_year	2012
+345	of_target	IDT
+345	has_similarity	S_0.7
+345	has_uncertainty	U_0.7
+346	of_type	ignition delay measurement
+346	of_reactor	shock tube
+346	has_author	Author 72
+346	of_year	1952
+346	of_target	NH3
+346	has_similarity	S_1.0
+346	has_uncertainty	U_1.0
+347	of_type	laminar burning velocity measurement
+347	of_reactor	flame
+347	has_author	Author 46
+347	of_year	1977
+347	of_target	C0
+347	has_similarity	S_0.2
+347	has_uncertainty	U_0.2
+348	of_type	laminar burning velocity measurement
+348	of_reactor	flame
+348	has_author	Author 36
+348	of_year	2020
+348	of_target	CO2
+348	has_similarity	S_1.0
+348	has_uncertainty	U_1.0
+349	of_type	burner stabilized flame speciation measurement
+349	of_reactor	flame
+349	has_author	Author 54
+349	of_year	2011
+349	of_target	H20
+349	has_similarity	S_0.8
+349	has_uncertainty	U_0.8
+350	of_type	jet stirred reactor measurement
+350	of_reactor	flow reactor
+350	has_author	Author 53
+350	of_year	1980
+350	of_target	CH3
+350	has_similarity	S_1.0
+350	has_uncertainty	U_1.0
+351	of_type	outlet concentration measurement
+351	of_reactor	flow reactor
+351	has_author	Author 62
+351	of_year	1999
+351	of_target	H20
+351	has_similarity	S_0.5
+351	has_uncertainty	U_0.5
+352	of_type	concentration time profile measurement
+352	of_reactor	stirred reactor
+352	has_author	Author 90
+352	of_year	2017
+352	of_target	CO2
+352	has_similarity	S_1.0
+352	has_uncertainty	U_1.0
+353	of_type	laminar burning velocity measurement
+353	of_reactor	flame
+353	has_author	Author 50
+353	of_year	2023
+353	of_target	CH4
+353	has_similarity	S_0.5
+353	has_uncertainty	U_0.5
+354	of_type	concentration time profile measurement
+354	of_reactor	stirred reactor
+354	has_author	Author 87
+354	of_year	1982
+354	of_target	CH4
+354	has_similarity	S_0.6
+354	has_uncertainty	U_0.6
+355	of_type	ignition delay measurement
+355	of_reactor	rapid compression machine
+355	has_author	Author 12
+355	of_year	1998
+355	of_target	C0
+355	has_similarity	S_1.0
+355	has_uncertainty	U_1.0
+356	of_type	laminar burning velocity measurement
+356	of_reactor	flame
+356	has_author	Author 37
+356	of_year	2019
+356	of_target	NH3
+356	has_similarity	S_1.0
+356	has_uncertainty	U_1.0
+357	of_type	jet stirred reactor measurement
+357	of_reactor	flow reactor
+357	has_author	Author 12
+357	of_year	1993
+357	of_target	CH3
+357	has_similarity	S_1.0
+357	has_uncertainty	U_1.0
+358	of_type	ignition delay measurement
+358	of_reactor	shock tube
+358	has_author	Author 61
+358	of_year	1963
+358	of_target	C0
+358	has_similarity	S_0.2
+358	has_uncertainty	U_0.2
+359	of_type	ignition delay measurement
+359	of_reactor	rapid compression machine
+359	has_author	Author 83
+359	of_year	1955
+359	of_target	H20
+359	has_similarity	S_0.6
+359	has_uncertainty	U_0.6
+360	of_type	outlet concentration measurement
+360	of_reactor	stirred reactor
+360	has_author	Author 95
+360	of_year	1965
+360	of_target	CO2
+360	has_similarity	S_0.8
+360	has_uncertainty	U_0.8
+361	of_type	jet stirred reactor measurement
+361	of_reactor	flow reactor
+361	has_author	Author 44
+361	of_year	1981
+361	of_target	CH4
+361	has_similarity	S_0.2
+361	has_uncertainty	U_0.2
+362	of_type	concentration time profile measurement
+362	of_reactor	stirred reactor
+362	has_author	Author 6
+362	of_year	2004
+362	of_target	C7H8
+362	has_similarity	S_0.4
+362	has_uncertainty	U_0.4
+363	of_type	ignition delay measurement
+363	of_reactor	shock tube
+363	has_author	Author 23
+363	of_year	2014
+363	of_target	C0
+363	has_similarity	S_0.6
+363	has_uncertainty	U_0.6
+364	of_type	laminar burning velocity measurement
+364	of_reactor	flame
+364	has_author	Author 16
+364	of_year	2004
+364	of_target	IDT
+364	has_similarity	S_0.9
+364	has_uncertainty	U_0.9
+365	of_type	concentration time profile measurement
+365	of_reactor	stirred reactor
+365	has_author	Author 91
+365	of_year	2027
+365	of_target	C6H6
+365	has_similarity	S_0.3
+365	has_uncertainty	U_0.3
+366	of_type	concentration time profile measurement
+366	of_reactor	stirred reactor
+366	has_author	Author 95
+366	of_year	1970
+366	of_target	C7H8
+366	has_similarity	S_0.0
+366	has_uncertainty	U_0.0
+367	of_type	concentration time profile measurement
+367	of_reactor	stirred reactor
+367	has_author	Author 21
+367	of_year	1950
+367	of_target	C7H8
+367	has_similarity	S_0.5
+367	has_uncertainty	U_0.5
+368	of_type	concentration time profile measurement
+368	of_reactor	flow reactor
+368	has_author	Author 31
+368	of_year	2020
+368	of_target	NH3
+368	has_similarity	S_0.5
+368	has_uncertainty	U_0.5
+369	of_type	outlet concentration measurement
+369	of_reactor	flow reactor
+369	has_author	Author 52
+369	of_year	2019
+369	of_target	H2
+369	has_similarity	S_0.5
+369	has_uncertainty	U_0.5
+370	of_type	burner stabilized flame speciation measurement
+370	of_reactor	flame
+370	has_author	Author 1
+370	of_year	1970
+370	of_target	H2S
+370	has_similarity	S_0.4
+370	has_uncertainty	U_0.4
+371	of_type	laminar burning velocity measurement
+371	of_reactor	flame
+371	has_author	Author 52
+371	of_year	2011
+371	of_target	C6H6
+371	has_similarity	S_0.5
+371	has_uncertainty	U_0.5
+372	of_type	laminar burning velocity measurement
+372	of_reactor	flame
+372	has_author	Author 67
+372	of_year	1971
+372	of_target	NH3
+372	has_similarity	S_0.4
+372	has_uncertainty	U_0.4
+373	of_type	ignition delay measurement
+373	of_reactor	rapid compression machine
+373	has_author	Author 79
+373	of_year	1967
+373	of_target	H20
+373	has_similarity	S_0.5
+373	has_uncertainty	U_0.5
+374	of_type	outlet concentration measurement
+374	of_reactor	shock tube
+374	has_author	Author 13
+374	of_year	1989
+374	of_target	CH3
+374	has_similarity	S_0.1
+374	has_uncertainty	U_0.1
+375	of_type	ignition delay measurement
+375	of_reactor	shock tube
+375	has_author	Author 37
+375	of_year	2013
+375	of_target	H2S
+375	has_similarity	S_0.5
+375	has_uncertainty	U_0.5
+376	of_type	burner stabilized flame speciation measurement
+376	of_reactor	flame
+376	has_author	Author 3
+376	of_year	1977
+376	of_target	H2
+376	has_similarity	S_0.7
+376	has_uncertainty	U_0.7
+377	of_type	laminar burning velocity measurement
+377	of_reactor	flame
+377	has_author	Author 10
+377	of_year	2010
+377	of_target	NH3
+377	has_similarity	S_0.8
+377	has_uncertainty	U_0.8
+378	of_type	concentration time profile measurement
+378	of_reactor	flow reactor
+378	has_author	Author 64
+378	of_year	1977
+378	of_target	H2
+378	has_similarity	S_0.5
+378	has_uncertainty	U_0.5
+379	of_type	laminar burning velocity measurement
+379	of_reactor	flame
+379	has_author	Author 30
+379	of_year	1963
+379	of_target	C0
+379	has_similarity	S_0.4
+379	has_uncertainty	U_0.4
+380	of_type	ignition delay measurement
+380	of_reactor	rapid compression machine
+380	has_author	Author 53
+380	of_year	1976
+380	of_target	NH3
+380	has_similarity	S_0.5
+380	has_uncertainty	U_0.5
+381	of_type	ignition delay measurement
+381	of_reactor	shock tube
+381	has_author	Author 6
+381	of_year	2001
+381	of_target	H2S
+381	has_similarity	S_0.1
+381	has_uncertainty	U_0.1
+382	of_type	burner stabilized flame speciation measurement
+382	of_reactor	flame
+382	has_author	Author 9
+382	of_year	2017
+382	of_target	C7H8
+382	has_similarity	S_0.3
+382	has_uncertainty	U_0.3
+383	of_type	burner stabilized flame speciation measurement
+383	of_reactor	flame
+383	has_author	Author 32
+383	of_year	2018
+383	of_target	H20
+383	has_similarity	S_0.9
+383	has_uncertainty	U_0.9
+384	of_type	concentration time profile measurement
+384	of_reactor	stirred reactor
+384	has_author	Author 67
+384	of_year	1978
+384	of_target	C0
+384	has_similarity	S_0.3
+384	has_uncertainty	U_0.3
+385	of_type	burner stabilized flame speciation measurement
+385	of_reactor	flame
+385	has_author	Author 88
+385	of_year	1967
+385	of_target	C7H8
+385	has_similarity	S_0.9
+385	has_uncertainty	U_0.9
+386	of_type	concentration time profile measurement
+386	of_reactor	shock tube
+386	has_author	Author 35
+386	of_year	1990
+386	of_target	CO2
+386	has_similarity	S_1.0
+386	has_uncertainty	U_1.0
+387	of_type	ignition delay measurement
+387	of_reactor	shock tube
+387	has_author	Author 36
+387	of_year	2027
+387	of_target	CH3
+387	has_similarity	S_0.2
+387	has_uncertainty	U_0.2
+388	of_type	jet stirred reactor measurement
+388	of_reactor	stirred reactor
+388	has_author	Author 86
+388	of_year	2028
+388	of_target	NH3
+388	has_similarity	S_0.7
+388	has_uncertainty	U_0.7
+389	of_type	burner stabilized flame speciation measurement
+389	of_reactor	flame
+389	has_author	Author 81
+389	of_year	2010
+389	of_target	NH3
+389	has_similarity	S_0.7
+389	has_uncertainty	U_0.7
+390	of_type	outlet concentration measurement
+390	of_reactor	flow reactor
+390	has_author	Author 45
+390	of_year	1988
+390	of_target	H20
+390	has_similarity	S_0.5
+390	has_uncertainty	U_0.5
+391	of_type	concentration time profile measurement
+391	of_reactor	stirred reactor
+391	has_author	Author 43
+391	of_year	1971
+391	of_target	H2S
+391	has_similarity	S_0.3
+391	has_uncertainty	U_0.3
+392	of_type	laminar burning velocity measurement
+392	of_reactor	flame
+392	has_author	Author 33
+392	of_year	1950
+392	of_target	CH4
+392	has_similarity	S_0.6
+392	has_uncertainty	U_0.6
+393	of_type	jet stirred reactor measurement
+393	of_reactor	shock tube
+393	has_author	Author 34
+393	of_year	2020
+393	of_target	H2
+393	has_similarity	S_0.6
+393	has_uncertainty	U_0.6
+394	of_type	laminar burning velocity measurement
+394	of_reactor	flame
+394	has_author	Author 95
+394	of_year	1960
+394	of_target	C5H6
+394	has_similarity	S_0.8
+394	has_uncertainty	U_0.8
+395	of_type	laminar burning velocity measurement
+395	of_reactor	flame
+395	has_author	Author 83
+395	of_year	1950
+395	of_target	H20
+395	has_similarity	S_0.1
+395	has_uncertainty	U_0.1
+396	of_type	concentration time profile measurement
+396	of_reactor	stirred reactor
+396	has_author	Author 58
+396	of_year	2002
+396	of_target	H20
+396	has_similarity	S_0.8
+396	has_uncertainty	U_0.8
+397	of_type	ignition delay measurement
+397	of_reactor	rapid compression machine
+397	has_author	Author 92
+397	of_year	2002
+397	of_target	IDT
+397	has_similarity	S_0.4
+397	has_uncertainty	U_0.4
+398	of_type	burner stabilized flame speciation measurement
+398	of_reactor	flame
+398	has_author	Author 44
+398	of_year	1988
+398	of_target	CH4
+398	has_similarity	S_0.3
+398	has_uncertainty	U_0.3
+399	of_type	burner stabilized flame speciation measurement
+399	of_reactor	flame
+399	has_author	Author 63
+399	of_year	1959
+399	of_target	H20
+399	has_similarity	S_0.0
+399	has_uncertainty	U_0.0
+400	of_type	laminar burning velocity measurement
+400	of_reactor	flame
+400	has_author	Author 32
+400	of_year	2020
+400	of_target	CO2
+400	has_similarity	S_0.3
+400	has_uncertainty	U_0.3
+401	of_type	ignition delay measurement
+401	of_reactor	shock tube
+401	has_author	Author 64
+401	of_year	1970
+401	of_target	CH3
+401	has_similarity	S_0.7
+401	has_uncertainty	U_0.7
+402	of_type	concentration time profile measurement
+402	of_reactor	flow reactor
+402	has_author	Author 42
+402	of_year	1976
+402	of_target	H20
+402	has_similarity	S_0.6
+402	has_uncertainty	U_0.6
+403	of_type	outlet concentration measurement
+403	of_reactor	flow reactor
+403	has_author	Author 32
+403	of_year	2011
+403	of_target	H20
+403	has_similarity	S_0.2
+403	has_uncertainty	U_0.2
+404	of_type	ignition delay measurement
+404	of_reactor	shock tube
+404	has_author	Author 19
+404	of_year	2013
+404	of_target	H20
+404	has_similarity	S_0.1
+404	has_uncertainty	U_0.1
+405	of_type	burner stabilized flame speciation measurement
+405	of_reactor	flame
+405	has_author	Author 77
+405	of_year	2028
+405	of_target	H2S
+405	has_similarity	S_0.0
+405	has_uncertainty	U_0.0
+406	of_type	laminar burning velocity measurement
+406	of_reactor	flame
+406	has_author	Author 55
+406	of_year	1958
+406	of_target	CO2
+406	has_similarity	S_0.6
+406	has_uncertainty	U_0.6
+407	of_type	burner stabilized flame speciation measurement
+407	of_reactor	flame
+407	has_author	Author 35
+407	of_year	2000
+407	of_target	C5H6
+407	has_similarity	S_0.7
+407	has_uncertainty	U_0.7
+408	of_type	outlet concentration measurement
+408	of_reactor	flow reactor
+408	has_author	Author 86
+408	of_year	2023
+408	of_target	C7H8
+408	has_similarity	S_0.5
+408	has_uncertainty	U_0.5
+409	of_type	laminar burning velocity measurement
+409	of_reactor	flame
+409	has_author	Author 38
+409	of_year	2016
+409	of_target	H20
+409	has_similarity	S_0.7
+409	has_uncertainty	U_0.7
+410	of_type	burner stabilized flame speciation measurement
+410	of_reactor	flame
+410	has_author	Author 28
+410	of_year	2008
+410	of_target	C0
+410	has_similarity	S_1.0
+410	has_uncertainty	U_1.0
+411	of_type	ignition delay measurement
+411	of_reactor	shock tube
+411	has_author	Author 99
+411	of_year	1967
+411	of_target	CH3
+411	has_similarity	S_0.1
+411	has_uncertainty	U_0.1
+412	of_type	laminar burning velocity measurement
+412	of_reactor	flame
+412	has_author	Author 6
+412	of_year	2005
+412	of_target	H2S
+412	has_similarity	S_0.2
+412	has_uncertainty	U_0.2
+413	of_type	concentration time profile measurement
+413	of_reactor	stirred reactor
+413	has_author	Author 14
+413	of_year	2020
+413	of_target	C0
+413	has_similarity	S_0.3
+413	has_uncertainty	U_0.3
+414	of_type	outlet concentration measurement
+414	of_reactor	shock tube
+414	has_author	Author 18
+414	of_year	1999
+414	of_target	NH3
+414	has_similarity	S_0.2
+414	has_uncertainty	U_0.2
+415	of_type	laminar burning velocity measurement
+415	of_reactor	flame
+415	has_author	Author 57
+415	of_year	1997
+415	of_target	C6H6
+415	has_similarity	S_0.5
+415	has_uncertainty	U_0.5
+416	of_type	jet stirred reactor measurement
+416	of_reactor	flow reactor
+416	has_author	Author 57
+416	of_year	1998
+416	of_target	C7H8
+416	has_similarity	S_0.8
+416	has_uncertainty	U_0.8
+417	of_type	burner stabilized flame speciation measurement
+417	of_reactor	flame
+417	has_author	Author 6
+417	of_year	2008
+417	of_target	NH3
+417	has_similarity	S_0.3
+417	has_uncertainty	U_0.3
+418	of_type	outlet concentration measurement
+418	of_reactor	flow reactor
+418	has_author	Author 76
+418	of_year	2017
+418	of_target	IDT
+418	has_similarity	S_0.6
+418	has_uncertainty	U_0.6
+419	of_type	outlet concentration measurement
+419	of_reactor	stirred reactor
+419	has_author	Author 65
+419	of_year	1973
+419	of_target	CH3
+419	has_similarity	S_0.9
+419	has_uncertainty	U_0.9
+420	of_type	outlet concentration measurement
+420	of_reactor	flow reactor
+420	has_author	Author 82
+420	of_year	2003
+420	of_target	CH4
+420	has_similarity	S_0.2
+420	has_uncertainty	U_0.2
+421	of_type	concentration time profile measurement
+421	of_reactor	flow reactor
+421	has_author	Author 21
+421	of_year	1960
+421	of_target	IDT
+421	has_similarity	S_0.3
+421	has_uncertainty	U_0.3
+422	of_type	ignition delay measurement
+422	of_reactor	rapid compression machine
+422	has_author	Author 23
+422	of_year	2017
+422	of_target	C7H8
+422	has_similarity	S_0.6
+422	has_uncertainty	U_0.6
+423	of_type	concentration time profile measurement
+423	of_reactor	stirred reactor
+423	has_author	Author 39
+423	of_year	1957
+423	of_target	CO2
+423	has_similarity	S_1.0
+423	has_uncertainty	U_1.0
+424	of_type	outlet concentration measurement
+424	of_reactor	shock tube
+424	has_author	Author 99
+424	of_year	1967
+424	of_target	C6H6
+424	has_similarity	S_0.1
+424	has_uncertainty	U_0.1
+425	of_type	jet stirred reactor measurement
+425	of_reactor	stirred reactor
+425	has_author	Author 39
+425	of_year	1952
+425	of_target	C6H6
+425	has_similarity	S_1.0
+425	has_uncertainty	U_1.0
+426	of_type	burner stabilized flame speciation measurement
+426	of_reactor	flame
+426	has_author	Author 62
+426	of_year	1993
+426	of_target	H2S
+426	has_similarity	S_0.5
+426	has_uncertainty	U_0.5
+427	of_type	ignition delay measurement
+427	of_reactor	shock tube
+427	has_author	Author 17
+427	of_year	2020
+427	of_target	CO2
+427	has_similarity	S_0.7
+427	has_uncertainty	U_0.7
+428	of_type	ignition delay measurement
+428	of_reactor	shock tube
+428	has_author	Author 91
+428	of_year	2026
+428	of_target	C5H6
+428	has_similarity	S_1.0
+428	has_uncertainty	U_1.0
+429	of_type	laminar burning velocity measurement
+429	of_reactor	flame
+429	has_author	Author 95
+429	of_year	1964
+429	of_target	H20
+429	has_similarity	S_0.7
+429	has_uncertainty	U_0.7
+430	of_type	jet stirred reactor measurement
+430	of_reactor	shock tube
+430	has_author	Author 95
+430	of_year	1962
+430	of_target	C5H6
+430	has_similarity	S_0.9
+430	has_uncertainty	U_0.9
+431	of_type	concentration time profile measurement
+431	of_reactor	flow reactor
+431	has_author	Author 79
+431	of_year	1967
+431	of_target	CO2
+431	has_similarity	S_0.6
+431	has_uncertainty	U_0.6
+432	of_type	burner stabilized flame speciation measurement
+432	of_reactor	flame
+432	has_author	Author 51
+432	of_year	2028
+432	of_target	CH4
+432	has_similarity	S_0.1
+432	has_uncertainty	U_0.1
+433	of_type	ignition delay measurement
+433	of_reactor	rapid compression machine
+433	has_author	Author 74
+433	of_year	2000
+433	of_target	C5H6
+433	has_similarity	S_0.2
+433	has_uncertainty	U_0.2
+434	of_type	jet stirred reactor measurement
+434	of_reactor	shock tube
+434	has_author	Author 45
+434	of_year	1989
+434	of_target	C0
+434	has_similarity	S_0.8
+434	has_uncertainty	U_0.8
+435	of_type	ignition delay measurement
+435	of_reactor	shock tube
+435	has_author	Author 39
+435	of_year	1953
+435	of_target	CH4
+435	has_similarity	S_0.6
+435	has_uncertainty	U_0.6
+436	of_type	laminar burning velocity measurement
+436	of_reactor	flame
+436	has_author	Author 56
+436	of_year	2018
+436	of_target	C0
+436	has_similarity	S_1.0
+436	has_uncertainty	U_1.0
+437	of_type	laminar burning velocity measurement
+437	of_reactor	flame
+437	has_author	Author 42
+437	of_year	1973
+437	of_target	CO2
+437	has_similarity	S_0.4
+437	has_uncertainty	U_0.4
+438	of_type	laminar burning velocity measurement
+438	of_reactor	flame
+438	has_author	Author 12
+438	of_year	1997
+438	of_target	CH3
+438	has_similarity	S_0.5
+438	has_uncertainty	U_0.5
+439	of_type	ignition delay measurement
+439	of_reactor	shock tube
+439	has_author	Author 81
+439	of_year	2018
+439	of_target	CO2
+439	has_similarity	S_0.8
+439	has_uncertainty	U_0.8
+440	of_type	outlet concentration measurement
+440	of_reactor	shock tube
+440	has_author	Author 6
+440	of_year	2009
+440	of_target	C0
+440	has_similarity	S_0.4
+440	has_uncertainty	U_0.4
+441	of_type	outlet concentration measurement
+441	of_reactor	shock tube
+441	has_author	Author 84
+441	of_year	2010
+441	of_target	H20
+441	has_similarity	S_1.0
+441	has_uncertainty	U_1.0
+442	of_type	burner stabilized flame speciation measurement
+442	of_reactor	flame
+442	has_author	Author 8
+442	of_year	1968
+442	of_target	C6H6
+442	has_similarity	S_0.8
+442	has_uncertainty	U_0.8
+443	of_type	concentration time profile measurement
+443	of_reactor	shock tube
+443	has_author	Author 59
+443	of_year	1970
+443	of_target	CH4
+443	has_similarity	S_0.2
+443	has_uncertainty	U_0.2
+444	of_type	concentration time profile measurement
+444	of_reactor	stirred reactor
+444	has_author	Author 62
+444	of_year	1991
+444	of_target	CO2
+444	has_similarity	S_0.8
+444	has_uncertainty	U_0.8
+445	of_type	outlet concentration measurement
+445	of_reactor	flow reactor
+445	has_author	Author 14
+445	of_year	2027
+445	of_target	C5H6
+445	has_similarity	S_0.1
+445	has_uncertainty	U_0.1
+446	of_type	burner stabilized flame speciation measurement
+446	of_reactor	flame
+446	has_author	Author 8
+446	of_year	1963
+446	of_target	C6H6
+446	has_similarity	S_0.9
+446	has_uncertainty	U_0.9
+447	of_type	concentration time profile measurement
+447	of_reactor	shock tube
+447	has_author	Author 11
+447	of_year	1978
+447	of_target	H20
+447	has_similarity	S_0.5
+447	has_uncertainty	U_0.5
+448	of_type	concentration time profile measurement
+448	of_reactor	stirred reactor
+448	has_author	Author 34
+448	of_year	2012
+448	of_target	CO2
+448	has_similarity	S_0.5
+448	has_uncertainty	U_0.5
+449	of_type	burner stabilized flame speciation measurement
+449	of_reactor	flame
+449	has_author	Author 45
+449	of_year	1985
+449	of_target	C6H6
+449	has_similarity	S_0.6
+449	has_uncertainty	U_0.6
+450	of_type	laminar burning velocity measurement
+450	of_reactor	flame
+450	has_author	Author 74
+450	of_year	1995
+450	of_target	IDT
+450	has_similarity	S_0.4
+450	has_uncertainty	U_0.4
+451	of_type	jet stirred reactor measurement
+451	of_reactor	shock tube
+451	has_author	Author 54
+451	of_year	2014
+451	of_target	C7H8
+451	has_similarity	S_0.4
+451	has_uncertainty	U_0.4
+452	of_type	laminar burning velocity measurement
+452	of_reactor	flame
+452	has_author	Author 48
+452	of_year	1985
+452	of_target	H20
+452	has_similarity	S_0.1
+452	has_uncertainty	U_0.1
+453	of_type	burner stabilized flame speciation measurement
+453	of_reactor	flame
+453	has_author	Author 78
+453	of_year	1979
+453	of_target	H2
+453	has_similarity	S_0.9
+453	has_uncertainty	U_0.9
+454	of_type	concentration time profile measurement
+454	of_reactor	flow reactor
+454	has_author	Author 60
+454	of_year	1969
+454	of_target	C7H8
+454	has_similarity	S_0.5
+454	has_uncertainty	U_0.5
+455	of_type	concentration time profile measurement
+455	of_reactor	flow reactor
+455	has_author	Author 80
+455	of_year	1987
+455	of_target	C6H6
+455	has_similarity	S_0.5
+455	has_uncertainty	U_0.5
+456	of_type	concentration time profile measurement
+456	of_reactor	flow reactor
+456	has_author	Author 39
+456	of_year	1955
+456	of_target	CO2
+456	has_similarity	S_0.1
+456	has_uncertainty	U_0.1
+457	of_type	outlet concentration measurement
+457	of_reactor	shock tube
+457	has_author	Author 15
+457	of_year	1975
+457	of_target	CH4
+457	has_similarity	S_0.5
+457	has_uncertainty	U_0.5
+458	of_type	burner stabilized flame speciation measurement
+458	of_reactor	flame
+458	has_author	Author 70
+458	of_year	2016
+458	of_target	C6H6
+458	has_similarity	S_0.6
+458	has_uncertainty	U_0.6
+459	of_type	laminar burning velocity measurement
+459	of_reactor	flame
+459	has_author	Author 78
+459	of_year	1974
+459	of_target	C6H6
+459	has_similarity	S_0.2
+459	has_uncertainty	U_0.2
+460	of_type	ignition delay measurement
+460	of_reactor	rapid compression machine
+460	has_author	Author 96
+460	of_year	2022
+460	of_target	CH3
+460	has_similarity	S_0.0
+460	has_uncertainty	U_0.0
+461	of_type	concentration time profile measurement
+461	of_reactor	shock tube
+461	has_author	Author 46
+461	of_year	1970
+461	of_target	H2
+461	has_similarity	S_0.1
+461	has_uncertainty	U_0.1
+462	of_type	ignition delay measurement
+462	of_reactor	shock tube
+462	has_author	Author 79
+462	of_year	1969
+462	of_target	CH3
+462	has_similarity	S_0.5
+462	has_uncertainty	U_0.5
+463	of_type	outlet concentration measurement
+463	of_reactor	shock tube
+463	has_author	Author 37
+463	of_year	2012
+463	of_target	CH4
+463	has_similarity	S_0.1
+463	has_uncertainty	U_0.1
+464	of_type	ignition delay measurement
+464	of_reactor	shock tube
+464	has_author	Author 41
+464	of_year	2029
+464	of_target	NH3
+464	has_similarity	S_0.4
+464	has_uncertainty	U_0.4
+465	of_type	burner stabilized flame speciation measurement
+465	of_reactor	flame
+465	has_author	Author 52
+465	of_year	2013
+465	of_target	NH3
+465	has_similarity	S_0.0
+465	has_uncertainty	U_0.0
+466	of_type	laminar burning velocity measurement
+466	of_reactor	flame
+466	has_author	Author 10
+466	of_year	2012
+466	of_target	CH3
+466	has_similarity	S_0.9
+466	has_uncertainty	U_0.9
+467	of_type	laminar burning velocity measurement
+467	of_reactor	flame
+467	has_author	Author 16
+467	of_year	2007
+467	of_target	CH3
+467	has_similarity	S_0.4
+467	has_uncertainty	U_0.4
+468	of_type	ignition delay measurement
+468	of_reactor	shock tube
+468	has_author	Author 0
+468	of_year	1982
+468	of_target	C5H6
+468	has_similarity	S_0.8
+468	has_uncertainty	U_0.8
+469	of_type	jet stirred reactor measurement
+469	of_reactor	flow reactor
+469	has_author	Author 25
+469	of_year	2016
+469	of_target	CO2
+469	has_similarity	S_0.4
+469	has_uncertainty	U_0.4
+470	of_type	outlet concentration measurement
+470	of_reactor	stirred reactor
+470	has_author	Author 94
+470	of_year	1978
+470	of_target	CH4
+470	has_similarity	S_0.9
+470	has_uncertainty	U_0.9
+471	of_type	outlet concentration measurement
+471	of_reactor	stirred reactor
+471	has_author	Author 63
+471	of_year	1955
+471	of_target	CO2
+471	has_similarity	S_0.2
+471	has_uncertainty	U_0.2
+472	of_type	laminar burning velocity measurement
+472	of_reactor	flame
+472	has_author	Author 56
+472	of_year	2018
+472	of_target	C6H6
+472	has_similarity	S_0.1
+472	has_uncertainty	U_0.1
+473	of_type	concentration time profile measurement
+473	of_reactor	shock tube
+473	has_author	Author 12
+473	of_year	2000
+473	of_target	C7H8
+473	has_similarity	S_0.7
+473	has_uncertainty	U_0.7
+474	of_type	outlet concentration measurement
+474	of_reactor	shock tube
+474	has_author	Author 90
+474	of_year	2020
+474	of_target	H20
+474	has_similarity	S_0.0
+474	has_uncertainty	U_0.0
+475	of_type	laminar burning velocity measurement
+475	of_reactor	flame
+475	has_author	Author 57
+475	of_year	1995
+475	of_target	CO2
+475	has_similarity	S_1.0
+475	has_uncertainty	U_1.0
+476	of_type	outlet concentration measurement
+476	of_reactor	shock tube
+476	has_author	Author 17
+476	of_year	2028
+476	of_target	C5H6
+476	has_similarity	S_0.8
+476	has_uncertainty	U_0.8
+477	of_type	jet stirred reactor measurement
+477	of_reactor	shock tube
+477	has_author	Author 34
+477	of_year	2011
+477	of_target	C7H8
+477	has_similarity	S_0.2
+477	has_uncertainty	U_0.2
+478	of_type	concentration time profile measurement
+478	of_reactor	stirred reactor
+478	has_author	Author 81
+478	of_year	2017
+478	of_target	H2S
+478	has_similarity	S_0.9
+478	has_uncertainty	U_0.9
+479	of_type	concentration time profile measurement
+479	of_reactor	stirred reactor
+479	has_author	Author 19
+479	of_year	2016
+479	of_target	H2S
+479	has_similarity	S_0.1
+479	has_uncertainty	U_0.1
+480	of_type	jet stirred reactor measurement
+480	of_reactor	flow reactor
+480	has_author	Author 98
+480	of_year	2020
+480	of_target	H20
+480	has_similarity	S_0.9
+480	has_uncertainty	U_0.9
+481	of_type	outlet concentration measurement
+481	of_reactor	stirred reactor
+481	has_author	Author 98
+481	of_year	2020
+481	of_target	H2
+481	has_similarity	S_0.2
+481	has_uncertainty	U_0.2
+482	of_type	outlet concentration measurement
+482	of_reactor	flow reactor
+482	has_author	Author 14
+482	of_year	2028
+482	of_target	CH3
+482	has_similarity	S_0.7
+482	has_uncertainty	U_0.7
+483	of_type	ignition delay measurement
+483	of_reactor	rapid compression machine
+483	has_author	Author 97
+483	of_year	1979
+483	of_target	H20
+483	has_similarity	S_0.2
+483	has_uncertainty	U_0.2
+484	of_type	burner stabilized flame speciation measurement
+484	of_reactor	flame
+484	has_author	Author 60
+484	of_year	1968
+484	of_target	C7H8
+484	has_similarity	S_0.9
+484	has_uncertainty	U_0.9
+485	of_type	burner stabilized flame speciation measurement
+485	of_reactor	flame
+485	has_author	Author 98
+485	of_year	2027
+485	of_target	C7H8
+485	has_similarity	S_0.7
+485	has_uncertainty	U_0.7
+486	of_type	concentration time profile measurement
+486	of_reactor	stirred reactor
+486	has_author	Author 22
+486	of_year	2028
+486	of_target	H2
+486	has_similarity	S_0.9
+486	has_uncertainty	U_0.9
+487	of_type	jet stirred reactor measurement
+487	of_reactor	stirred reactor
+487	has_author	Author 93
+487	of_year	2002
+487	of_target	H20
+487	has_similarity	S_0.8
+487	has_uncertainty	U_0.8
+488	of_type	laminar burning velocity measurement
+488	of_reactor	flame
+488	has_author	Author 43
+488	of_year	1970
+488	of_target	C5H6
+488	has_similarity	S_0.2
+488	has_uncertainty	U_0.2
+489	of_type	concentration time profile measurement
+489	of_reactor	stirred reactor
+489	has_author	Author 74
+489	of_year	1990
+489	of_target	H2S
+489	has_similarity	S_0.8
+489	has_uncertainty	U_0.8
+490	of_type	burner stabilized flame speciation measurement
+490	of_reactor	flame
+490	has_author	Author 57
+490	of_year	1993
+490	of_target	NH3
+490	has_similarity	S_0.9
+490	has_uncertainty	U_0.9
+491	of_type	outlet concentration measurement
+491	of_reactor	stirred reactor
+491	has_author	Author 53
+491	of_year	1975
+491	of_target	H20
+491	has_similarity	S_0.1
+491	has_uncertainty	U_0.1
+492	of_type	laminar burning velocity measurement
+492	of_reactor	flame
+492	has_author	Author 20
+492	of_year	1974
+492	of_target	H20
+492	has_similarity	S_0.8
+492	has_uncertainty	U_0.8
+493	of_type	burner stabilized flame speciation measurement
+493	of_reactor	flame
+493	has_author	Author 61
+493	of_year	1969
+493	of_target	CH4
+493	has_similarity	S_0.8
+493	has_uncertainty	U_0.8
+494	of_type	outlet concentration measurement
+494	of_reactor	shock tube
+494	has_author	Author 30
+494	of_year	1970
+494	of_target	C7H8
+494	has_similarity	S_0.1
+494	has_uncertainty	U_0.1
+495	of_type	concentration time profile measurement
+495	of_reactor	shock tube
+495	has_author	Author 68
+495	of_year	1974
+495	of_target	C0
+495	has_similarity	S_0.6
+495	has_uncertainty	U_0.6
+496	of_type	concentration time profile measurement
+496	of_reactor	shock tube
+496	has_author	Author 11
+496	of_year	1976
+496	of_target	CO2
+496	has_similarity	S_0.8
+496	has_uncertainty	U_0.8
+497	of_type	laminar burning velocity measurement
+497	of_reactor	flame
+497	has_author	Author 63
+497	of_year	1951
+497	of_target	CH3
+497	has_similarity	S_0.5
+497	has_uncertainty	U_0.5
+498	of_type	burner stabilized flame speciation measurement
+498	of_reactor	flame
+498	has_author	Author 36
+498	of_year	2021
+498	of_target	IDT
+498	has_similarity	S_0.1
+498	has_uncertainty	U_0.1
+499	of_type	ignition delay measurement
+499	of_reactor	shock tube
+499	has_author	Author 22
+499	of_year	2028
+499	of_target	H2S
+499	has_similarity	S_0.4
+499	has_uncertainty	U_0.4
+500	of_type	ignition delay measurement
+500	of_reactor	rapid compression machine
+500	has_author	Author 89
+500	of_year	1987
+500	of_target	CO2
+500	has_similarity	S_0.6
+500	has_uncertainty	U_0.6
+501	of_type	burner stabilized flame speciation measurement
+501	of_reactor	flame
+501	has_author	Author 46
+501	of_year	1979
+501	of_target	H2S
+501	has_similarity	S_0.9
+501	has_uncertainty	U_0.9
+502	of_type	burner stabilized flame speciation measurement
+502	of_reactor	flame
+502	has_author	Author 17
+502	of_year	2023
+502	of_target	H2
+502	has_similarity	S_0.8
+502	has_uncertainty	U_0.8
+503	of_type	outlet concentration measurement
+503	of_reactor	flow reactor
+503	has_author	Author 36
+503	of_year	2028
+503	of_target	C0
+503	has_similarity	S_0.0
+503	has_uncertainty	U_0.0
+504	of_type	burner stabilized flame speciation measurement
+504	of_reactor	flame
+504	has_author	Author 83
+504	of_year	1953
+504	of_target	CO2
+504	has_similarity	S_0.2
+504	has_uncertainty	U_0.2
+505	of_type	concentration time profile measurement
+505	of_reactor	shock tube
+505	has_author	Author 44
+505	of_year	1989
+505	of_target	NH3
+505	has_similarity	S_0.2
+505	has_uncertainty	U_0.2
+506	of_type	burner stabilized flame speciation measurement
+506	of_reactor	flame
+506	has_author	Author 54
+506	of_year	2018
+506	of_target	CH3
+506	has_similarity	S_0.1
+506	has_uncertainty	U_0.1
+507	of_type	ignition delay measurement
+507	of_reactor	shock tube
+507	has_author	Author 12
+507	of_year	1993
+507	of_target	C5H6
+507	has_similarity	S_0.1
+507	has_uncertainty	U_0.1
+508	of_type	ignition delay measurement
+508	of_reactor	rapid compression machine
+508	has_author	Author 3
+508	of_year	1980
+508	of_target	C7H8
+508	has_similarity	S_0.5
+508	has_uncertainty	U_0.5
+509	of_type	laminar burning velocity measurement
+509	of_reactor	flame
+509	has_author	Author 17
+509	of_year	2025
+509	of_target	C5H6
+509	has_similarity	S_0.2
+509	has_uncertainty	U_0.2
+510	of_type	burner stabilized flame speciation measurement
+510	of_reactor	flame
+510	has_author	Author 57
+510	of_year	1994
+510	of_target	C0
+510	has_similarity	S_0.8
+510	has_uncertainty	U_0.8
+511	of_type	jet stirred reactor measurement
+511	of_reactor	flow reactor
+511	has_author	Author 55
+511	of_year	1958
+511	of_target	H2S
+511	has_similarity	S_0.1
+511	has_uncertainty	U_0.1
+512	of_type	concentration time profile measurement
+512	of_reactor	shock tube
+512	has_author	Author 74
+512	of_year	2000
+512	of_target	C5H6
+512	has_similarity	S_0.5
+512	has_uncertainty	U_0.5
+513	of_type	burner stabilized flame speciation measurement
+513	of_reactor	flame
+513	has_author	Author 5
+513	of_year	2001
+513	of_target	C5H6
+513	has_similarity	S_0.7
+513	has_uncertainty	U_0.7
+514	of_type	jet stirred reactor measurement
+514	of_reactor	stirred reactor
+514	has_author	Author 56
+514	of_year	2014
+514	of_target	H2S
+514	has_similarity	S_0.6
+514	has_uncertainty	U_0.6
+515	of_type	concentration time profile measurement
+515	of_reactor	flow reactor
+515	has_author	Author 69
+515	of_year	1981
+515	of_target	CO2
+515	has_similarity	S_0.7
+515	has_uncertainty	U_0.7
+516	of_type	burner stabilized flame speciation measurement
+516	of_reactor	flame
+516	has_author	Author 30
+516	of_year	1970
+516	of_target	CO2
+516	has_similarity	S_1.0
+516	has_uncertainty	U_1.0
+517	of_type	outlet concentration measurement
+517	of_reactor	flow reactor
+517	has_author	Author 50
+517	of_year	2030
+517	of_target	NH3
+517	has_similarity	S_0.6
+517	has_uncertainty	U_0.6
+518	of_type	concentration time profile measurement
+518	of_reactor	flow reactor
+518	has_author	Author 29
+518	of_year	2014
+518	of_target	H20
+518	has_similarity	S_0.2
+518	has_uncertainty	U_0.2
+519	of_type	burner stabilized flame speciation measurement
+519	of_reactor	flame
+519	has_author	Author 31
+519	of_year	2027
+519	of_target	CO2
+519	has_similarity	S_1.0
+519	has_uncertainty	U_1.0
+520	of_type	concentration time profile measurement
+520	of_reactor	flow reactor
+520	has_author	Author 10
+520	of_year	2010
+520	of_target	CH3
+520	has_similarity	S_0.4
+520	has_uncertainty	U_0.4
+521	of_type	laminar burning velocity measurement
+521	of_reactor	flame
+521	has_author	Author 67
+521	of_year	1973
+521	of_target	NH3
+521	has_similarity	S_0.3
+521	has_uncertainty	U_0.3
+522	of_type	laminar burning velocity measurement
+522	of_reactor	flame
+522	has_author	Author 98
+522	of_year	2030
+522	of_target	H20
+522	has_similarity	S_1.0
+522	has_uncertainty	U_1.0
+523	of_type	jet stirred reactor measurement
+523	of_reactor	flow reactor
+523	has_author	Author 51
+523	of_year	2023
+523	of_target	C6H6
+523	has_similarity	S_0.2
+523	has_uncertainty	U_0.2
+524	of_type	burner stabilized flame speciation measurement
+524	of_reactor	flame
+524	has_author	Author 73
+524	of_year	1980
+524	of_target	C6H6
+524	has_similarity	S_0.7
+524	has_uncertainty	U_0.7
+525	of_type	burner stabilized flame speciation measurement
+525	of_reactor	flame
+525	has_author	Author 74
+525	of_year	1994
+525	of_target	C5H6
+525	has_similarity	S_0.2
+525	has_uncertainty	U_0.2
+526	of_type	ignition delay measurement
+526	of_reactor	rapid compression machine
+526	has_author	Author 41
+526	of_year	2026
+526	of_target	CH4
+526	has_similarity	S_0.7
+526	has_uncertainty	U_0.7
+527	of_type	laminar burning velocity measurement
+527	of_reactor	flame
+527	has_author	Author 65
+527	of_year	1974
+527	of_target	C0
+527	has_similarity	S_0.8
+527	has_uncertainty	U_0.8
+528	of_type	jet stirred reactor measurement
+528	of_reactor	shock tube
+528	has_author	Author 63
+528	of_year	1955
+528	of_target	CH3
+528	has_similarity	S_0.7
+528	has_uncertainty	U_0.7
+529	of_type	outlet concentration measurement
+529	of_reactor	flow reactor
+529	has_author	Author 30
+529	of_year	1967
+529	of_target	H2
+529	has_similarity	S_0.3
+529	has_uncertainty	U_0.3
+530	of_type	jet stirred reactor measurement
+530	of_reactor	flow reactor
+530	has_author	Author 65
+530	of_year	1975
+530	of_target	CO2
+530	has_similarity	S_0.4
+530	has_uncertainty	U_0.4
+531	of_type	laminar burning velocity measurement
+531	of_reactor	flame
+531	has_author	Author 59
+531	of_year	1970
+531	of_target	CH4
+531	has_similarity	S_0.9
+531	has_uncertainty	U_0.9
+532	of_type	ignition delay measurement
+532	of_reactor	shock tube
+532	has_author	Author 82
+532	of_year	2003
+532	of_target	H20
+532	has_similarity	S_0.3
+532	has_uncertainty	U_0.3
+533	of_type	outlet concentration measurement
+533	of_reactor	flow reactor
+533	has_author	Author 37
+533	of_year	2019
+533	of_target	C5H6
+533	has_similarity	S_0.1
+533	has_uncertainty	U_0.1
+534	of_type	concentration time profile measurement
+534	of_reactor	stirred reactor
+534	has_author	Author 95
+534	of_year	1962
+534	of_target	CH3
+534	has_similarity	S_0.2
+534	has_uncertainty	U_0.2
+535	of_type	concentration time profile measurement
+535	of_reactor	shock tube
+535	has_author	Author 71
+535	of_year	1956
+535	of_target	IDT
+535	has_similarity	S_0.1
+535	has_uncertainty	U_0.1
+536	of_type	jet stirred reactor measurement
+536	of_reactor	flow reactor
+536	has_author	Author 95
+536	of_year	1963
+536	of_target	H20
+536	has_similarity	S_0.0
+536	has_uncertainty	U_0.0
+537	of_type	burner stabilized flame speciation measurement
+537	of_reactor	flame
+537	has_author	Author 41
+537	of_year	2025
+537	of_target	H2S
+537	has_similarity	S_0.1
+537	has_uncertainty	U_0.1
+538	of_type	ignition delay measurement
+538	of_reactor	shock tube
+538	has_author	Author 18
+538	of_year	1995
+538	of_target	IDT
+538	has_similarity	S_0.4
+538	has_uncertainty	U_0.4
+539	of_type	outlet concentration measurement
+539	of_reactor	shock tube
+539	has_author	Author 27
+539	of_year	2013
+539	of_target	H20
+539	has_similarity	S_0.3
+539	has_uncertainty	U_0.3
+540	of_type	burner stabilized flame speciation measurement
+540	of_reactor	flame
+540	has_author	Author 87
+540	of_year	1980
+540	of_target	NH3
+540	has_similarity	S_0.2
+540	has_uncertainty	U_0.2
+541	of_type	outlet concentration measurement
+541	of_reactor	stirred reactor
+541	has_author	Author 50
+541	of_year	2030
+541	of_target	H20
+541	has_similarity	S_0.4
+541	has_uncertainty	U_0.4
+542	of_type	jet stirred reactor measurement
+542	of_reactor	stirred reactor
+542	has_author	Author 12
+542	of_year	1996
+542	of_target	CO2
+542	has_similarity	S_0.1
+542	has_uncertainty	U_0.1
+543	of_type	concentration time profile measurement
+543	of_reactor	stirred reactor
+543	has_author	Author 26
+543	of_year	1992
+543	of_target	C0
+543	has_similarity	S_0.0
+543	has_uncertainty	U_0.0
+544	of_type	outlet concentration measurement
+544	of_reactor	flow reactor
+544	has_author	Author 21
+544	of_year	1958
+544	of_target	CH3
+544	has_similarity	S_0.6
+544	has_uncertainty	U_0.6
+545	of_type	ignition delay measurement
+545	of_reactor	rapid compression machine
+545	has_author	Author 39
+545	of_year	1958
+545	of_target	IDT
+545	has_similarity	S_0.8
+545	has_uncertainty	U_0.8
+546	of_type	ignition delay measurement
+546	of_reactor	rapid compression machine
+546	has_author	Author 21
+546	of_year	1953
+546	of_target	CH4
+546	has_similarity	S_0.2
+546	has_uncertainty	U_0.2
+547	of_type	jet stirred reactor measurement
+547	of_reactor	shock tube
+547	has_author	Author 27
+547	of_year	2020
+547	of_target	H20
+547	has_similarity	S_0.3
+547	has_uncertainty	U_0.3
+548	of_type	outlet concentration measurement
+548	of_reactor	flow reactor
+548	has_author	Author 23
+548	of_year	2018
+548	of_target	CO2
+548	has_similarity	S_0.0
+548	has_uncertainty	U_0.0
+549	of_type	ignition delay measurement
+549	of_reactor	shock tube
+549	has_author	Author 14
+549	of_year	2026
+549	of_target	H20
+549	has_similarity	S_1.0
+549	has_uncertainty	U_1.0
+550	of_type	concentration time profile measurement
+550	of_reactor	stirred reactor
+550	has_author	Author 54
+550	of_year	2012
+550	of_target	C6H6
+550	has_similarity	S_0.7
+550	has_uncertainty	U_0.7
+551	of_type	concentration time profile measurement
+551	of_reactor	flow reactor
+551	has_author	Author 97
+551	of_year	1971
+551	of_target	CO2
+551	has_similarity	S_0.3
+551	has_uncertainty	U_0.3
+552	of_type	laminar burning velocity measurement
+552	of_reactor	flame
+552	has_author	Author 8
+552	of_year	1967
+552	of_target	H2
+552	has_similarity	S_0.6
+552	has_uncertainty	U_0.6
+553	of_type	laminar burning velocity measurement
+553	of_reactor	flame
+553	has_author	Author 44
+553	of_year	1990
+553	of_target	H2
+553	has_similarity	S_0.6
+553	has_uncertainty	U_0.6
+554	of_type	burner stabilized flame speciation measurement
+554	of_reactor	flame
+554	has_author	Author 12
+554	of_year	1991
+554	of_target	CH4
+554	has_similarity	S_0.8
+554	has_uncertainty	U_0.8
+555	of_type	jet stirred reactor measurement
+555	of_reactor	flow reactor
+555	has_author	Author 69
+555	of_year	1980
+555	of_target	C6H6
+555	has_similarity	S_0.4
+555	has_uncertainty	U_0.4
+556	of_type	jet stirred reactor measurement
+556	of_reactor	shock tube
+556	has_author	Author 25
+556	of_year	2014
+556	of_target	C5H6
+556	has_similarity	S_0.8
+556	has_uncertainty	U_0.8
+557	of_type	burner stabilized flame speciation measurement
+557	of_reactor	flame
+557	has_author	Author 62
+557	of_year	1996
+557	of_target	H2
+557	has_similarity	S_0.7
+557	has_uncertainty	U_0.7
+558	of_type	concentration time profile measurement
+558	of_reactor	shock tube
+558	has_author	Author 70
+558	of_year	2013
+558	of_target	H2
+558	has_similarity	S_0.3
+558	has_uncertainty	U_0.3
+559	of_type	concentration time profile measurement
+559	of_reactor	shock tube
+559	has_author	Author 71
+559	of_year	1957
+559	of_target	C6H6
+559	has_similarity	S_0.3
+559	has_uncertainty	U_0.3
+560	of_type	laminar burning velocity measurement
+560	of_reactor	flame
+560	has_author	Author 23
+560	of_year	2012
+560	of_target	C6H6
+560	has_similarity	S_0.1
+560	has_uncertainty	U_0.1
+561	of_type	ignition delay measurement
+561	of_reactor	rapid compression machine
+561	has_author	Author 67
+561	of_year	1972
+561	of_target	NH3
+561	has_similarity	S_0.9
+561	has_uncertainty	U_0.9
+562	of_type	outlet concentration measurement
+562	of_reactor	flow reactor
+562	has_author	Author 59
+562	of_year	1971
+562	of_target	CH4
+562	has_similarity	S_0.6
+562	has_uncertainty	U_0.6
+563	of_type	laminar burning velocity measurement
+563	of_reactor	flame
+563	has_author	Author 38
+563	of_year	2010
+563	of_target	C0
+563	has_similarity	S_0.6
+563	has_uncertainty	U_0.6
+564	of_type	outlet concentration measurement
+564	of_reactor	flow reactor
+564	has_author	Author 24
+564	of_year	2000
+564	of_target	CH4
+564	has_similarity	S_0.1
+564	has_uncertainty	U_0.1
+565	of_type	laminar burning velocity measurement
+565	of_reactor	flame
+565	has_author	Author 68
+565	of_year	1977
+565	of_target	C7H8
+565	has_similarity	S_0.8
+565	has_uncertainty	U_0.8
+566	of_type	burner stabilized flame speciation measurement
+566	of_reactor	flame
+566	has_author	Author 90
+566	of_year	2015
+566	of_target	C6H6
+566	has_similarity	S_0.0
+566	has_uncertainty	U_0.0
+567	of_type	concentration time profile measurement
+567	of_reactor	flow reactor
+567	has_author	Author 17
+567	of_year	2028
+567	of_target	C0
+567	has_similarity	S_0.5
+567	has_uncertainty	U_0.5
+568	of_type	concentration time profile measurement
+568	of_reactor	shock tube
+568	has_author	Author 97
+568	of_year	1980
+568	of_target	H20
+568	has_similarity	S_0.5
+568	has_uncertainty	U_0.5
+569	of_type	ignition delay measurement
+569	of_reactor	rapid compression machine
+569	has_author	Author 89
+569	of_year	1986
+569	of_target	H20
+569	has_similarity	S_0.9
+569	has_uncertainty	U_0.9
+570	of_type	laminar burning velocity measurement
+570	of_reactor	flame
+570	has_author	Author 4
+570	of_year	1982
+570	of_target	H2S
+570	has_similarity	S_0.4
+570	has_uncertainty	U_0.4
+571	of_type	outlet concentration measurement
+571	of_reactor	stirred reactor
+571	has_author	Author 14
+571	of_year	2022
+571	of_target	CH3
+571	has_similarity	S_0.8
+571	has_uncertainty	U_0.8
+572	of_type	concentration time profile measurement
+572	of_reactor	flow reactor
+572	has_author	Author 20
+572	of_year	1980
+572	of_target	IDT
+572	has_similarity	S_0.0
+572	has_uncertainty	U_0.0
+573	of_type	laminar burning velocity measurement
+573	of_reactor	flame
+573	has_author	Author 56
+573	of_year	2012
+573	of_target	IDT
+573	has_similarity	S_0.4
+573	has_uncertainty	U_0.4
+574	of_type	jet stirred reactor measurement
+574	of_reactor	flow reactor
+574	has_author	Author 48
+574	of_year	1980
+574	of_target	CH3
+574	has_similarity	S_0.3
+574	has_uncertainty	U_0.3
+575	of_type	jet stirred reactor measurement
+575	of_reactor	stirred reactor
+575	has_author	Author 52
+575	of_year	2014
+575	of_target	H2S
+575	has_similarity	S_0.4
+575	has_uncertainty	U_0.4
+576	of_type	laminar burning velocity measurement
+576	of_reactor	flame
+576	has_author	Author 4
+576	of_year	1988
+576	of_target	C5H6
+576	has_similarity	S_0.6
+576	has_uncertainty	U_0.6
+577	of_type	burner stabilized flame speciation measurement
+577	of_reactor	flame
+577	has_author	Author 70
+577	of_year	2010
+577	of_target	H2S
+577	has_similarity	S_0.6
+577	has_uncertainty	U_0.6
+578	of_type	outlet concentration measurement
+578	of_reactor	flow reactor
+578	has_author	Author 79
+578	of_year	1968
+578	of_target	IDT
+578	has_similarity	S_0.4
+578	has_uncertainty	U_0.4
+579	of_type	concentration time profile measurement
+579	of_reactor	stirred reactor
+579	has_author	Author 35
+579	of_year	1999
+579	of_target	C0
+579	has_similarity	S_0.3
+579	has_uncertainty	U_0.3
+580	of_type	concentration time profile measurement
+580	of_reactor	stirred reactor
+580	has_author	Author 38
+580	of_year	2014
+580	of_target	H2
+580	has_similarity	S_0.0
+580	has_uncertainty	U_0.0
+581	of_type	burner stabilized flame speciation measurement
+581	of_reactor	flame
+581	has_author	Author 3
+581	of_year	1980
+581	of_target	CH4
+581	has_similarity	S_0.0
+581	has_uncertainty	U_0.0
+582	of_type	ignition delay measurement
+582	of_reactor	rapid compression machine
+582	has_author	Author 5
+582	of_year	2002
+582	of_target	C6H6
+582	has_similarity	S_0.1
+582	has_uncertainty	U_0.1
+583	of_type	burner stabilized flame speciation measurement
+583	of_reactor	flame
+583	has_author	Author 22
+583	of_year	2029
+583	of_target	IDT
+583	has_similarity	S_0.0
+583	has_uncertainty	U_0.0
+584	of_type	jet stirred reactor measurement
+584	of_reactor	shock tube
+584	has_author	Author 97
+584	of_year	1977
+584	of_target	H2S
+584	has_similarity	S_0.0
+584	has_uncertainty	U_0.0
+585	of_type	laminar burning velocity measurement
+585	of_reactor	flame
+585	has_author	Author 15
+585	of_year	1970
+585	of_target	C0
+585	has_similarity	S_0.3
+585	has_uncertainty	U_0.3
+586	of_type	ignition delay measurement
+586	of_reactor	rapid compression machine
+586	has_author	Author 40
+586	of_year	1970
+586	of_target	CH3
+586	has_similarity	S_0.3
+586	has_uncertainty	U_0.3
+587	of_type	ignition delay measurement
+587	of_reactor	shock tube
+587	has_author	Author 8
+587	of_year	1965
+587	of_target	H2
+587	has_similarity	S_0.1
+587	has_uncertainty	U_0.1
+588	of_type	outlet concentration measurement
+588	of_reactor	stirred reactor
+588	has_author	Author 73
+588	of_year	1971
+588	of_target	H2S
+588	has_similarity	S_0.1
+588	has_uncertainty	U_0.1
+589	of_type	laminar burning velocity measurement
+589	of_reactor	flame
+589	has_author	Author 35
+589	of_year	2000
+589	of_target	CO2
+589	has_similarity	S_0.4
+589	has_uncertainty	U_0.4
+590	of_type	laminar burning velocity measurement
+590	of_reactor	flame
+590	has_author	Author 15
+590	of_year	1971
+590	of_target	C0
+590	has_similarity	S_0.2
+590	has_uncertainty	U_0.2
+591	of_type	ignition delay measurement
+591	of_reactor	rapid compression machine
+591	has_author	Author 20
+591	of_year	1970
+591	of_target	NH3
+591	has_similarity	S_0.3
+591	has_uncertainty	U_0.3
+592	of_type	jet stirred reactor measurement
+592	of_reactor	stirred reactor
+592	has_author	Author 31
+592	of_year	2029
+592	of_target	C6H6
+592	has_similarity	S_0.7
+592	has_uncertainty	U_0.7
+593	of_type	ignition delay measurement
+593	of_reactor	shock tube
+593	has_author	Author 74
+593	of_year	1993
+593	of_target	H2
+593	has_similarity	S_0.6
+593	has_uncertainty	U_0.6
+594	of_type	burner stabilized flame speciation measurement
+594	of_reactor	flame
+594	has_author	Author 83
+594	of_year	1952
+594	of_target	C7H8
+594	has_similarity	S_0.8
+594	has_uncertainty	U_0.8
+595	of_type	laminar burning velocity measurement
+595	of_reactor	flame
+595	has_author	Author 14
+595	of_year	2024
+595	of_target	CH4
+595	has_similarity	S_0.7
+595	has_uncertainty	U_0.7
+596	of_type	concentration time profile measurement
+596	of_reactor	shock tube
+596	has_author	Author 91
+596	of_year	2023
+596	of_target	C6H6
+596	has_similarity	S_0.5
+596	has_uncertainty	U_0.5
+597	of_type	jet stirred reactor measurement
+597	of_reactor	flow reactor
+597	has_author	Author 79
+597	of_year	1965
+597	of_target	H2S
+597	has_similarity	S_0.3
+597	has_uncertainty	U_0.3
+598	of_type	ignition delay measurement
+598	of_reactor	rapid compression machine
+598	has_author	Author 73
+598	of_year	1978
+598	of_target	CO2
+598	has_similarity	S_0.8
+598	has_uncertainty	U_0.8
+599	of_type	jet stirred reactor measurement
+599	of_reactor	shock tube
+599	has_author	Author 91
+599	of_year	2022
+599	of_target	IDT
+599	has_similarity	S_0.8
+599	has_uncertainty	U_0.8
+600	of_type	laminar burning velocity measurement
+600	of_reactor	flame
+600	has_author	Author 45
+600	of_year	1982
+600	of_target	CH4
+600	has_similarity	S_0.7
+600	has_uncertainty	U_0.7
+601	of_type	burner stabilized flame speciation measurement
+601	of_reactor	flame
+601	has_author	Author 1
+601	of_year	1973
+601	of_target	NH3
+601	has_similarity	S_0.5
+601	has_uncertainty	U_0.5
+602	of_type	concentration time profile measurement
+602	of_reactor	flow reactor
+602	has_author	Author 3
+602	of_year	1980
+602	of_target	CH4
+602	has_similarity	S_0.2
+602	has_uncertainty	U_0.2
+603	of_type	outlet concentration measurement
+603	of_reactor	stirred reactor
+603	has_author	Author 52
+603	of_year	2019
+603	of_target	CO2
+603	has_similarity	S_0.6
+603	has_uncertainty	U_0.6
+604	of_type	burner stabilized flame speciation measurement
+604	of_reactor	flame
+604	has_author	Author 67
+604	of_year	1970
+604	of_target	C6H6
+604	has_similarity	S_0.3
+604	has_uncertainty	U_0.3
+605	of_type	laminar burning velocity measurement
+605	of_reactor	flame
+605	has_author	Author 87
+605	of_year	1985
+605	of_target	CH3
+605	has_similarity	S_0.9
+605	has_uncertainty	U_0.9
+606	of_type	outlet concentration measurement
+606	of_reactor	flow reactor
+606	has_author	Author 85
+606	of_year	1961
+606	of_target	H2
+606	has_similarity	S_0.1
+606	has_uncertainty	U_0.1
+607	of_type	jet stirred reactor measurement
+607	of_reactor	stirred reactor
+607	has_author	Author 74
+607	of_year	1990
+607	of_target	C0
+607	has_similarity	S_1.0
+607	has_uncertainty	U_1.0
+608	of_type	laminar burning velocity measurement
+608	of_reactor	flame
+608	has_author	Author 18
+608	of_year	1997
+608	of_target	CO2
+608	has_similarity	S_0.1
+608	has_uncertainty	U_0.1
+609	of_type	laminar burning velocity measurement
+609	of_reactor	flame
+609	has_author	Author 74
+609	of_year	1992
+609	of_target	C6H6
+609	has_similarity	S_0.3
+609	has_uncertainty	U_0.3
+610	of_type	outlet concentration measurement
+610	of_reactor	flow reactor
+610	has_author	Author 55
+610	of_year	1959
+610	of_target	CH4
+610	has_similarity	S_0.8
+610	has_uncertainty	U_0.8
+611	of_type	jet stirred reactor measurement
+611	of_reactor	stirred reactor
+611	has_author	Author 59
+611	of_year	1980
+611	of_target	NH3
+611	has_similarity	S_0.8
+611	has_uncertainty	U_0.8
+612	of_type	concentration time profile measurement
+612	of_reactor	flow reactor
+612	has_author	Author 55
+612	of_year	1956
+612	of_target	IDT
+612	has_similarity	S_0.4
+612	has_uncertainty	U_0.4
+613	of_type	jet stirred reactor measurement
+613	of_reactor	shock tube
+613	has_author	Author 69
+613	of_year	1982
+613	of_target	H2S
+613	has_similarity	S_0.9
+613	has_uncertainty	U_0.9
+614	of_type	outlet concentration measurement
+614	of_reactor	shock tube
+614	has_author	Author 60
+614	of_year	1963
+614	of_target	IDT
+614	has_similarity	S_0.7
+614	has_uncertainty	U_0.7
+615	of_type	burner stabilized flame speciation measurement
+615	of_reactor	flame
+615	has_author	Author 65
+615	of_year	1978
+615	of_target	C7H8
+615	has_similarity	S_0.7
+615	has_uncertainty	U_0.7
+616	of_type	burner stabilized flame speciation measurement
+616	of_reactor	flame
+616	has_author	Author 41
+616	of_year	2029
+616	of_target	C0
+616	has_similarity	S_0.8
+616	has_uncertainty	U_0.8
+617	of_type	jet stirred reactor measurement
+617	of_reactor	shock tube
+617	has_author	Author 0
+617	of_year	1989
+617	of_target	H2
+617	has_similarity	S_0.7
+617	has_uncertainty	U_0.7
+618	of_type	laminar burning velocity measurement
+618	of_reactor	flame
+618	has_author	Author 95
+618	of_year	1966
+618	of_target	C5H6
+618	has_similarity	S_0.5
+618	has_uncertainty	U_0.5
+619	of_type	outlet concentration measurement
+619	of_reactor	flow reactor
+619	has_author	Author 22
+619	of_year	2030
+619	of_target	H2S
+619	has_similarity	S_0.9
+619	has_uncertainty	U_0.9
+620	of_type	ignition delay measurement
+620	of_reactor	rapid compression machine
+620	has_author	Author 10
+620	of_year	2014
+620	of_target	H2S
+620	has_similarity	S_0.4
+620	has_uncertainty	U_0.4
+621	of_type	outlet concentration measurement
+621	of_reactor	shock tube
+621	has_author	Author 53
+621	of_year	1977
+621	of_target	CO2
+621	has_similarity	S_1.0
+621	has_uncertainty	U_1.0
+622	of_type	concentration time profile measurement
+622	of_reactor	shock tube
+622	has_author	Author 59
+622	of_year	1979
+622	of_target	CH3
+622	has_similarity	S_0.0
+622	has_uncertainty	U_0.0
+623	of_type	laminar burning velocity measurement
+623	of_reactor	flame
+623	has_author	Author 31
+623	of_year	2029
+623	of_target	H2S
+623	has_similarity	S_0.8
+623	has_uncertainty	U_0.8
+624	of_type	concentration time profile measurement
+624	of_reactor	shock tube
+624	has_author	Author 27
+624	of_year	2010
+624	of_target	H20
+624	has_similarity	S_0.2
+624	has_uncertainty	U_0.2
+625	of_type	jet stirred reactor measurement
+625	of_reactor	shock tube
+625	has_author	Author 49
+625	of_year	1958
+625	of_target	CH3
+625	has_similarity	S_0.3
+625	has_uncertainty	U_0.3
+626	of_type	laminar burning velocity measurement
+626	of_reactor	flame
+626	has_author	Author 71
+626	of_year	1959
+626	of_target	IDT
+626	has_similarity	S_0.1
+626	has_uncertainty	U_0.1
+627	of_type	outlet concentration measurement
+627	of_reactor	flow reactor
+627	has_author	Author 78
+627	of_year	1977
+627	of_target	CH3
+627	has_similarity	S_0.9
+627	has_uncertainty	U_0.9
+628	of_type	jet stirred reactor measurement
+628	of_reactor	shock tube
+628	has_author	Author 28
+628	of_year	2003
+628	of_target	C0
+628	has_similarity	S_0.7
+628	has_uncertainty	U_0.7
+629	of_type	ignition delay measurement
+629	of_reactor	rapid compression machine
+629	has_author	Author 79
+629	of_year	1967
+629	of_target	CH4
+629	has_similarity	S_0.6
+629	has_uncertainty	U_0.6
+630	of_type	burner stabilized flame speciation measurement
+630	of_reactor	flame
+630	has_author	Author 19
+630	of_year	2020
+630	of_target	IDT
+630	has_similarity	S_0.1
+630	has_uncertainty	U_0.1
+631	of_type	ignition delay measurement
+631	of_reactor	rapid compression machine
+631	has_author	Author 24
+631	of_year	1992
+631	of_target	NH3
+631	has_similarity	S_0.9
+631	has_uncertainty	U_0.9
+632	of_type	concentration time profile measurement
+632	of_reactor	stirred reactor
+632	has_author	Author 10
+632	of_year	2019
+632	of_target	NH3
+632	has_similarity	S_0.2
+632	has_uncertainty	U_0.2
+633	of_type	burner stabilized flame speciation measurement
+633	of_reactor	flame
+633	has_author	Author 14
+633	of_year	2029
+633	of_target	CH3
+633	has_similarity	S_0.5
+633	has_uncertainty	U_0.5
+634	of_type	laminar burning velocity measurement
+634	of_reactor	flame
+634	has_author	Author 95
+634	of_year	1960
+634	of_target	NH3
+634	has_similarity	S_0.2
+634	has_uncertainty	U_0.2
+635	of_type	outlet concentration measurement
+635	of_reactor	flow reactor
+635	has_author	Author 17
+635	of_year	2024
+635	of_target	C6H6
+635	has_similarity	S_1.0
+635	has_uncertainty	U_1.0
+636	of_type	concentration time profile measurement
+636	of_reactor	flow reactor
+636	has_author	Author 39
+636	of_year	1959
+636	of_target	C5H6
+636	has_similarity	S_0.3
+636	has_uncertainty	U_0.3
+637	of_type	outlet concentration measurement
+637	of_reactor	stirred reactor
+637	has_author	Author 17
+637	of_year	2020
+637	of_target	H20
+637	has_similarity	S_0.8
+637	has_uncertainty	U_0.8
+638	of_type	burner stabilized flame speciation measurement
+638	of_reactor	flame
+638	has_author	Author 9
+638	of_year	2013
+638	of_target	H20
+638	has_similarity	S_1.0
+638	has_uncertainty	U_1.0
+639	of_type	laminar burning velocity measurement
+639	of_reactor	flame
+639	has_author	Author 15
+639	of_year	1975
+639	of_target	C7H8
+639	has_similarity	S_0.1
+639	has_uncertainty	U_0.1
+640	of_type	ignition delay measurement
+640	of_reactor	shock tube
+640	has_author	Author 93
+640	of_year	2001
+640	of_target	CO2
+640	has_similarity	S_0.7
+640	has_uncertainty	U_0.7
+641	of_type	outlet concentration measurement
+641	of_reactor	stirred reactor
+641	has_author	Author 53
+641	of_year	1979
+641	of_target	CO2
+641	has_similarity	S_0.5
+641	has_uncertainty	U_0.5
+642	of_type	laminar burning velocity measurement
+642	of_reactor	flame
+642	has_author	Author 88
+642	of_year	1968
+642	of_target	CH3
+642	has_similarity	S_1.0
+642	has_uncertainty	U_1.0
+643	of_type	concentration time profile measurement
+643	of_reactor	stirred reactor
+643	has_author	Author 34
+643	of_year	2018
+643	of_target	CO2
+643	has_similarity	S_0.3
+643	has_uncertainty	U_0.3
+644	of_type	outlet concentration measurement
+644	of_reactor	stirred reactor
+644	has_author	Author 97
+644	of_year	1979
+644	of_target	C5H6
+644	has_similarity	S_0.2
+644	has_uncertainty	U_0.2
+645	of_type	laminar burning velocity measurement
+645	of_reactor	flame
+645	has_author	Author 94
+645	of_year	1980
+645	of_target	CH4
+645	has_similarity	S_0.9
+645	has_uncertainty	U_0.9
+646	of_type	ignition delay measurement
+646	of_reactor	shock tube
+646	has_author	Author 48
+646	of_year	1990
+646	of_target	C6H6
+646	has_similarity	S_0.4
+646	has_uncertainty	U_0.4
+647	of_type	jet stirred reactor measurement
+647	of_reactor	stirred reactor
+647	has_author	Author 18
+647	of_year	1994
+647	of_target	C0
+647	has_similarity	S_0.6
+647	has_uncertainty	U_0.6
+648	of_type	outlet concentration measurement
+648	of_reactor	stirred reactor
+648	has_author	Author 45
+648	of_year	1982
+648	of_target	C5H6
+648	has_similarity	S_0.3
+648	has_uncertainty	U_0.3
+649	of_type	ignition delay measurement
+649	of_reactor	rapid compression machine
+649	has_author	Author 57
+649	of_year	1991
+649	of_target	CO2
+649	has_similarity	S_0.9
+649	has_uncertainty	U_0.9
+650	of_type	ignition delay measurement
+650	of_reactor	shock tube
+650	has_author	Author 4
+650	of_year	1982
+650	of_target	H2
+650	has_similarity	S_0.8
+650	has_uncertainty	U_0.8
+651	of_type	ignition delay measurement
+651	of_reactor	shock tube
+651	has_author	Author 76
+651	of_year	2012
+651	of_target	C5H6
+651	has_similarity	S_0.8
+651	has_uncertainty	U_0.8
+652	of_type	outlet concentration measurement
+652	of_reactor	shock tube
+652	has_author	Author 11
+652	of_year	1974
+652	of_target	C0
+652	has_similarity	S_0.7
+652	has_uncertainty	U_0.7
+653	of_type	jet stirred reactor measurement
+653	of_reactor	flow reactor
+653	has_author	Author 65
+653	of_year	1971
+653	of_target	C7H8
+653	has_similarity	S_0.0
+653	has_uncertainty	U_0.0
+654	of_type	jet stirred reactor measurement
+654	of_reactor	shock tube
+654	has_author	Author 84
+654	of_year	2000
+654	of_target	C7H8
+654	has_similarity	S_0.0
+654	has_uncertainty	U_0.0
+655	of_type	laminar burning velocity measurement
+655	of_reactor	flame
+655	has_author	Author 83
+655	of_year	1953
+655	of_target	C0
+655	has_similarity	S_0.7
+655	has_uncertainty	U_0.7
+656	of_type	concentration time profile measurement
+656	of_reactor	flow reactor
+656	has_author	Author 87
+656	of_year	1989
+656	of_target	CH3
+656	has_similarity	S_1.0
+656	has_uncertainty	U_1.0
+657	of_type	laminar burning velocity measurement
+657	of_reactor	flame
+657	has_author	Author 92
+657	of_year	2004
+657	of_target	H2S
+657	has_similarity	S_0.4
+657	has_uncertainty	U_0.4
+658	of_type	concentration time profile measurement
+658	of_reactor	shock tube
+658	has_author	Author 5
+658	of_year	2001
+658	of_target	IDT
+658	has_similarity	S_0.6
+658	has_uncertainty	U_0.6
+659	of_type	concentration time profile measurement
+659	of_reactor	stirred reactor
+659	has_author	Author 66
+659	of_year	2014
+659	of_target	C6H6
+659	has_similarity	S_0.2
+659	has_uncertainty	U_0.2
+660	of_type	jet stirred reactor measurement
+660	of_reactor	shock tube
+660	has_author	Author 91
+660	of_year	2027
+660	of_target	H2
+660	has_similarity	S_0.3
+660	has_uncertainty	U_0.3
+661	of_type	ignition delay measurement
+661	of_reactor	rapid compression machine
+661	has_author	Author 95
+661	of_year	1960
+661	of_target	IDT
+661	has_similarity	S_0.3
+661	has_uncertainty	U_0.3
+662	of_type	ignition delay measurement
+662	of_reactor	shock tube
+662	has_author	Author 64
+662	of_year	1975
+662	of_target	CH3
+662	has_similarity	S_0.6
+662	has_uncertainty	U_0.6
+663	of_type	ignition delay measurement
+663	of_reactor	shock tube
+663	has_author	Author 94
+663	of_year	1972
+663	of_target	IDT
+663	has_similarity	S_0.7
+663	has_uncertainty	U_0.7
+664	of_type	concentration time profile measurement
+664	of_reactor	stirred reactor
+664	has_author	Author 13
+664	of_year	1989
+664	of_target	H2S
+664	has_similarity	S_0.4
+664	has_uncertainty	U_0.4
+665	of_type	outlet concentration measurement
+665	of_reactor	shock tube
+665	has_author	Author 85
+665	of_year	1961
+665	of_target	IDT
+665	has_similarity	S_0.6
+665	has_uncertainty	U_0.6
+666	of_type	concentration time profile measurement
+666	of_reactor	flow reactor
+666	has_author	Author 3
+666	of_year	1974
+666	of_target	CO2
+666	has_similarity	S_0.9
+666	has_uncertainty	U_0.9
+667	of_type	jet stirred reactor measurement
+667	of_reactor	stirred reactor
+667	has_author	Author 21
+667	of_year	1958
+667	of_target	H2S
+667	has_similarity	S_0.2
+667	has_uncertainty	U_0.2
+668	of_type	concentration time profile measurement
+668	of_reactor	flow reactor
+668	has_author	Author 83
+668	of_year	1952
+668	of_target	C6H6
+668	has_similarity	S_0.9
+668	has_uncertainty	U_0.9
+669	of_type	jet stirred reactor measurement
+669	of_reactor	shock tube
+669	has_author	Author 75
+669	of_year	1970
+669	of_target	C0
+669	has_similarity	S_0.3
+669	has_uncertainty	U_0.3
+670	of_type	ignition delay measurement
+670	of_reactor	shock tube
+670	has_author	Author 73
+670	of_year	1980
+670	of_target	H2
+670	has_similarity	S_0.4
+670	has_uncertainty	U_0.4
+671	of_type	ignition delay measurement
+671	of_reactor	rapid compression machine
+671	has_author	Author 25
+671	of_year	2015
+671	of_target	CO2
+671	has_similarity	S_0.7
+671	has_uncertainty	U_0.7
+672	of_type	outlet concentration measurement
+672	of_reactor	flow reactor
+672	has_author	Author 7
+672	of_year	1990
+672	of_target	NH3
+672	has_similarity	S_0.7
+672	has_uncertainty	U_0.7
+673	of_type	burner stabilized flame speciation measurement
+673	of_reactor	flame
+673	has_author	Author 56
+673	of_year	2019
+673	of_target	H20
+673	has_similarity	S_0.9
+673	has_uncertainty	U_0.9
+674	of_type	laminar burning velocity measurement
+674	of_reactor	flame
+674	has_author	Author 36
+674	of_year	2024
+674	of_target	H20
+674	has_similarity	S_0.3
+674	has_uncertainty	U_0.3
+675	of_type	concentration time profile measurement
+675	of_reactor	shock tube
+675	has_author	Author 65
+675	of_year	1972
+675	of_target	IDT
+675	has_similarity	S_0.9
+675	has_uncertainty	U_0.9
+676	of_type	jet stirred reactor measurement
+676	of_reactor	stirred reactor
+676	has_author	Author 35
+676	of_year	1992
+676	of_target	H2S
+676	has_similarity	S_0.3
+676	has_uncertainty	U_0.3
+677	of_type	laminar burning velocity measurement
+677	of_reactor	flame
+677	has_author	Author 97
+677	of_year	1980
+677	of_target	NH3
+677	has_similarity	S_0.5
+677	has_uncertainty	U_0.5
+678	of_type	burner stabilized flame speciation measurement
+678	of_reactor	flame
+678	has_author	Author 9
+678	of_year	2020
+678	of_target	C7H8
+678	has_similarity	S_0.1
+678	has_uncertainty	U_0.1
+679	of_type	burner stabilized flame speciation measurement
+679	of_reactor	flame
+679	has_author	Author 9
+679	of_year	2015
+679	of_target	C5H6
+679	has_similarity	S_1.0
+679	has_uncertainty	U_1.0
+680	of_type	jet stirred reactor measurement
+680	of_reactor	flow reactor
+680	has_author	Author 91
+680	of_year	2024
+680	of_target	CH4
+680	has_similarity	S_0.3
+680	has_uncertainty	U_0.3
+681	of_type	burner stabilized flame speciation measurement
+681	of_reactor	flame
+681	has_author	Author 40
+681	of_year	1966
+681	of_target	H2S
+681	has_similarity	S_0.3
+681	has_uncertainty	U_0.3
+682	of_type	concentration time profile measurement
+682	of_reactor	shock tube
+682	has_author	Author 23
+682	of_year	2016
+682	of_target	C5H6
+682	has_similarity	S_0.8
+682	has_uncertainty	U_0.8
+683	of_type	concentration time profile measurement
+683	of_reactor	flow reactor
+683	has_author	Author 88
+683	of_year	1961
+683	of_target	C0
+683	has_similarity	S_0.5
+683	has_uncertainty	U_0.5
+684	of_type	outlet concentration measurement
+684	of_reactor	flow reactor
+684	has_author	Author 21
+684	of_year	1953
+684	of_target	C6H6
+684	has_similarity	S_0.1
+684	has_uncertainty	U_0.1
+685	of_type	ignition delay measurement
+685	of_reactor	shock tube
+685	has_author	Author 1
+685	of_year	1973
+685	of_target	H2
+685	has_similarity	S_0.2
+685	has_uncertainty	U_0.2
+686	of_type	concentration time profile measurement
+686	of_reactor	flow reactor
+686	has_author	Author 10
+686	of_year	2019
+686	of_target	IDT
+686	has_similarity	S_0.7
+686	has_uncertainty	U_0.7
+687	of_type	laminar burning velocity measurement
+687	of_reactor	flame
+687	has_author	Author 92
+687	of_year	2000
+687	of_target	NH3
+687	has_similarity	S_0.8
+687	has_uncertainty	U_0.8
+688	of_type	outlet concentration measurement
+688	of_reactor	stirred reactor
+688	has_author	Author 41
+688	of_year	2025
+688	of_target	C5H6
+688	has_similarity	S_0.8
+688	has_uncertainty	U_0.8
+689	of_type	ignition delay measurement
+689	of_reactor	shock tube
+689	has_author	Author 18
+689	of_year	2000
+689	of_target	C5H6
+689	has_similarity	S_0.8
+689	has_uncertainty	U_0.8
+690	of_type	laminar burning velocity measurement
+690	of_reactor	flame
+690	has_author	Author 83
+690	of_year	1958
+690	of_target	IDT
+690	has_similarity	S_0.1
+690	has_uncertainty	U_0.1
+691	of_type	ignition delay measurement
+691	of_reactor	shock tube
+691	has_author	Author 89
+691	of_year	1990
+691	of_target	IDT
+691	has_similarity	S_0.6
+691	has_uncertainty	U_0.6
+692	of_type	laminar burning velocity measurement
+692	of_reactor	flame
+692	has_author	Author 69
+692	of_year	1981
+692	of_target	C6H6
+692	has_similarity	S_0.8
+692	has_uncertainty	U_0.8
+693	of_type	outlet concentration measurement
+693	of_reactor	shock tube
+693	has_author	Author 69
+693	of_year	1985
+693	of_target	CH4
+693	has_similarity	S_0.1
+693	has_uncertainty	U_0.1
+694	of_type	concentration time profile measurement
+694	of_reactor	flow reactor
+694	has_author	Author 46
+694	of_year	1977
+694	of_target	IDT
+694	has_similarity	S_0.1
+694	has_uncertainty	U_0.1
+695	of_type	outlet concentration measurement
+695	of_reactor	flow reactor
+695	has_author	Author 80
+695	of_year	1990
+695	of_target	C0
+695	has_similarity	S_0.9
+695	has_uncertainty	U_0.9
+696	of_type	burner stabilized flame speciation measurement
+696	of_reactor	flame
+696	has_author	Author 80
+696	of_year	1988
+696	of_target	C5H6
+696	has_similarity	S_0.8
+696	has_uncertainty	U_0.8
+697	of_type	jet stirred reactor measurement
+697	of_reactor	stirred reactor
+697	has_author	Author 25
+697	of_year	2012
+697	of_target	CH4
+697	has_similarity	S_1.0
+697	has_uncertainty	U_1.0
+698	of_type	burner stabilized flame speciation measurement
+698	of_reactor	flame
+698	has_author	Author 99
+698	of_year	1967
+698	of_target	CH4
+698	has_similarity	S_0.4
+698	has_uncertainty	U_0.4
+699	of_type	outlet concentration measurement
+699	of_reactor	stirred reactor
+699	has_author	Author 39
+699	of_year	1952
+699	of_target	CH4
+699	has_similarity	S_0.6
+699	has_uncertainty	U_0.6
+700	of_type	laminar burning velocity measurement
+700	of_reactor	flame
+700	has_author	Author 22
+700	of_year	2028
+700	of_target	C5H6
+700	has_similarity	S_0.7
+700	has_uncertainty	U_0.7
+701	of_type	burner stabilized flame speciation measurement
+701	of_reactor	flame
+701	has_author	Author 0
+701	of_year	1985
+701	of_target	C5H6
+701	has_similarity	S_0.7
+701	has_uncertainty	U_0.7
+702	of_type	jet stirred reactor measurement
+702	of_reactor	stirred reactor
+702	has_author	Author 25
+702	of_year	2017
+702	of_target	C7H8
+702	has_similarity	S_0.2
+702	has_uncertainty	U_0.2
+703	of_type	outlet concentration measurement
+703	of_reactor	stirred reactor
+703	has_author	Author 97
+703	of_year	1975
+703	of_target	H2S
+703	has_similarity	S_0.6
+703	has_uncertainty	U_0.6
+704	of_type	laminar burning velocity measurement
+704	of_reactor	flame
+704	has_author	Author 1
+704	of_year	1971
+704	of_target	CH3
+704	has_similarity	S_0.8
+704	has_uncertainty	U_0.8
+705	of_type	outlet concentration measurement
+705	of_reactor	stirred reactor
+705	has_author	Author 78
+705	of_year	1974
+705	of_target	NH3
+705	has_similarity	S_0.6
+705	has_uncertainty	U_0.6
+706	of_type	laminar burning velocity measurement
+706	of_reactor	flame
+706	has_author	Author 91
+706	of_year	2030
+706	of_target	H2S
+706	has_similarity	S_0.7
+706	has_uncertainty	U_0.7
+707	of_type	concentration time profile measurement
+707	of_reactor	shock tube
+707	has_author	Author 83
+707	of_year	1958
+707	of_target	H2
+707	has_similarity	S_0.6
+707	has_uncertainty	U_0.6
+708	of_type	outlet concentration measurement
+708	of_reactor	flow reactor
+708	has_author	Author 8
+708	of_year	1966
+708	of_target	H2
+708	has_similarity	S_0.9
+708	has_uncertainty	U_0.9
+709	of_type	burner stabilized flame speciation measurement
+709	of_reactor	flame
+709	has_author	Author 72
+709	of_year	1952
+709	of_target	C0
+709	has_similarity	S_0.9
+709	has_uncertainty	U_0.9
+710	of_type	burner stabilized flame speciation measurement
+710	of_reactor	flame
+710	has_author	Author 93
+710	of_year	2009
+710	of_target	CH3
+710	has_similarity	S_0.0
+710	has_uncertainty	U_0.0
+711	of_type	jet stirred reactor measurement
+711	of_reactor	shock tube
+711	has_author	Author 35
+711	of_year	1996
+711	of_target	C0
+711	has_similarity	S_0.2
+711	has_uncertainty	U_0.2
+712	of_type	burner stabilized flame speciation measurement
+712	of_reactor	flame
+712	has_author	Author 62
+712	of_year	1991
+712	of_target	H2
+712	has_similarity	S_0.2
+712	has_uncertainty	U_0.2
+713	of_type	ignition delay measurement
+713	of_reactor	rapid compression machine
+713	has_author	Author 27
+713	of_year	2016
+713	of_target	C5H6
+713	has_similarity	S_0.8
+713	has_uncertainty	U_0.8
+714	of_type	outlet concentration measurement
+714	of_reactor	shock tube
+714	has_author	Author 26
+714	of_year	1997
+714	of_target	H2
+714	has_similarity	S_0.9
+714	has_uncertainty	U_0.9
+715	of_type	jet stirred reactor measurement
+715	of_reactor	stirred reactor
+715	has_author	Author 1
+715	of_year	1973
+715	of_target	C7H8
+715	has_similarity	S_0.8
+715	has_uncertainty	U_0.8
+716	of_type	outlet concentration measurement
+716	of_reactor	flow reactor
+716	has_author	Author 90
+716	of_year	2017
+716	of_target	CH4
+716	has_similarity	S_0.1
+716	has_uncertainty	U_0.1
+717	of_type	concentration time profile measurement
+717	of_reactor	stirred reactor
+717	has_author	Author 34
+717	of_year	2010
+717	of_target	H2S
+717	has_similarity	S_0.3
+717	has_uncertainty	U_0.3
+718	of_type	jet stirred reactor measurement
+718	of_reactor	stirred reactor
+718	has_author	Author 41
+718	of_year	2021
+718	of_target	C6H6
+718	has_similarity	S_0.1
+718	has_uncertainty	U_0.1
+719	of_type	outlet concentration measurement
+719	of_reactor	stirred reactor
+719	has_author	Author 21
+719	of_year	1955
+719	of_target	C5H6
+719	has_similarity	S_0.8
+719	has_uncertainty	U_0.8
+720	of_type	burner stabilized flame speciation measurement
+720	of_reactor	flame
+720	has_author	Author 11
+720	of_year	1970
+720	of_target	H2
+720	has_similarity	S_0.9
+720	has_uncertainty	U_0.9
+721	of_type	burner stabilized flame speciation measurement
+721	of_reactor	flame
+721	has_author	Author 21
+721	of_year	1957
+721	of_target	CH4
+721	has_similarity	S_0.6
+721	has_uncertainty	U_0.6
+722	of_type	ignition delay measurement
+722	of_reactor	shock tube
+722	has_author	Author 15
+722	of_year	1972
+722	of_target	CH4
+722	has_similarity	S_0.2
+722	has_uncertainty	U_0.2
+723	of_type	burner stabilized flame speciation measurement
+723	of_reactor	flame
+723	has_author	Author 28
+723	of_year	2005
+723	of_target	NH3
+723	has_similarity	S_0.7
+723	has_uncertainty	U_0.7
+724	of_type	laminar burning velocity measurement
+724	of_reactor	flame
+724	has_author	Author 17
+724	of_year	2026
+724	of_target	CO2
+724	has_similarity	S_0.1
+724	has_uncertainty	U_0.1
+725	of_type	laminar burning velocity measurement
+725	of_reactor	flame
+725	has_author	Author 24
+725	of_year	1994
+725	of_target	C5H6
+725	has_similarity	S_0.3
+725	has_uncertainty	U_0.3
+726	of_type	burner stabilized flame speciation measurement
+726	of_reactor	flame
+726	has_author	Author 26
+726	of_year	2000
+726	of_target	CH3
+726	has_similarity	S_0.3
+726	has_uncertainty	U_0.3
+727	of_type	jet stirred reactor measurement
+727	of_reactor	shock tube
+727	has_author	Author 33
+727	of_year	1957
+727	of_target	IDT
+727	has_similarity	S_0.4
+727	has_uncertainty	U_0.4
+728	of_type	ignition delay measurement
+728	of_reactor	shock tube
+728	has_author	Author 13
+728	of_year	1988
+728	of_target	C0
+728	has_similarity	S_0.4
+728	has_uncertainty	U_0.4
+729	of_type	ignition delay measurement
+729	of_reactor	rapid compression machine
+729	has_author	Author 11
+729	of_year	1971
+729	of_target	C0
+729	has_similarity	S_0.7
+729	has_uncertainty	U_0.7
+730	of_type	concentration time profile measurement
+730	of_reactor	shock tube
+730	has_author	Author 71
+730	of_year	1960
+730	of_target	IDT
+730	has_similarity	S_0.7
+730	has_uncertainty	U_0.7
+731	of_type	burner stabilized flame speciation measurement
+731	of_reactor	flame
+731	has_author	Author 20
+731	of_year	1972
+731	of_target	CH3
+731	has_similarity	S_0.6
+731	has_uncertainty	U_0.6
+732	of_type	outlet concentration measurement
+732	of_reactor	shock tube
+732	has_author	Author 48
+732	of_year	1986
+732	of_target	CH4
+732	has_similarity	S_0.2
+732	has_uncertainty	U_0.2
+733	of_type	jet stirred reactor measurement
+733	of_reactor	shock tube
+733	has_author	Author 66
+733	of_year	2013
+733	of_target	C7H8
+733	has_similarity	S_0.5
+733	has_uncertainty	U_0.5
+734	of_type	laminar burning velocity measurement
+734	of_reactor	flame
+734	has_author	Author 0
+734	of_year	1985
+734	of_target	CO2
+734	has_similarity	S_0.7
+734	has_uncertainty	U_0.7
+735	of_type	laminar burning velocity measurement
+735	of_reactor	flame
+735	has_author	Author 68
+735	of_year	1970
+735	of_target	H2S
+735	has_similarity	S_0.5
+735	has_uncertainty	U_0.5
+736	of_type	jet stirred reactor measurement
+736	of_reactor	stirred reactor
+736	has_author	Author 41
+736	of_year	2023
+736	of_target	C5H6
+736	has_similarity	S_0.8
+736	has_uncertainty	U_0.8
+737	of_type	jet stirred reactor measurement
+737	of_reactor	flow reactor
+737	has_author	Author 22
+737	of_year	2027
+737	of_target	CH3
+737	has_similarity	S_0.4
+737	has_uncertainty	U_0.4
+738	of_type	burner stabilized flame speciation measurement
+738	of_reactor	flame
+738	has_author	Author 32
+738	of_year	2020
+738	of_target	C7H8
+738	has_similarity	S_0.1
+738	has_uncertainty	U_0.1
+739	of_type	laminar burning velocity measurement
+739	of_reactor	flame
+739	has_author	Author 79
+739	of_year	1961
+739	of_target	H20
+739	has_similarity	S_1.0
+739	has_uncertainty	U_1.0
+740	of_type	jet stirred reactor measurement
+740	of_reactor	shock tube
+740	has_author	Author 13
+740	of_year	1990
+740	of_target	NH3
+740	has_similarity	S_0.3
+740	has_uncertainty	U_0.3
+741	of_type	ignition delay measurement
+741	of_reactor	rapid compression machine
+741	has_author	Author 68
+741	of_year	1979
+741	of_target	CO2
+741	has_similarity	S_0.6
+741	has_uncertainty	U_0.6
+742	of_type	concentration time profile measurement
+742	of_reactor	stirred reactor
+742	has_author	Author 81
+742	of_year	2014
+742	of_target	CH3
+742	has_similarity	S_0.8
+742	has_uncertainty	U_0.8
+743	of_type	ignition delay measurement
+743	of_reactor	rapid compression machine
+743	has_author	Author 58
+743	of_year	2001
+743	of_target	C6H6
+743	has_similarity	S_0.5
+743	has_uncertainty	U_0.5
+744	of_type	jet stirred reactor measurement
+744	of_reactor	stirred reactor
+744	has_author	Author 15
+744	of_year	1974
+744	of_target	H20
+744	has_similarity	S_0.1
+744	has_uncertainty	U_0.1
+745	of_type	burner stabilized flame speciation measurement
+745	of_reactor	flame
+745	has_author	Author 33
+745	of_year	1951
+745	of_target	H20
+745	has_similarity	S_0.0
+745	has_uncertainty	U_0.0
+746	of_type	concentration time profile measurement
+746	of_reactor	flow reactor
+746	has_author	Author 32
+746	of_year	2012
+746	of_target	CO2
+746	has_similarity	S_0.2
+746	has_uncertainty	U_0.2
+747	of_type	ignition delay measurement
+747	of_reactor	shock tube
+747	has_author	Author 62
+747	of_year	1992
+747	of_target	C5H6
+747	has_similarity	S_0.1
+747	has_uncertainty	U_0.1
+748	of_type	ignition delay measurement
+748	of_reactor	shock tube
+748	has_author	Author 42
+748	of_year	1973
+748	of_target	H20
+748	has_similarity	S_0.5
+748	has_uncertainty	U_0.5
+749	of_type	concentration time profile measurement
+749	of_reactor	stirred reactor
+749	has_author	Author 78
+749	of_year	1978
+749	of_target	H2
+749	has_similarity	S_0.2
+749	has_uncertainty	U_0.2
+750	of_type	concentration time profile measurement
+750	of_reactor	shock tube
+750	has_author	Author 9
+750	of_year	2017
+750	of_target	H2S
+750	has_similarity	S_0.8
+750	has_uncertainty	U_0.8
+751	of_type	laminar burning velocity measurement
+751	of_reactor	flame
+751	has_author	Author 63
+751	of_year	1958
+751	of_target	CH4
+751	has_similarity	S_0.7
+751	has_uncertainty	U_0.7
+752	of_type	ignition delay measurement
+752	of_reactor	rapid compression machine
+752	has_author	Author 68
+752	of_year	1972
+752	of_target	C5H6
+752	has_similarity	S_0.7
+752	has_uncertainty	U_0.7
+753	of_type	laminar burning velocity measurement
+753	of_reactor	flame
+753	has_author	Author 25
+753	of_year	2019
+753	of_target	H2
+753	has_similarity	S_0.0
+753	has_uncertainty	U_0.0
+754	of_type	jet stirred reactor measurement
+754	of_reactor	stirred reactor
+754	has_author	Author 70
+754	of_year	2013
+754	of_target	IDT
+754	has_similarity	S_0.8
+754	has_uncertainty	U_0.8
+755	of_type	ignition delay measurement
+755	of_reactor	shock tube
+755	has_author	Author 14
+755	of_year	2021
+755	of_target	C6H6
+755	has_similarity	S_0.3
+755	has_uncertainty	U_0.3
+756	of_type	ignition delay measurement
+756	of_reactor	rapid compression machine
+756	has_author	Author 36
+756	of_year	2024
+756	of_target	C7H8
+756	has_similarity	S_0.0
+756	has_uncertainty	U_0.0
+757	of_type	concentration time profile measurement
+757	of_reactor	flow reactor
+757	has_author	Author 64
+757	of_year	1971
+757	of_target	CH4
+757	has_similarity	S_0.4
+757	has_uncertainty	U_0.4
+758	of_type	ignition delay measurement
+758	of_reactor	rapid compression machine
+758	has_author	Author 54
+758	of_year	2011
+758	of_target	C0
+758	has_similarity	S_0.3
+758	has_uncertainty	U_0.3
+759	of_type	concentration time profile measurement
+759	of_reactor	flow reactor
+759	has_author	Author 1
+759	of_year	1972
+759	of_target	C0
+759	has_similarity	S_0.9
+759	has_uncertainty	U_0.9
+760	of_type	jet stirred reactor measurement
+760	of_reactor	shock tube
+760	has_author	Author 80
+760	of_year	1981
+760	of_target	C5H6
+760	has_similarity	S_0.8
+760	has_uncertainty	U_0.8
+761	of_type	concentration time profile measurement
+761	of_reactor	stirred reactor
+761	has_author	Author 11
+761	of_year	1970
+761	of_target	C6H6
+761	has_similarity	S_0.8
+761	has_uncertainty	U_0.8
+762	of_type	burner stabilized flame speciation measurement
+762	of_reactor	flame
+762	has_author	Author 52
+762	of_year	2015
+762	of_target	CH3
+762	has_similarity	S_0.5
+762	has_uncertainty	U_0.5
+763	of_type	burner stabilized flame speciation measurement
+763	of_reactor	flame
+763	has_author	Author 15
+763	of_year	1977
+763	of_target	C6H6
+763	has_similarity	S_0.8
+763	has_uncertainty	U_0.8
+764	of_type	ignition delay measurement
+764	of_reactor	shock tube
+764	has_author	Author 23
+764	of_year	2010
+764	of_target	C0
+764	has_similarity	S_0.9
+764	has_uncertainty	U_0.9
+765	of_type	laminar burning velocity measurement
+765	of_reactor	flame
+765	has_author	Author 40
+765	of_year	1960
+765	of_target	CH4
+765	has_similarity	S_0.5
+765	has_uncertainty	U_0.5
+766	of_type	burner stabilized flame speciation measurement
+766	of_reactor	flame
+766	has_author	Author 90
+766	of_year	2018
+766	of_target	CH4
+766	has_similarity	S_0.9
+766	has_uncertainty	U_0.9
+767	of_type	jet stirred reactor measurement
+767	of_reactor	shock tube
+767	has_author	Author 50
+767	of_year	2029
+767	of_target	CH3
+767	has_similarity	S_0.9
+767	has_uncertainty	U_0.9
+768	of_type	burner stabilized flame speciation measurement
+768	of_reactor	flame
+768	has_author	Author 63
+768	of_year	1957
+768	of_target	CH3
+768	has_similarity	S_0.5
+768	has_uncertainty	U_0.5
+769	of_type	ignition delay measurement
+769	of_reactor	rapid compression machine
+769	has_author	Author 79
+769	of_year	1970
+769	of_target	IDT
+769	has_similarity	S_0.9
+769	has_uncertainty	U_0.9
+770	of_type	ignition delay measurement
+770	of_reactor	rapid compression machine
+770	has_author	Author 50
+770	of_year	2021
+770	of_target	IDT
+770	has_similarity	S_0.5
+770	has_uncertainty	U_0.5
+771	of_type	outlet concentration measurement
+771	of_reactor	flow reactor
+771	has_author	Author 17
+771	of_year	2022
+771	of_target	CH4
+771	has_similarity	S_0.9
+771	has_uncertainty	U_0.9
+772	of_type	ignition delay measurement
+772	of_reactor	shock tube
+772	has_author	Author 27
+772	of_year	2014
+772	of_target	C7H8
+772	has_similarity	S_0.6
+772	has_uncertainty	U_0.6
+773	of_type	outlet concentration measurement
+773	of_reactor	flow reactor
+773	has_author	Author 46
+773	of_year	1970
+773	of_target	CH4
+773	has_similarity	S_0.2
+773	has_uncertainty	U_0.2
+774	of_type	burner stabilized flame speciation measurement
+774	of_reactor	flame
+774	has_author	Author 25
+774	of_year	2016
+774	of_target	C6H6
+774	has_similarity	S_0.0
+774	has_uncertainty	U_0.0
+775	of_type	ignition delay measurement
+775	of_reactor	shock tube
+775	has_author	Author 21
+775	of_year	1952
+775	of_target	CH3
+775	has_similarity	S_0.1
+775	has_uncertainty	U_0.1
+776	of_type	ignition delay measurement
+776	of_reactor	shock tube
+776	has_author	Author 33
+776	of_year	1952
+776	of_target	C0
+776	has_similarity	S_0.5
+776	has_uncertainty	U_0.5
+777	of_type	jet stirred reactor measurement
+777	of_reactor	stirred reactor
+777	has_author	Author 3
+777	of_year	1974
+777	of_target	CH3
+777	has_similarity	S_0.5
+777	has_uncertainty	U_0.5
+778	of_type	concentration time profile measurement
+778	of_reactor	stirred reactor
+778	has_author	Author 9
+778	of_year	2017
+778	of_target	CO2
+778	has_similarity	S_0.2
+778	has_uncertainty	U_0.2
+779	of_type	outlet concentration measurement
+779	of_reactor	flow reactor
+779	has_author	Author 83
+779	of_year	1954
+779	of_target	H2
+779	has_similarity	S_0.1
+779	has_uncertainty	U_0.1
+780	of_type	jet stirred reactor measurement
+780	of_reactor	shock tube
+780	has_author	Author 95
+780	of_year	1967
+780	of_target	C7H8
+780	has_similarity	S_0.7
+780	has_uncertainty	U_0.7
+781	of_type	outlet concentration measurement
+781	of_reactor	stirred reactor
+781	has_author	Author 46
+781	of_year	1975
+781	of_target	H2
+781	has_similarity	S_0.5
+781	has_uncertainty	U_0.5
+782	of_type	outlet concentration measurement
+782	of_reactor	flow reactor
+782	has_author	Author 6
+782	of_year	2003
+782	of_target	H20
+782	has_similarity	S_0.7
+782	has_uncertainty	U_0.7
+783	of_type	laminar burning velocity measurement
+783	of_reactor	flame
+783	has_author	Author 28
+783	of_year	2008
+783	of_target	C0
+783	has_similarity	S_0.9
+783	has_uncertainty	U_0.9
+784	of_type	concentration time profile measurement
+784	of_reactor	flow reactor
+784	has_author	Author 67
+784	of_year	1974
+784	of_target	H2S
+784	has_similarity	S_0.8
+784	has_uncertainty	U_0.8
+785	of_type	ignition delay measurement
+785	of_reactor	shock tube
+785	has_author	Author 63
+785	of_year	1958
+785	of_target	CH4
+785	has_similarity	S_0.4
+785	has_uncertainty	U_0.4
+786	of_type	outlet concentration measurement
+786	of_reactor	flow reactor
+786	has_author	Author 33
+786	of_year	1960
+786	of_target	C7H8
+786	has_similarity	S_0.0
+786	has_uncertainty	U_0.0
+787	of_type	outlet concentration measurement
+787	of_reactor	flow reactor
+787	has_author	Author 55
+787	of_year	1953
+787	of_target	H20
+787	has_similarity	S_0.4
+787	has_uncertainty	U_0.4
+788	of_type	outlet concentration measurement
+788	of_reactor	flow reactor
+788	has_author	Author 36
+788	of_year	2027
+788	of_target	NH3
+788	has_similarity	S_0.6
+788	has_uncertainty	U_0.6
+789	of_type	jet stirred reactor measurement
+789	of_reactor	shock tube
+789	has_author	Author 88
+789	of_year	1963
+789	of_target	IDT
+789	has_similarity	S_0.8
+789	has_uncertainty	U_0.8
+790	of_type	burner stabilized flame speciation measurement
+790	of_reactor	flame
+790	has_author	Author 54
+790	of_year	2015
+790	of_target	H2
+790	has_similarity	S_0.4
+790	has_uncertainty	U_0.4
+791	of_type	concentration time profile measurement
+791	of_reactor	shock tube
+791	has_author	Author 97
+791	of_year	1977
+791	of_target	C5H6
+791	has_similarity	S_0.1
+791	has_uncertainty	U_0.1
+792	of_type	outlet concentration measurement
+792	of_reactor	shock tube
+792	has_author	Author 40
+792	of_year	1970
+792	of_target	C0
+792	has_similarity	S_0.5
+792	has_uncertainty	U_0.5
+793	of_type	outlet concentration measurement
+793	of_reactor	shock tube
+793	has_author	Author 26
+793	of_year	1997
+793	of_target	CO2
+793	has_similarity	S_0.3
+793	has_uncertainty	U_0.3
+794	of_type	jet stirred reactor measurement
+794	of_reactor	stirred reactor
+794	has_author	Author 87
+794	of_year	1980
+794	of_target	H2
+794	has_similarity	S_0.6
+794	has_uncertainty	U_0.6
+795	of_type	concentration time profile measurement
+795	of_reactor	shock tube
+795	has_author	Author 51
+795	of_year	2022
+795	of_target	CO2
+795	has_similarity	S_0.6
+795	has_uncertainty	U_0.6
+796	of_type	burner stabilized flame speciation measurement
+796	of_reactor	flame
+796	has_author	Author 17
+796	of_year	2025
+796	of_target	CH3
+796	has_similarity	S_0.2
+796	has_uncertainty	U_0.2
+797	of_type	outlet concentration measurement
+797	of_reactor	stirred reactor
+797	has_author	Author 59
+797	of_year	1979
+797	of_target	C5H6
+797	has_similarity	S_0.5
+797	has_uncertainty	U_0.5
+798	of_type	laminar burning velocity measurement
+798	of_reactor	flame
+798	has_author	Author 41
+798	of_year	2022
+798	of_target	IDT
+798	has_similarity	S_0.2
+798	has_uncertainty	U_0.2
+799	of_type	burner stabilized flame speciation measurement
+799	of_reactor	flame
+799	has_author	Author 62
+799	of_year	1995
+799	of_target	C6H6
+799	has_similarity	S_0.3
+799	has_uncertainty	U_0.3
+800	of_type	outlet concentration measurement
+800	of_reactor	shock tube
+800	has_author	Author 97
+800	of_year	1971
+800	of_target	CH4
+800	has_similarity	S_0.4
+800	has_uncertainty	U_0.4
+801	of_type	outlet concentration measurement
+801	of_reactor	stirred reactor
+801	has_author	Author 69
+801	of_year	1988
+801	of_target	NH3
+801	has_similarity	S_0.0
+801	has_uncertainty	U_0.0
+802	of_type	concentration time profile measurement
+802	of_reactor	flow reactor
+802	has_author	Author 95
+802	of_year	1966
+802	of_target	IDT
+802	has_similarity	S_0.0
+802	has_uncertainty	U_0.0
+803	of_type	jet stirred reactor measurement
+803	of_reactor	stirred reactor
+803	has_author	Author 86
+803	of_year	2025
+803	of_target	CH4
+803	has_similarity	S_0.8
+803	has_uncertainty	U_0.8
+804	of_type	outlet concentration measurement
+804	of_reactor	shock tube
+804	has_author	Author 13
+804	of_year	1989
+804	of_target	C0
+804	has_similarity	S_0.7
+804	has_uncertainty	U_0.7
+805	of_type	burner stabilized flame speciation measurement
+805	of_reactor	flame
+805	has_author	Author 88
+805	of_year	1968
+805	of_target	C7H8
+805	has_similarity	S_0.8
+805	has_uncertainty	U_0.8
+806	of_type	outlet concentration measurement
+806	of_reactor	stirred reactor
+806	has_author	Author 75
+806	of_year	1965
+806	of_target	NH3
+806	has_similarity	S_0.2
+806	has_uncertainty	U_0.2
+807	of_type	burner stabilized flame speciation measurement
+807	of_reactor	flame
+807	has_author	Author 89
+807	of_year	1984
+807	of_target	NH3
+807	has_similarity	S_1.0
+807	has_uncertainty	U_1.0
+808	of_type	outlet concentration measurement
+808	of_reactor	flow reactor
+808	has_author	Author 72
+808	of_year	1950
+808	of_target	CH3
+808	has_similarity	S_0.9
+808	has_uncertainty	U_0.9
+809	of_type	ignition delay measurement
+809	of_reactor	shock tube
+809	has_author	Author 72
+809	of_year	1958
+809	of_target	CH4
+809	has_similarity	S_0.3
+809	has_uncertainty	U_0.3
+810	of_type	outlet concentration measurement
+810	of_reactor	flow reactor
+810	has_author	Author 69
+810	of_year	1987
+810	of_target	H2
+810	has_similarity	S_0.4
+810	has_uncertainty	U_0.4
+811	of_type	laminar burning velocity measurement
+811	of_reactor	flame
+811	has_author	Author 2
+811	of_year	1975
+811	of_target	C6H6
+811	has_similarity	S_0.5
+811	has_uncertainty	U_0.5
+812	of_type	laminar burning velocity measurement
+812	of_reactor	flame
+812	has_author	Author 59
+812	of_year	1977
+812	of_target	CO2
+812	has_similarity	S_0.8
+812	has_uncertainty	U_0.8
+813	of_type	ignition delay measurement
+813	of_reactor	shock tube
+813	has_author	Author 35
+813	of_year	1996
+813	of_target	C7H8
+813	has_similarity	S_0.4
+813	has_uncertainty	U_0.4
+814	of_type	ignition delay measurement
+814	of_reactor	shock tube
+814	has_author	Author 87
+814	of_year	1981
+814	of_target	H20
+814	has_similarity	S_0.4
+814	has_uncertainty	U_0.4
+815	of_type	outlet concentration measurement
+815	of_reactor	stirred reactor
+815	has_author	Author 39
+815	of_year	1958
+815	of_target	H20
+815	has_similarity	S_0.5
+815	has_uncertainty	U_0.5
+816	of_type	ignition delay measurement
+816	of_reactor	rapid compression machine
+816	has_author	Author 69
+816	of_year	1988
+816	of_target	H20
+816	has_similarity	S_0.1
+816	has_uncertainty	U_0.1
+817	of_type	burner stabilized flame speciation measurement
+817	of_reactor	flame
+817	has_author	Author 71
+817	of_year	1958
+817	of_target	C6H6
+817	has_similarity	S_0.1
+817	has_uncertainty	U_0.1
+818	of_type	concentration time profile measurement
+818	of_reactor	shock tube
+818	has_author	Author 55
+818	of_year	1956
+818	of_target	IDT
+818	has_similarity	S_0.9
+818	has_uncertainty	U_0.9
+819	of_type	laminar burning velocity measurement
+819	of_reactor	flame
+819	has_author	Author 60
+819	of_year	1968
+819	of_target	CH4
+819	has_similarity	S_0.8
+819	has_uncertainty	U_0.8
+820	of_type	laminar burning velocity measurement
+820	of_reactor	flame
+820	has_author	Author 21
+820	of_year	1952
+820	of_target	NH3
+820	has_similarity	S_0.1
+820	has_uncertainty	U_0.1
+821	of_type	jet stirred reactor measurement
+821	of_reactor	flow reactor
+821	has_author	Author 70
+821	of_year	2014
+821	of_target	C7H8
+821	has_similarity	S_0.0
+821	has_uncertainty	U_0.0
+822	of_type	jet stirred reactor measurement
+822	of_reactor	flow reactor
+822	has_author	Author 44
+822	of_year	1989
+822	of_target	H2
+822	has_similarity	S_0.0
+822	has_uncertainty	U_0.0
+823	of_type	ignition delay measurement
+823	of_reactor	shock tube
+823	has_author	Author 31
+823	of_year	2025
+823	of_target	C6H6
+823	has_similarity	S_0.3
+823	has_uncertainty	U_0.3
+824	of_type	burner stabilized flame speciation measurement
+824	of_reactor	flame
+824	has_author	Author 77
+824	of_year	2029
+824	of_target	CO2
+824	has_similarity	S_0.2
+824	has_uncertainty	U_0.2
+825	of_type	jet stirred reactor measurement
+825	of_reactor	stirred reactor
+825	has_author	Author 22
+825	of_year	2020
+825	of_target	CH4
+825	has_similarity	S_0.0
+825	has_uncertainty	U_0.0
+826	of_type	ignition delay measurement
+826	of_reactor	rapid compression machine
+826	has_author	Author 87
+826	of_year	1981
+826	of_target	H2S
+826	has_similarity	S_0.5
+826	has_uncertainty	U_0.5
+827	of_type	concentration time profile measurement
+827	of_reactor	shock tube
+827	has_author	Author 79
+827	of_year	1960
+827	of_target	IDT
+827	has_similarity	S_0.6
+827	has_uncertainty	U_0.6
+828	of_type	concentration time profile measurement
+828	of_reactor	stirred reactor
+828	has_author	Author 57
+828	of_year	2000
+828	of_target	H2S
+828	has_similarity	S_0.6
+828	has_uncertainty	U_0.6
+829	of_type	laminar burning velocity measurement
+829	of_reactor	flame
+829	has_author	Author 76
+829	of_year	2015
+829	of_target	C6H6
+829	has_similarity	S_0.5
+829	has_uncertainty	U_0.5
+830	of_type	concentration time profile measurement
+830	of_reactor	flow reactor
+830	has_author	Author 48
+830	of_year	1980
+830	of_target	CO2
+830	has_similarity	S_0.2
+830	has_uncertainty	U_0.2
+831	of_type	laminar burning velocity measurement
+831	of_reactor	flame
+831	has_author	Author 21
+831	of_year	1950
+831	of_target	H2S
+831	has_similarity	S_0.2
+831	has_uncertainty	U_0.2
+832	of_type	ignition delay measurement
+832	of_reactor	shock tube
+832	has_author	Author 13
+832	of_year	1990
+832	of_target	C6H6
+832	has_similarity	S_0.1
+832	has_uncertainty	U_0.1
+833	of_type	burner stabilized flame speciation measurement
+833	of_reactor	flame
+833	has_author	Author 26
+833	of_year	2000
+833	of_target	H20
+833	has_similarity	S_1.0
+833	has_uncertainty	U_1.0
+834	of_type	outlet concentration measurement
+834	of_reactor	stirred reactor
+834	has_author	Author 83
+834	of_year	1956
+834	of_target	C5H6
+834	has_similarity	S_1.0
+834	has_uncertainty	U_1.0
+835	of_type	laminar burning velocity measurement
+835	of_reactor	flame
+835	has_author	Author 65
+835	of_year	1975
+835	of_target	NH3
+835	has_similarity	S_0.2
+835	has_uncertainty	U_0.2
+836	of_type	concentration time profile measurement
+836	of_reactor	flow reactor
+836	has_author	Author 68
+836	of_year	1974
+836	of_target	C5H6
+836	has_similarity	S_1.0
+836	has_uncertainty	U_1.0
+837	of_type	burner stabilized flame speciation measurement
+837	of_reactor	flame
+837	has_author	Author 12
+837	of_year	1998
+837	of_target	CH3
+837	has_similarity	S_0.3
+837	has_uncertainty	U_0.3
+838	of_type	laminar burning velocity measurement
+838	of_reactor	flame
+838	has_author	Author 5
+838	of_year	2002
+838	of_target	C6H6
+838	has_similarity	S_0.1
+838	has_uncertainty	U_0.1
+839	of_type	jet stirred reactor measurement
+839	of_reactor	shock tube
+839	has_author	Author 90
+839	of_year	2013
+839	of_target	H20
+839	has_similarity	S_0.9
+839	has_uncertainty	U_0.9
+840	of_type	laminar burning velocity measurement
+840	of_reactor	flame
+840	has_author	Author 30
+840	of_year	1965
+840	of_target	C5H6
+840	has_similarity	S_0.1
+840	has_uncertainty	U_0.1
+841	of_type	burner stabilized flame speciation measurement
+841	of_reactor	flame
+841	has_author	Author 11
+841	of_year	1974
+841	of_target	H2S
+841	has_similarity	S_0.5
+841	has_uncertainty	U_0.5
+842	of_type	burner stabilized flame speciation measurement
+842	of_reactor	flame
+842	has_author	Author 56
+842	of_year	2010
+842	of_target	CH3
+842	has_similarity	S_0.5
+842	has_uncertainty	U_0.5
+843	of_type	outlet concentration measurement
+843	of_reactor	shock tube
+843	has_author	Author 36
+843	of_year	2023
+843	of_target	NH3
+843	has_similarity	S_0.8
+843	has_uncertainty	U_0.8
+844	of_type	jet stirred reactor measurement
+844	of_reactor	flow reactor
+844	has_author	Author 5
+844	of_year	2005
+844	of_target	CH3
+844	has_similarity	S_0.6
+844	has_uncertainty	U_0.6
+845	of_type	outlet concentration measurement
+845	of_reactor	flow reactor
+845	has_author	Author 77
+845	of_year	2022
+845	of_target	C6H6
+845	has_similarity	S_0.7
+845	has_uncertainty	U_0.7
+846	of_type	concentration time profile measurement
+846	of_reactor	shock tube
+846	has_author	Author 62
+846	of_year	1990
+846	of_target	C6H6
+846	has_similarity	S_0.5
+846	has_uncertainty	U_0.5
+847	of_type	outlet concentration measurement
+847	of_reactor	flow reactor
+847	has_author	Author 42
+847	of_year	1980
+847	of_target	CO2
+847	has_similarity	S_0.6
+847	has_uncertainty	U_0.6
+848	of_type	ignition delay measurement
+848	of_reactor	rapid compression machine
+848	has_author	Author 80
+848	of_year	1981
+848	of_target	C6H6
+848	has_similarity	S_0.1
+848	has_uncertainty	U_0.1
+849	of_type	ignition delay measurement
+849	of_reactor	rapid compression machine
+849	has_author	Author 29
+849	of_year	2011
+849	of_target	CH3
+849	has_similarity	S_1.0
+849	has_uncertainty	U_1.0
+850	of_type	ignition delay measurement
+850	of_reactor	shock tube
+850	has_author	Author 20
+850	of_year	1972
+850	of_target	C0
+850	has_similarity	S_0.6
+850	has_uncertainty	U_0.6
+851	of_type	laminar burning velocity measurement
+851	of_reactor	flame
+851	has_author	Author 36
+851	of_year	2027
+851	of_target	IDT
+851	has_similarity	S_0.1
+851	has_uncertainty	U_0.1
+852	of_type	laminar burning velocity measurement
+852	of_reactor	flame
+852	has_author	Author 59
+852	of_year	1977
+852	of_target	C7H8
+852	has_similarity	S_0.6
+852	has_uncertainty	U_0.6
+853	of_type	concentration time profile measurement
+853	of_reactor	stirred reactor
+853	has_author	Author 95
+853	of_year	1960
+853	of_target	CO2
+853	has_similarity	S_0.6
+853	has_uncertainty	U_0.6
+854	of_type	outlet concentration measurement
+854	of_reactor	stirred reactor
+854	has_author	Author 14
+854	of_year	2028
+854	of_target	CO2
+854	has_similarity	S_0.3
+854	has_uncertainty	U_0.3
+855	of_type	concentration time profile measurement
+855	of_reactor	shock tube
+855	has_author	Author 11
+855	of_year	1974
+855	of_target	H20
+855	has_similarity	S_0.1
+855	has_uncertainty	U_0.1
+856	of_type	outlet concentration measurement
+856	of_reactor	shock tube
+856	has_author	Author 56
+856	of_year	2015
+856	of_target	CO2
+856	has_similarity	S_0.4
+856	has_uncertainty	U_0.4
+857	of_type	outlet concentration measurement
+857	of_reactor	flow reactor
+857	has_author	Author 71
+857	of_year	1951
+857	of_target	C0
+857	has_similarity	S_0.6
+857	has_uncertainty	U_0.6
+858	of_type	outlet concentration measurement
+858	of_reactor	flow reactor
+858	has_author	Author 21
+858	of_year	1950
+858	of_target	H20
+858	has_similarity	S_0.7
+858	has_uncertainty	U_0.7
+859	of_type	concentration time profile measurement
+859	of_reactor	flow reactor
+859	has_author	Author 73
+859	of_year	1978
+859	of_target	H20
+859	has_similarity	S_0.4
+859	has_uncertainty	U_0.4
+860	of_type	concentration time profile measurement
+860	of_reactor	shock tube
+860	has_author	Author 2
+860	of_year	1972
+860	of_target	CH4
+860	has_similarity	S_0.9
+860	has_uncertainty	U_0.9
+861	of_type	burner stabilized flame speciation measurement
+861	of_reactor	flame
+861	has_author	Author 53
+861	of_year	1980
+861	of_target	NH3
+861	has_similarity	S_0.3
+861	has_uncertainty	U_0.3
+862	of_type	ignition delay measurement
+862	of_reactor	rapid compression machine
+862	has_author	Author 64
+862	of_year	1976
+862	of_target	H2
+862	has_similarity	S_0.1
+862	has_uncertainty	U_0.1
+863	of_type	concentration time profile measurement
+863	of_reactor	stirred reactor
+863	has_author	Author 40
+863	of_year	1961
+863	of_target	C7H8
+863	has_similarity	S_0.5
+863	has_uncertainty	U_0.5
+864	of_type	burner stabilized flame speciation measurement
+864	of_reactor	flame
+864	has_author	Author 86
+864	of_year	2030
+864	of_target	H2
+864	has_similarity	S_0.3
+864	has_uncertainty	U_0.3
+865	of_type	ignition delay measurement
+865	of_reactor	shock tube
+865	has_author	Author 24
+865	of_year	1999
+865	of_target	CO2
+865	has_similarity	S_0.2
+865	has_uncertainty	U_0.2
+866	of_type	outlet concentration measurement
+866	of_reactor	shock tube
+866	has_author	Author 46
+866	of_year	1974
+866	of_target	H20
+866	has_similarity	S_0.7
+866	has_uncertainty	U_0.7
+867	of_type	ignition delay measurement
+867	of_reactor	rapid compression machine
+867	has_author	Author 48
+867	of_year	1990
+867	of_target	CO2
+867	has_similarity	S_0.9
+867	has_uncertainty	U_0.9
+868	of_type	burner stabilized flame speciation measurement
+868	of_reactor	flame
+868	has_author	Author 28
+868	of_year	2000
+868	of_target	CH3
+868	has_similarity	S_0.8
+868	has_uncertainty	U_0.8
+869	of_type	jet stirred reactor measurement
+869	of_reactor	shock tube
+869	has_author	Author 9
+869	of_year	2018
+869	of_target	CH3
+869	has_similarity	S_0.4
+869	has_uncertainty	U_0.4
+870	of_type	ignition delay measurement
+870	of_reactor	rapid compression machine
+870	has_author	Author 87
+870	of_year	1984
+870	of_target	CH3
+870	has_similarity	S_0.4
+870	has_uncertainty	U_0.4
+871	of_type	ignition delay measurement
+871	of_reactor	shock tube
+871	has_author	Author 0
+871	of_year	1981
+871	of_target	H2
+871	has_similarity	S_0.7
+871	has_uncertainty	U_0.7
+872	of_type	outlet concentration measurement
+872	of_reactor	stirred reactor
+872	has_author	Author 46
+872	of_year	1979
+872	of_target	NH3
+872	has_similarity	S_0.9
+872	has_uncertainty	U_0.9
+873	of_type	concentration time profile measurement
+873	of_reactor	shock tube
+873	has_author	Author 0
+873	of_year	1983
+873	of_target	CH4
+873	has_similarity	S_0.4
+873	has_uncertainty	U_0.4
+874	of_type	jet stirred reactor measurement
+874	of_reactor	stirred reactor
+874	has_author	Author 75
+874	of_year	1965
+874	of_target	H2
+874	has_similarity	S_0.1
+874	has_uncertainty	U_0.1
+875	of_type	jet stirred reactor measurement
+875	of_reactor	flow reactor
+875	has_author	Author 94
+875	of_year	1980
+875	of_target	NH3
+875	has_similarity	S_0.5
+875	has_uncertainty	U_0.5
+876	of_type	outlet concentration measurement
+876	of_reactor	flow reactor
+876	has_author	Author 87
+876	of_year	1986
+876	of_target	C7H8
+876	has_similarity	S_0.4
+876	has_uncertainty	U_0.4
+877	of_type	laminar burning velocity measurement
+877	of_reactor	flame
+877	has_author	Author 82
+877	of_year	2006
+877	of_target	H2S
+877	has_similarity	S_0.9
+877	has_uncertainty	U_0.9
+878	of_type	burner stabilized flame speciation measurement
+878	of_reactor	flame
+878	has_author	Author 21
+878	of_year	1951
+878	of_target	CH3
+878	has_similarity	S_0.1
+878	has_uncertainty	U_0.1
+879	of_type	outlet concentration measurement
+879	of_reactor	stirred reactor
+879	has_author	Author 12
+879	of_year	1995
+879	of_target	C7H8
+879	has_similarity	S_0.9
+879	has_uncertainty	U_0.9
+880	of_type	outlet concentration measurement
+880	of_reactor	stirred reactor
+880	has_author	Author 18
+880	of_year	1992
+880	of_target	H2
+880	has_similarity	S_0.7
+880	has_uncertainty	U_0.7
+881	of_type	burner stabilized flame speciation measurement
+881	of_reactor	flame
+881	has_author	Author 8
+881	of_year	1967
+881	of_target	C6H6
+881	has_similarity	S_0.7
+881	has_uncertainty	U_0.7
+882	of_type	outlet concentration measurement
+882	of_reactor	shock tube
+882	has_author	Author 6
+882	of_year	2000
+882	of_target	C7H8
+882	has_similarity	S_0.6
+882	has_uncertainty	U_0.6
+883	of_type	concentration time profile measurement
+883	of_reactor	flow reactor
+883	has_author	Author 83
+883	of_year	1960
+883	of_target	H2S
+883	has_similarity	S_0.8
+883	has_uncertainty	U_0.8
+884	of_type	jet stirred reactor measurement
+884	of_reactor	shock tube
+884	has_author	Author 48
+884	of_year	1986
+884	of_target	IDT
+884	has_similarity	S_0.6
+884	has_uncertainty	U_0.6
+885	of_type	jet stirred reactor measurement
+885	of_reactor	stirred reactor
+885	has_author	Author 97
+885	of_year	1976
+885	of_target	H2
+885	has_similarity	S_0.3
+885	has_uncertainty	U_0.3
+886	of_type	burner stabilized flame speciation measurement
+886	of_reactor	flame
+886	has_author	Author 86
+886	of_year	2028
+886	of_target	H2
+886	has_similarity	S_0.4
+886	has_uncertainty	U_0.4
+887	of_type	laminar burning velocity measurement
+887	of_reactor	flame
+887	has_author	Author 11
+887	of_year	1978
+887	of_target	H2S
+887	has_similarity	S_0.9
+887	has_uncertainty	U_0.9
+888	of_type	laminar burning velocity measurement
+888	of_reactor	flame
+888	has_author	Author 4
+888	of_year	1980
+888	of_target	C5H6
+888	has_similarity	S_0.8
+888	has_uncertainty	U_0.8
+889	of_type	concentration time profile measurement
+889	of_reactor	stirred reactor
+889	has_author	Author 47
+889	of_year	1973
+889	of_target	C0
+889	has_similarity	S_0.6
+889	has_uncertainty	U_0.6
+890	of_type	ignition delay measurement
+890	of_reactor	rapid compression machine
+890	has_author	Author 89
+890	of_year	1981
+890	of_target	H2S
+890	has_similarity	S_0.5
+890	has_uncertainty	U_0.5
+891	of_type	outlet concentration measurement
+891	of_reactor	stirred reactor
+891	has_author	Author 77
+891	of_year	2025
+891	of_target	H2S
+891	has_similarity	S_0.6
+891	has_uncertainty	U_0.6
+892	of_type	burner stabilized flame speciation measurement
+892	of_reactor	flame
+892	has_author	Author 66
+892	of_year	2016
+892	of_target	C5H6
+892	has_similarity	S_0.3
+892	has_uncertainty	U_0.3
+893	of_type	ignition delay measurement
+893	of_reactor	rapid compression machine
+893	has_author	Author 9
+893	of_year	2010
+893	of_target	CH3
+893	has_similarity	S_0.3
+893	has_uncertainty	U_0.3
+894	of_type	concentration time profile measurement
+894	of_reactor	stirred reactor
+894	has_author	Author 46
+894	of_year	1972
+894	of_target	CH4
+894	has_similarity	S_0.0
+894	has_uncertainty	U_0.0
+895	of_type	jet stirred reactor measurement
+895	of_reactor	shock tube
+895	has_author	Author 18
+895	of_year	2000
+895	of_target	C0
+895	has_similarity	S_0.8
+895	has_uncertainty	U_0.8
+896	of_type	concentration time profile measurement
+896	of_reactor	stirred reactor
+896	has_author	Author 25
+896	of_year	2015
+896	of_target	H2S
+896	has_similarity	S_0.5
+896	has_uncertainty	U_0.5
+897	of_type	jet stirred reactor measurement
+897	of_reactor	stirred reactor
+897	has_author	Author 69
+897	of_year	1984
+897	of_target	H2
+897	has_similarity	S_0.2
+897	has_uncertainty	U_0.2
+898	of_type	concentration time profile measurement
+898	of_reactor	flow reactor
+898	has_author	Author 95
+898	of_year	1966
+898	of_target	C5H6
+898	has_similarity	S_0.5
+898	has_uncertainty	U_0.5
+899	of_type	jet stirred reactor measurement
+899	of_reactor	stirred reactor
+899	has_author	Author 29
+899	of_year	2017
+899	of_target	NH3
+899	has_similarity	S_0.6
+899	has_uncertainty	U_0.6
+900	of_type	burner stabilized flame speciation measurement
+900	of_reactor	flame
+900	has_author	Author 1
+900	of_year	1972
+900	of_target	CH3
+900	has_similarity	S_0.9
+900	has_uncertainty	U_0.9
+901	of_type	laminar burning velocity measurement
+901	of_reactor	flame
+901	has_author	Author 69
+901	of_year	1987
+901	of_target	CH3
+901	has_similarity	S_0.1
+901	has_uncertainty	U_0.1
+902	of_type	laminar burning velocity measurement
+902	of_reactor	flame
+902	has_author	Author 45
+902	of_year	1981
+902	of_target	H20
+902	has_similarity	S_0.3
+902	has_uncertainty	U_0.3
+903	of_type	jet stirred reactor measurement
+903	of_reactor	shock tube
+903	has_author	Author 0
+903	of_year	1985
+903	of_target	NH3
+903	has_similarity	S_0.7
+903	has_uncertainty	U_0.7
+904	of_type	ignition delay measurement
+904	of_reactor	rapid compression machine
+904	has_author	Author 67
+904	of_year	1971
+904	of_target	CH4
+904	has_similarity	S_0.1
+904	has_uncertainty	U_0.1
+905	of_type	outlet concentration measurement
+905	of_reactor	shock tube
+905	has_author	Author 55
+905	of_year	1952
+905	of_target	NH3
+905	has_similarity	S_0.0
+905	has_uncertainty	U_0.0
+906	of_type	jet stirred reactor measurement
+906	of_reactor	flow reactor
+906	has_author	Author 80
+906	of_year	1983
+906	of_target	C0
+906	has_similarity	S_0.5
+906	has_uncertainty	U_0.5
+907	of_type	laminar burning velocity measurement
+907	of_reactor	flame
+907	has_author	Author 58
+907	of_year	2009
+907	of_target	C5H6
+907	has_similarity	S_0.1
+907	has_uncertainty	U_0.1
+908	of_type	ignition delay measurement
+908	of_reactor	rapid compression machine
+908	has_author	Author 50
+908	of_year	2029
+908	of_target	C6H6
+908	has_similarity	S_0.1
+908	has_uncertainty	U_0.1
+909	of_type	outlet concentration measurement
+909	of_reactor	flow reactor
+909	has_author	Author 61
+909	of_year	1966
+909	of_target	C5H6
+909	has_similarity	S_0.9
+909	has_uncertainty	U_0.9
+910	of_type	concentration time profile measurement
+910	of_reactor	stirred reactor
+910	has_author	Author 6
+910	of_year	2003
+910	of_target	C7H8
+910	has_similarity	S_0.7
+910	has_uncertainty	U_0.7
+911	of_type	ignition delay measurement
+911	of_reactor	rapid compression machine
+911	has_author	Author 39
+911	of_year	1958
+911	of_target	CH4
+911	has_similarity	S_0.7
+911	has_uncertainty	U_0.7
+912	of_type	concentration time profile measurement
+912	of_reactor	shock tube
+912	has_author	Author 52
+912	of_year	2016
+912	of_target	CH3
+912	has_similarity	S_0.7
+912	has_uncertainty	U_0.7
+913	of_type	laminar burning velocity measurement
+913	of_reactor	flame
+913	has_author	Author 54
+913	of_year	2020
+913	of_target	C7H8
+913	has_similarity	S_0.8
+913	has_uncertainty	U_0.8
+914	of_type	ignition delay measurement
+914	of_reactor	rapid compression machine
+914	has_author	Author 3
+914	of_year	1978
+914	of_target	CH3
+914	has_similarity	S_0.2
+914	has_uncertainty	U_0.2
+915	of_type	jet stirred reactor measurement
+915	of_reactor	flow reactor
+915	has_author	Author 51
+915	of_year	2026
+915	of_target	CH4
+915	has_similarity	S_0.5
+915	has_uncertainty	U_0.5
+916	of_type	laminar burning velocity measurement
+916	of_reactor	flame
+916	has_author	Author 3
+916	of_year	1975
+916	of_target	C0
+916	has_similarity	S_0.3
+916	has_uncertainty	U_0.3
+917	of_type	outlet concentration measurement
+917	of_reactor	flow reactor
+917	has_author	Author 0
+917	of_year	1983
+917	of_target	C5H6
+917	has_similarity	S_0.0
+917	has_uncertainty	U_0.0
+918	of_type	outlet concentration measurement
+918	of_reactor	shock tube
+918	has_author	Author 69
+918	of_year	1987
+918	of_target	IDT
+918	has_similarity	S_0.5
+918	has_uncertainty	U_0.5
+919	of_type	concentration time profile measurement
+919	of_reactor	shock tube
+919	has_author	Author 35
+919	of_year	1993
+919	of_target	C7H8
+919	has_similarity	S_1.0
+919	has_uncertainty	U_1.0
+920	of_type	ignition delay measurement
+920	of_reactor	rapid compression machine
+920	has_author	Author 33
+920	of_year	1956
+920	of_target	H20
+920	has_similarity	S_0.1
+920	has_uncertainty	U_0.1
+921	of_type	concentration time profile measurement
+921	of_reactor	flow reactor
+921	has_author	Author 63
+921	of_year	1952
+921	of_target	H2
+921	has_similarity	S_0.4
+921	has_uncertainty	U_0.4
+922	of_type	burner stabilized flame speciation measurement
+922	of_reactor	flame
+922	has_author	Author 90
+922	of_year	2017
+922	of_target	H2
+922	has_similarity	S_0.2
+922	has_uncertainty	U_0.2
+923	of_type	ignition delay measurement
+923	of_reactor	rapid compression machine
+923	has_author	Author 3
+923	of_year	1970
+923	of_target	H20
+923	has_similarity	S_0.3
+923	has_uncertainty	U_0.3
+924	of_type	ignition delay measurement
+924	of_reactor	rapid compression machine
+924	has_author	Author 17
+924	of_year	2020
+924	of_target	H2
+924	has_similarity	S_0.9
+924	has_uncertainty	U_0.9
+925	of_type	laminar burning velocity measurement
+925	of_reactor	flame
+925	has_author	Author 81
+925	of_year	2014
+925	of_target	C6H6
+925	has_similarity	S_0.2
+925	has_uncertainty	U_0.2
+926	of_type	jet stirred reactor measurement
+926	of_reactor	stirred reactor
+926	has_author	Author 17
+926	of_year	2030
+926	of_target	NH3
+926	has_similarity	S_0.4
+926	has_uncertainty	U_0.4
+927	of_type	concentration time profile measurement
+927	of_reactor	flow reactor
+927	has_author	Author 10
+927	of_year	2018
+927	of_target	CH3
+927	has_similarity	S_0.5
+927	has_uncertainty	U_0.5
+928	of_type	concentration time profile measurement
+928	of_reactor	shock tube
+928	has_author	Author 9
+928	of_year	2017
+928	of_target	H2
+928	has_similarity	S_0.4
+928	has_uncertainty	U_0.4
+929	of_type	outlet concentration measurement
+929	of_reactor	flow reactor
+929	has_author	Author 94
+929	of_year	1978
+929	of_target	NH3
+929	has_similarity	S_0.0
+929	has_uncertainty	U_0.0
+930	of_type	burner stabilized flame speciation measurement
+930	of_reactor	flame
+930	has_author	Author 44
+930	of_year	1981
+930	of_target	C6H6
+930	has_similarity	S_0.6
+930	has_uncertainty	U_0.6
+931	of_type	burner stabilized flame speciation measurement
+931	of_reactor	flame
+931	has_author	Author 87
+931	of_year	1980
+931	of_target	C7H8
+931	has_similarity	S_0.3
+931	has_uncertainty	U_0.3
+932	of_type	laminar burning velocity measurement
+932	of_reactor	flame
+932	has_author	Author 16
+932	of_year	2006
+932	of_target	IDT
+932	has_similarity	S_0.9
+932	has_uncertainty	U_0.9
+933	of_type	outlet concentration measurement
+933	of_reactor	shock tube
+933	has_author	Author 4
+933	of_year	1989
+933	of_target	CH3
+933	has_similarity	S_0.7
+933	has_uncertainty	U_0.7
+934	of_type	concentration time profile measurement
+934	of_reactor	stirred reactor
+934	has_author	Author 43
+934	of_year	1979
+934	of_target	CO2
+934	has_similarity	S_0.7
+934	has_uncertainty	U_0.7
+935	of_type	laminar burning velocity measurement
+935	of_reactor	flame
+935	has_author	Author 45
+935	of_year	1982
+935	of_target	C7H8
+935	has_similarity	S_0.2
+935	has_uncertainty	U_0.2
+936	of_type	ignition delay measurement
+936	of_reactor	shock tube
+936	has_author	Author 35
+936	of_year	1992
+936	of_target	C5H6
+936	has_similarity	S_0.1
+936	has_uncertainty	U_0.1
+937	of_type	jet stirred reactor measurement
+937	of_reactor	stirred reactor
+937	has_author	Author 19
+937	of_year	2019
+937	of_target	NH3
+937	has_similarity	S_0.7
+937	has_uncertainty	U_0.7
+938	of_type	laminar burning velocity measurement
+938	of_reactor	flame
+938	has_author	Author 12
+938	of_year	1995
+938	of_target	C7H8
+938	has_similarity	S_0.1
+938	has_uncertainty	U_0.1
+939	of_type	concentration time profile measurement
+939	of_reactor	shock tube
+939	has_author	Author 55
+939	of_year	1960
+939	of_target	CH4
+939	has_similarity	S_0.4
+939	has_uncertainty	U_0.4
+940	of_type	jet stirred reactor measurement
+940	of_reactor	flow reactor
+940	has_author	Author 27
+940	of_year	2012
+940	of_target	C7H8
+940	has_similarity	S_0.1
+940	has_uncertainty	U_0.1
+941	of_type	jet stirred reactor measurement
+941	of_reactor	shock tube
+941	has_author	Author 32
+941	of_year	2017
+941	of_target	CH3
+941	has_similarity	S_0.2
+941	has_uncertainty	U_0.2
+942	of_type	concentration time profile measurement
+942	of_reactor	shock tube
+942	has_author	Author 55
+942	of_year	1953
+942	of_target	C5H6
+942	has_similarity	S_0.8
+942	has_uncertainty	U_0.8
+943	of_type	concentration time profile measurement
+943	of_reactor	shock tube
+943	has_author	Author 51
+943	of_year	2024
+943	of_target	CH3
+943	has_similarity	S_0.4
+943	has_uncertainty	U_0.4
+944	of_type	ignition delay measurement
+944	of_reactor	shock tube
+944	has_author	Author 23
+944	of_year	2010
+944	of_target	CH4
+944	has_similarity	S_0.7
+944	has_uncertainty	U_0.7
+945	of_type	concentration time profile measurement
+945	of_reactor	stirred reactor
+945	has_author	Author 59
+945	of_year	1971
+945	of_target	C0
+945	has_similarity	S_0.0
+945	has_uncertainty	U_0.0
+946	of_type	ignition delay measurement
+946	of_reactor	rapid compression machine
+946	has_author	Author 92
+946	of_year	2009
+946	of_target	IDT
+946	has_similarity	S_0.7
+946	has_uncertainty	U_0.7
+947	of_type	ignition delay measurement
+947	of_reactor	rapid compression machine
+947	has_author	Author 61
+947	of_year	1970
+947	of_target	CO2
+947	has_similarity	S_0.3
+947	has_uncertainty	U_0.3
+948	of_type	burner stabilized flame speciation measurement
+948	of_reactor	flame
+948	has_author	Author 65
+948	of_year	1978
+948	of_target	H20
+948	has_similarity	S_0.5
+948	has_uncertainty	U_0.5
+949	of_type	jet stirred reactor measurement
+949	of_reactor	shock tube
+949	has_author	Author 61
+949	of_year	1961
+949	of_target	C7H8
+949	has_similarity	S_0.9
+949	has_uncertainty	U_0.9
+950	of_type	outlet concentration measurement
+950	of_reactor	shock tube
+950	has_author	Author 46
+950	of_year	1976
+950	of_target	IDT
+950	has_similarity	S_0.3
+950	has_uncertainty	U_0.3
+951	of_type	jet stirred reactor measurement
+951	of_reactor	flow reactor
+951	has_author	Author 56
+951	of_year	2016
+951	of_target	C0
+951	has_similarity	S_0.9
+951	has_uncertainty	U_0.9
+952	of_type	outlet concentration measurement
+952	of_reactor	flow reactor
+952	has_author	Author 15
+952	of_year	1977
+952	of_target	C7H8
+952	has_similarity	S_0.3
+952	has_uncertainty	U_0.3
+953	of_type	outlet concentration measurement
+953	of_reactor	flow reactor
+953	has_author	Author 80
+953	of_year	1990
+953	of_target	C5H6
+953	has_similarity	S_0.8
+953	has_uncertainty	U_0.8
+954	of_type	concentration time profile measurement
+954	of_reactor	stirred reactor
+954	has_author	Author 90
+954	of_year	2013
+954	of_target	CH4
+954	has_similarity	S_0.9
+954	has_uncertainty	U_0.9
+955	of_type	ignition delay measurement
+955	of_reactor	shock tube
+955	has_author	Author 13
+955	of_year	1988
+955	of_target	CH3
+955	has_similarity	S_0.5
+955	has_uncertainty	U_0.5
+956	of_type	ignition delay measurement
+956	of_reactor	shock tube
+956	has_author	Author 34
+956	of_year	2015
+956	of_target	CH4
+956	has_similarity	S_0.7
+956	has_uncertainty	U_0.7
+957	of_type	burner stabilized flame speciation measurement
+957	of_reactor	flame
+957	has_author	Author 89
+957	of_year	1989
+957	of_target	NH3
+957	has_similarity	S_0.9
+957	has_uncertainty	U_0.9
+958	of_type	laminar burning velocity measurement
+958	of_reactor	flame
+958	has_author	Author 35
+958	of_year	1993
+958	of_target	C0
+958	has_similarity	S_0.4
+958	has_uncertainty	U_0.4
+959	of_type	burner stabilized flame speciation measurement
+959	of_reactor	flame
+959	has_author	Author 51
+959	of_year	2029
+959	of_target	CO2
+959	has_similarity	S_0.9
+959	has_uncertainty	U_0.9
+960	of_type	laminar burning velocity measurement
+960	of_reactor	flame
+960	has_author	Author 69
+960	of_year	1987
+960	of_target	CH3
+960	has_similarity	S_0.1
+960	has_uncertainty	U_0.1
+961	of_type	ignition delay measurement
+961	of_reactor	shock tube
+961	has_author	Author 98
+961	of_year	2028
+961	of_target	NH3
+961	has_similarity	S_0.8
+961	has_uncertainty	U_0.8
+962	of_type	concentration time profile measurement
+962	of_reactor	shock tube
+962	has_author	Author 56
+962	of_year	2015
+962	of_target	H2S
+962	has_similarity	S_0.9
+962	has_uncertainty	U_0.9
+963	of_type	ignition delay measurement
+963	of_reactor	shock tube
+963	has_author	Author 38
+963	of_year	2011
+963	of_target	H2
+963	has_similarity	S_0.5
+963	has_uncertainty	U_0.5
+964	of_type	concentration time profile measurement
+964	of_reactor	flow reactor
+964	has_author	Author 96
+964	of_year	2027
+964	of_target	C5H6
+964	has_similarity	S_0.4
+964	has_uncertainty	U_0.4
+965	of_type	jet stirred reactor measurement
+965	of_reactor	stirred reactor
+965	has_author	Author 51
+965	of_year	2028
+965	of_target	C6H6
+965	has_similarity	S_0.7
+965	has_uncertainty	U_0.7
+966	of_type	outlet concentration measurement
+966	of_reactor	stirred reactor
+966	has_author	Author 88
+966	of_year	1963
+966	of_target	H20
+966	has_similarity	S_0.7
+966	has_uncertainty	U_0.7
+967	of_type	jet stirred reactor measurement
+967	of_reactor	shock tube
+967	has_author	Author 14
+967	of_year	2025
+967	of_target	IDT
+967	has_similarity	S_0.2
+967	has_uncertainty	U_0.2
+968	of_type	burner stabilized flame speciation measurement
+968	of_reactor	flame
+968	has_author	Author 15
+968	of_year	1973
+968	of_target	IDT
+968	has_similarity	S_0.1
+968	has_uncertainty	U_0.1
+969	of_type	burner stabilized flame speciation measurement
+969	of_reactor	flame
+969	has_author	Author 82
+969	of_year	2001
+969	of_target	C0
+969	has_similarity	S_0.1
+969	has_uncertainty	U_0.1
+970	of_type	outlet concentration measurement
+970	of_reactor	stirred reactor
+970	has_author	Author 83
+970	of_year	1956
+970	of_target	C0
+970	has_similarity	S_0.0
+970	has_uncertainty	U_0.0
+971	of_type	outlet concentration measurement
+971	of_reactor	stirred reactor
+971	has_author	Author 51
+971	of_year	2028
+971	of_target	C7H8
+971	has_similarity	S_0.2
+971	has_uncertainty	U_0.2
+972	of_type	burner stabilized flame speciation measurement
+972	of_reactor	flame
+972	has_author	Author 47
+972	of_year	1976
+972	of_target	H2S
+972	has_similarity	S_0.4
+972	has_uncertainty	U_0.4
+973	of_type	jet stirred reactor measurement
+973	of_reactor	shock tube
+973	has_author	Author 28
+973	of_year	2010
+973	of_target	C0
+973	has_similarity	S_0.5
+973	has_uncertainty	U_0.5
+974	of_type	burner stabilized flame speciation measurement
+974	of_reactor	flame
+974	has_author	Author 12
+974	of_year	1998
+974	of_target	C0
+974	has_similarity	S_1.0
+974	has_uncertainty	U_1.0
+975	of_type	ignition delay measurement
+975	of_reactor	rapid compression machine
+975	has_author	Author 20
+975	of_year	1978
+975	of_target	IDT
+975	has_similarity	S_1.0
+975	has_uncertainty	U_1.0
+976	of_type	jet stirred reactor measurement
+976	of_reactor	shock tube
+976	has_author	Author 16
+976	of_year	2007
+976	of_target	C0
+976	has_similarity	S_0.6
+976	has_uncertainty	U_0.6
+977	of_type	laminar burning velocity measurement
+977	of_reactor	flame
+977	has_author	Author 53
+977	of_year	1979
+977	of_target	H20
+977	has_similarity	S_0.8
+977	has_uncertainty	U_0.8
+978	of_type	laminar burning velocity measurement
+978	of_reactor	flame
+978	has_author	Author 49
+978	of_year	1954
+978	of_target	C7H8
+978	has_similarity	S_0.3
+978	has_uncertainty	U_0.3
+979	of_type	concentration time profile measurement
+979	of_reactor	shock tube
+979	has_author	Author 19
+979	of_year	2017
+979	of_target	CH3
+979	has_similarity	S_0.6
+979	has_uncertainty	U_0.6
+980	of_type	laminar burning velocity measurement
+980	of_reactor	flame
+980	has_author	Author 59
+980	of_year	1972
+980	of_target	CH3
+980	has_similarity	S_0.5
+980	has_uncertainty	U_0.5
+981	of_type	concentration time profile measurement
+981	of_reactor	flow reactor
+981	has_author	Author 50
+981	of_year	2025
+981	of_target	H20
+981	has_similarity	S_0.2
+981	has_uncertainty	U_0.2
+982	of_type	ignition delay measurement
+982	of_reactor	rapid compression machine
+982	has_author	Author 44
+982	of_year	1981
+982	of_target	CH4
+982	has_similarity	S_0.9
+982	has_uncertainty	U_0.9
+983	of_type	jet stirred reactor measurement
+983	of_reactor	stirred reactor
+983	has_author	Author 34
+983	of_year	2012
+983	of_target	NH3
+983	has_similarity	S_0.8
+983	has_uncertainty	U_0.8
+984	of_type	concentration time profile measurement
+984	of_reactor	shock tube
+984	has_author	Author 45
+984	of_year	1983
+984	of_target	IDT
+984	has_similarity	S_0.5
+984	has_uncertainty	U_0.5
+985	of_type	burner stabilized flame speciation measurement
+985	of_reactor	flame
+985	has_author	Author 66
+985	of_year	2018
+985	of_target	C0
+985	has_similarity	S_0.5
+985	has_uncertainty	U_0.5
+986	of_type	laminar burning velocity measurement
+986	of_reactor	flame
+986	has_author	Author 65
+986	of_year	1977
+986	of_target	H20
+986	has_similarity	S_1.0
+986	has_uncertainty	U_1.0
+987	of_type	jet stirred reactor measurement
+987	of_reactor	stirred reactor
+987	has_author	Author 52
+987	of_year	2016
+987	of_target	IDT
+987	has_similarity	S_0.7
+987	has_uncertainty	U_0.7
+988	of_type	concentration time profile measurement
+988	of_reactor	shock tube
+988	has_author	Author 5
+988	of_year	2001
+988	of_target	H20
+988	has_similarity	S_0.7
+988	has_uncertainty	U_0.7
+989	of_type	laminar burning velocity measurement
+989	of_reactor	flame
+989	has_author	Author 64
+989	of_year	1976
+989	of_target	C6H6
+989	has_similarity	S_0.0
+989	has_uncertainty	U_0.0
+990	of_type	concentration time profile measurement
+990	of_reactor	stirred reactor
+990	has_author	Author 15
+990	of_year	1970
+990	of_target	H2
+990	has_similarity	S_0.4
+990	has_uncertainty	U_0.4
+991	of_type	burner stabilized flame speciation measurement
+991	of_reactor	flame
+991	has_author	Author 79
+991	of_year	1969
+991	of_target	H2
+991	has_similarity	S_0.4
+991	has_uncertainty	U_0.4
+992	of_type	concentration time profile measurement
+992	of_reactor	stirred reactor
+992	has_author	Author 37
+992	of_year	2011
+992	of_target	IDT
+992	has_similarity	S_0.8
+992	has_uncertainty	U_0.8
+993	of_type	outlet concentration measurement
+993	of_reactor	stirred reactor
+993	has_author	Author 22
+993	of_year	2020
+993	of_target	H2
+993	has_similarity	S_0.7
+993	has_uncertainty	U_0.7
+994	of_type	burner stabilized flame speciation measurement
+994	of_reactor	flame
+994	has_author	Author 95
+994	of_year	1966
+994	of_target	CH3
+994	has_similarity	S_0.3
+994	has_uncertainty	U_0.3
+995	of_type	concentration time profile measurement
+995	of_reactor	shock tube
+995	has_author	Author 47
+995	of_year	1975
+995	of_target	IDT
+995	has_similarity	S_0.7
+995	has_uncertainty	U_0.7
+996	of_type	laminar burning velocity measurement
+996	of_reactor	flame
+996	has_author	Author 6
+996	of_year	2009
+996	of_target	NH3
+996	has_similarity	S_0.9
+996	has_uncertainty	U_0.9
+997	of_type	burner stabilized flame speciation measurement
+997	of_reactor	flame
+997	has_author	Author 59
+997	of_year	1979
+997	of_target	C0
+997	has_similarity	S_1.0
+997	has_uncertainty	U_1.0
+998	of_type	burner stabilized flame speciation measurement
+998	of_reactor	flame
+998	has_author	Author 41
+998	of_year	2025
+998	of_target	C6H6
+998	has_similarity	S_0.1
+998	has_uncertainty	U_0.1
+999	of_type	concentration time profile measurement
+999	of_reactor	stirred reactor
+999	has_author	Author 58
+999	of_year	2005
+999	of_target	IDT
+999	has_similarity	S_0.8
+999	has_uncertainty	U_0.8
